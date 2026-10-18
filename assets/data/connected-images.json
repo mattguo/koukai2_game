@@ -1443,7 +1443,7 @@
     },
     {
       "id": "connected-ack",
-      "path": "images/connected-ack.png",
+      "path": "images/connected-ack-transparent.png",
       "kind": "captured-acknowledgement",
       "width": 16,
       "height": 16,
