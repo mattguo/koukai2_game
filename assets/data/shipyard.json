@@ -1,0 +1,777 @@
+{
+ "version": 1,
+ "assets": [
+  {
+   "id": "shipyard-panel",
+   "path": "images/shipyard-panel.png",
+   "kind": "decoded-window",
+   "width": 368,
+   "height": 152,
+   "sha256": "640bd6f73527fb26cac1e50317849764f9f6d59530e8a923f6e09380d2f1f1b8",
+   "origin": [
+    104,
+    176
+   ],
+   "source": {
+    "name": "GRAPH.DAT",
+    "member": 22,
+    "sha256": "bbb0762c1452e56d40aebdcc9c03763159b6146b5aecdb904dbeaad9555b720a"
+   },
+   "verification": {
+    "capture": "docs/evidence/shipyard-info.png",
+    "borderMismatches": 0
+   }
+  },
+  {
+   "id": "shipyard-pictures",
+   "path": "images/shipyard-pictures.png",
+   "kind": "decoded-pictures",
+   "width": 640,
+   "height": 480,
+   "sha256": "7682bf8a07f7cb4e6c06003ee3351f78f56b81072a98321e23f7d12f988144ef",
+   "cell": [
+    128,
+    96
+   ],
+   "columns": 5,
+   "origin": [
+    120,
+    200
+   ],
+   "source": {
+    "name": "GRAPH.DAT",
+    "members": "28..52",
+    "sha256": "bbb0762c1452e56d40aebdcc9c03763159b6146b5aecdb904dbeaad9555b720a"
+   },
+   "verification": {
+    "capture": "docs/evidence/shipyard-info.png",
+    "type": 9,
+    "mismatches": 0
+   }
+  },
+  {
+   "id": "figurehead-icons",
+   "path": "images/figurehead-icons.png",
+   "kind": "decoded-pictures",
+   "width": 480,
+   "height": 48,
+   "sha256": "7d881809cb07bed52d908ef0b8b4ed497597dcf1788c010787262a611e2def23",
+   "cell": [
+    48,
+    48
+   ],
+   "columns": 10,
+   "origin": [
+    408,
+    196
+   ],
+   "source": {
+    "name": "TRANSIT.DAT",
+    "offset": "0x1980 + 0x480 x id",
+    "sha256": "25157ac8567e3f5fc2d26f13220e29188f9c58645966bf7393b3183bade58829"
+   }
+  },
+  {
+   "id": "menu-list-yard",
+   "path": "images/menu-list-yard.png",
+   "kind": "captured-list-window",
+   "width": 160,
+   "height": 212,
+   "sha256": "472b882f2f1df8a2cf016d2737e0c7aa8ff1cdfb7218af7e6f822a9eb224736f",
+   "origin": [
+    480,
+    104
+   ],
+   "rows": {
+    "x": 488,
+    "y": 136,
+    "w": 128,
+    "h": 16,
+    "count": 5,
+    "textX": 488
+   },
+   "source": {
+    "capture": "docs/evidence/shipyard-list.png",
+    "sha256": "d70736a7dc93ce2db83c7565b6dc156bb37be237da0bf80bf5eae5590ec770e2",
+    "crop": [
+     480,
+     104,
+     160,
+     212
+    ]
+   }
+  },
+  {
+   "id": "menu-list-material",
+   "path": "images/menu-list-material.png",
+   "kind": "captured-list-window",
+   "width": 80,
+   "height": 136,
+   "sha256": "14966c273aaaaed13ae12db05b74578d6e1e05a401b718e3eba24473fb566b02",
+   "origin": [
+    560,
+    168
+   ],
+   "rows": {
+    "x": 568,
+    "y": 200,
+    "w": 48,
+    "h": 16,
+    "count": 6,
+    "textX": 568
+   },
+   "source": {
+    "capture": "docs/evidence/shipyard-build-material.png",
+    "sha256": "33435a8fd00ff00ff67e9d658444daf70b21730f99240b524fb1c7b75af0ec64",
+    "crop": [
+     560,
+     168,
+     80,
+     136
+    ]
+   }
+  },
+  {
+   "id": "menu-list-fleet",
+   "path": "images/menu-list-fleet.png",
+   "kind": "captured-list-window",
+   "width": 160,
+   "height": 200,
+   "sha256": "e093fdfdb43748c99cd0d64a62d1348d85e90b04321f97f75d3b93ce28dd9e55",
+   "origin": [
+    480,
+    72
+   ],
+   "rows": {
+    "x": 488,
+    "y": 104,
+    "w": 128,
+    "h": 16,
+    "count": 10,
+    "textX": 488
+   },
+   "source": {
+    "capture": "docs/evidence/shipyard-trade-list.png",
+    "sha256": "7040fc6aee643e25bfce3aa931fa5b458c06057ba8713a5b14f09702e3b65f66",
+    "crop": [
+     480,
+     72,
+     160,
+     200
+    ]
+   }
+  },
+  {
+   "id": "menu-list-weapon",
+   "path": "images/menu-list-weapon.png",
+   "kind": "captured-list-window",
+   "width": 128,
+   "height": 202,
+   "sha256": "0ce6b7d26496e4214de978ccea91f1aab0f260d36404f2a8394c09da64a5376e",
+   "origin": [
+    512,
+    168
+   ],
+   "rows": {
+    "x": 520,
+    "y": 200,
+    "w": 96,
+    "h": 16,
+    "count": 10,
+    "textX": 520
+   },
+   "source": {
+    "capture": "docs/evidence/shipyard-refit-cannon-list.png",
+    "sha256": "6bd3fa3b5b022e84775e0466ab3b4091ac7a246f5bb989079a61d9eb9b081ba0",
+    "crop": [
+     512,
+     168,
+     128,
+     202
+    ]
+   }
+  },
+  {
+   "id": "menu-list-figure",
+   "path": "images/menu-list-figure.png",
+   "kind": "captured-list-window",
+   "width": 112,
+   "height": 202,
+   "sha256": "890171bdff6e7492bb2c0144abc359dddd9caa9a2957fb1c0b09020c009d6e04",
+   "origin": [
+    528,
+    168
+   ],
+   "rows": {
+    "x": 536,
+    "y": 200,
+    "w": 96,
+    "h": 16,
+    "count": 10,
+    "textX": 536
+   },
+   "source": {
+    "capture": "docs/evidence/shipyard-refit-figure-list.png",
+    "sha256": "37d1638febcac0c0ed05eab64bf7bd41100179c331c9e63b160b7cbdc68fe91f",
+    "crop": [
+     528,
+     168,
+     112,
+     202
+    ]
+   }
+  },
+  {
+   "id": "menu-backdrop-shipyard",
+   "path": "images/menu-backdrop-shipyard.png",
+   "kind": "captured-facility-backdrop",
+   "width": 640,
+   "height": 480,
+   "sha256": "705356b659df881be9c324ea40ade83b5bd992d46f1d31337ba494ef74221538",
+   "art": [
+    104,
+    56,
+    136,
+    112
+   ],
+   "source": {
+    "capture": "docs/evidence/shipyard-menu.png",
+    "sha256": "c977e0f4f59573a7d3b8e7dc9b7563d926d7680b09fa19906745e2c4f8d2e458"
+   }
+  }
+ ],
+ "palette": [
+  [
+   0,
+   0,
+   0
+  ],
+  [
+   0,
+   65,
+   211
+  ],
+  [
+   211,
+   65,
+   0
+  ],
+  [
+   243,
+   65,
+   195
+  ],
+  [
+   0,
+   162,
+   97
+  ],
+  [
+   0,
+   162,
+   243
+  ],
+  [
+   243,
+   162,
+   0
+  ],
+  [
+   243,
+   227,
+   211
+  ],
+  [
+   113,
+   113,
+   146
+  ],
+  [
+   162,
+   162,
+   195
+  ],
+  [
+   211,
+   113,
+   65
+  ],
+  [
+   0,
+   97,
+   195
+  ],
+  [
+   0,
+   97,
+   97
+  ],
+  [
+   113,
+   81,
+   97
+  ],
+  [
+   162,
+   113,
+   81
+  ],
+  [
+   0,
+   65,
+   178
+  ]
+ ],
+ "tables": {
+  "candidates": [
+   [
+    0,
+    18,
+    5,
+    7,
+    19,
+    8,
+    9,
+    10
+   ],
+   [
+    6,
+    8,
+    9,
+    10,
+    13,
+    14,
+    15,
+    255
+   ],
+   [
+    1,
+    5,
+    8,
+    9,
+    10,
+    14,
+    16,
+    255
+   ],
+   [
+    1,
+    18,
+    6,
+    19,
+    8,
+    12,
+    21,
+    10
+   ],
+   [
+    18,
+    4,
+    5,
+    3,
+    19,
+    8,
+    20,
+    9
+   ],
+   [
+    18,
+    5,
+    19,
+    8,
+    11,
+    20,
+    9,
+    255
+   ],
+   [
+    18,
+    2,
+    11,
+    255,
+    255,
+    255,
+    255,
+    255
+   ],
+   [
+    18,
+    6,
+    8,
+    9,
+    255,
+    255,
+    255,
+    255
+   ],
+   [
+    17,
+    255,
+    255,
+    255,
+    255,
+    255,
+    255,
+    255
+   ],
+   [
+    24,
+    23,
+    22,
+    255,
+    255,
+    255,
+    255,
+    255
+   ],
+   [
+    7,
+    12,
+    8,
+    9,
+    10,
+    255,
+    255,
+    255
+   ]
+  ],
+  "older": [
+   0,
+   1,
+   18,
+   4,
+   5,
+   6,
+   2,
+   3,
+   19,
+   7,
+   8,
+   20,
+   12,
+   9,
+   21,
+   11,
+   10,
+   13
+  ],
+  "build": [
+   [
+    0,
+    18,
+    5,
+    7,
+    19,
+    8,
+    9,
+    10
+   ],
+   [
+    6,
+    8,
+    9,
+    10,
+    13,
+    14,
+    15,
+    255
+   ],
+   [
+    1,
+    5,
+    8,
+    9,
+    10,
+    14,
+    16,
+    255
+   ],
+   [
+    1,
+    18,
+    6,
+    19,
+    8,
+    12,
+    21,
+    10
+   ],
+   [
+    18,
+    4,
+    5,
+    3,
+    19,
+    8,
+    20,
+    9
+   ],
+   [
+    18,
+    5,
+    19,
+    8,
+    11,
+    20,
+    9,
+    255
+   ],
+   [
+    18,
+    2,
+    11,
+    255,
+    255,
+    255,
+    255,
+    255
+   ],
+   [
+    18,
+    6,
+    8,
+    9,
+    255,
+    255,
+    255,
+    255
+   ],
+   [
+    17,
+    255,
+    255,
+    255,
+    255,
+    255,
+    255,
+    255
+   ],
+   [
+    24,
+    23,
+    22,
+    255,
+    255,
+    255,
+    255,
+    255
+   ],
+   [
+    7,
+    12,
+    8,
+    9,
+    10,
+    255,
+    255,
+    255
+   ]
+  ],
+  "materials": [
+   [
+    153,
+    135,
+    147,
+    105
+   ],
+   [
+    149,
+    221,
+    147,
+    105
+   ],
+   [
+    146,
+    211,
+    147,
+    111,
+    213,
+    128
+   ],
+   [
+    168,
+    251,
+    147,
+    105
+   ],
+   [
+    166,
+    110,
+    147,
+    245
+   ],
+   [
+    174,
+    77,
+    147,
+    245
+   ]
+  ],
+  "figureheads": [
+   [
+    155,
+    191,
+    172,
+    202
+   ],
+   [
+    158,
+    242,
+    152,
+    119
+   ],
+   [
+    169,
+    87,
+    150,
+    97,
+    172,
+    202
+   ],
+   [
+    163,
+    55,
+    146,
+    204
+   ],
+   [
+    174,
+    248
+   ],
+   [
+    156,
+    248,
+    146,
+    168
+   ],
+   [
+    155,
+    191,
+    156,
+    68
+   ],
+   [
+    155,
+    191,
+    170,
+    84
+   ],
+   [
+    147,
+    72,
+    150,
+    145
+   ],
+   [
+    146,
+    203,
+    156,
+    68
+   ]
+  ],
+  "cannons": [
+   [
+    147,
+    156,
+    164,
+    56,
+    153,
+    184
+   ],
+   [
+    166,
+    82,
+    147,
+    156,
+    164,
+    56,
+    153,
+    184
+   ],
+   [
+    147,
+    156,
+    164,
+    56,
+    148,
+    177,
+    155,
+    65,
+    153,
+    184
+   ],
+   [
+    148,
+    177,
+    155,
+    65,
+    153,
+    184
+   ],
+   [
+    166,
+    82,
+    148,
+    177,
+    155,
+    65,
+    153,
+    184
+   ],
+   [
+    160,
+    115,
+    166,
+    222,
+    153,
+    184
+   ],
+   [
+    148,
+    221,
+    153,
+    184
+   ]
+  ],
+  "cannonPrices": [
+   360,
+   80,
+   40,
+   250,
+   40,
+   5,
+   600
+  ],
+  "source": "MAIN DS:A67E (11 industry classes x 8 used-ship types, 255 = none), DS:A6D6 (18 older types), DS:B268 (11 classes x 8 buildable types), DS:2F4.. (six hull materials, NUL-free glyph bytes)"
+ },
+ "panel": {
+  "origin": [
+   104,
+   176
+  ],
+  "picture": [
+   120,
+   200
+  ],
+  "name": [
+   257,
+   184
+  ],
+  "lines": {
+   "turn": [
+    257,
+    184
+   ],
+   "durability": [
+    257,
+    224
+   ],
+   "load": [
+    257,
+    248
+   ]
+  },
+  "lineHeight": 24,
+  "subLineHeight": 16
+ }
+}

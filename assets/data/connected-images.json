@@ -1,0 +1,3417 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "connected-portrait-0",
+      "path": "images/connected-portrait-0000.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "82852d248f23c1a2353c98f40e159c7d913f0ec19d782dff4665d5eb09e4f3f8",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 0,
+        "compressedOffset": 3348,
+        "compressedBytes": 1709,
+        "decodedBytes": 1920
+      },
+      "confidence": "runtime-pixel-exact; capturecasesinconnected-visual-comparison.json",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-selection-0",
+      "path": "images/connected-portrait-0000.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "82852d248f23c1a2353c98f40e159c7d913f0ec19d782dff4665d5eb09e4f3f8",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 0,
+        "compressedOffset": 3348,
+        "compressedBytes": 1709,
+        "decodedBytes": 1920
+      },
+      "confidence": "runtime-pixel-exact; capturecasesinconnected-visual-comparison.json",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-portrait-1",
+      "path": "images/connected-portrait-0001.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "2205cf6ba6e6731894b33bace6eb3168e14642653edb7cba246fd806468729fa",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 1,
+        "compressedOffset": 5057,
+        "compressedBytes": 1611,
+        "decodedBytes": 1920
+      },
+      "confidence": "runtime-pixel-exact; capturecasesinconnected-visual-comparison.json",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-selection-1",
+      "path": "images/connected-portrait-0001.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "2205cf6ba6e6731894b33bace6eb3168e14642653edb7cba246fd806468729fa",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 1,
+        "compressedOffset": 5057,
+        "compressedBytes": 1611,
+        "decodedBytes": 1920
+      },
+      "confidence": "runtime-pixel-exact; capturecasesinconnected-visual-comparison.json",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-portrait-2",
+      "path": "images/connected-portrait-0002.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "19506a703613e4a97c5589295c92456acd2d9a55eebe08e7962f1ac119e365ed",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 2,
+        "compressedOffset": 6668,
+        "compressedBytes": 1811,
+        "decodedBytes": 1920
+      },
+      "confidence": "runtime-pixel-exact; capturecasesinconnected-visual-comparison.json",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-selection-2",
+      "path": "images/connected-portrait-0002.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "19506a703613e4a97c5589295c92456acd2d9a55eebe08e7962f1ac119e365ed",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 2,
+        "compressedOffset": 6668,
+        "compressedBytes": 1811,
+        "decodedBytes": 1920
+      },
+      "confidence": "runtime-pixel-exact; capturecasesinconnected-visual-comparison.json",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-portrait-3",
+      "path": "images/connected-portrait-0003.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "18d9f2d486cd17dfb85d59eeb4aee84bb76ce7f6dad8f9099e8572e078df595a",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 3,
+        "compressedOffset": 8479,
+        "compressedBytes": 1883,
+        "decodedBytes": 1920
+      },
+      "confidence": "runtime-pixel-exact; capturecasesinconnected-visual-comparison.json",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-selection-3",
+      "path": "images/connected-portrait-0003.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "18d9f2d486cd17dfb85d59eeb4aee84bb76ce7f6dad8f9099e8572e078df595a",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 3,
+        "compressedOffset": 8479,
+        "compressedBytes": 1883,
+        "decodedBytes": 1920
+      },
+      "confidence": "runtime-pixel-exact; capturecasesinconnected-visual-comparison.json",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-portrait-4",
+      "path": "images/connected-portrait-0004.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "cfa4e68509cfdaf72727e5586f3fcd578eed69f9ab94b5c53a0aa4ecbb4b2174",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 4,
+        "compressedOffset": 10362,
+        "compressedBytes": 1660,
+        "decodedBytes": 1920
+      },
+      "confidence": "runtime-pixel-exact; capturecasesinconnected-visual-comparison.json",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-selection-4",
+      "path": "images/connected-portrait-0004.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "cfa4e68509cfdaf72727e5586f3fcd578eed69f9ab94b5c53a0aa4ecbb4b2174",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 4,
+        "compressedOffset": 10362,
+        "compressedBytes": 1660,
+        "decodedBytes": 1920
+      },
+      "confidence": "runtime-pixel-exact; capturecasesinconnected-visual-comparison.json",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-portrait-5",
+      "path": "images/connected-portrait-0005.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "358e8c0b81f1ec5f3e6db3da13dbf03343b5346f579824bdc07433d18d75aeb5",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 5,
+        "compressedOffset": 12022,
+        "compressedBytes": 1706,
+        "decodedBytes": 1920
+      },
+      "confidence": "runtime-pixel-exact; capturecasesinconnected-visual-comparison.json",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-selection-5",
+      "path": "images/connected-portrait-0005.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "358e8c0b81f1ec5f3e6db3da13dbf03343b5346f579824bdc07433d18d75aeb5",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 5,
+        "compressedOffset": 12022,
+        "compressedBytes": 1706,
+        "decodedBytes": 1920
+      },
+      "confidence": "runtime-pixel-exact; capturecasesinconnected-visual-comparison.json",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-portrait-6",
+      "path": "images/connected-portrait-0006.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "3e04866a7cde48ae0e6594ae42efb18f5ceec2bb1ebd0d2654b20d186125ba6f",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 6,
+        "compressedOffset": 13728,
+        "compressedBytes": 1555,
+        "decodedBytes": 1920
+      },
+      "confidence": "sourcegeometry + observedselectionpalette; individualruntimeparitylistedinevidence",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-portrait-18",
+      "path": "images/connected-portrait-0018.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "9170781ff2ac54b059f7dbf0c81c34ecc625860d346113b3e7c64c3386e24546",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 18,
+        "compressedOffset": 33558,
+        "compressedBytes": 1658,
+        "decodedBytes": 1920
+      },
+      "confidence": "sourcegeometry + observedselectionpalette; individualruntimeparitylistedinevidence",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-portrait-19",
+      "path": "images/connected-portrait-0019.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "b18886da4fb1a626a2f08fea8b306079059a2908cea8503fbedf3489d1ef1c64",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 19,
+        "compressedOffset": 35216,
+        "compressedBytes": 1762,
+        "decodedBytes": 1920
+      },
+      "confidence": "sourcegeometry + observedselectionpalette; individualruntimeparitylistedinevidence",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-portrait-31",
+      "path": "images/connected-portrait-0031.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "74f445d3d3963d41cb4922f94a8f854956801197906728f18fcbc12c16586f39",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 31,
+        "compressedOffset": 55273,
+        "compressedBytes": 1578,
+        "decodedBytes": 1920
+      },
+      "confidence": "runtime-pixel-exact; capturecasesinconnected-visual-comparison.json",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-portrait-32",
+      "path": "images/connected-portrait-0032.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "157737c39bd4346829ab2eb5e17ab844b7d5a79cb58cee1c23d75ed3529024d8",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 32,
+        "compressedOffset": 56851,
+        "compressedBytes": 1399,
+        "decodedBytes": 1920
+      },
+      "confidence": "sourcegeometry + observedselectionpalette; individualruntimeparitylistedinevidence",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-portrait-97",
+      "path": "images/connected-portrait-0097.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "d177a41b8264f59e400bda583adf63f62f6237b258f639b9160ad6fce49453c6",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 97,
+        "compressedOffset": 160075,
+        "compressedBytes": 1672,
+        "decodedBytes": 1920
+      },
+      "confidence": "runtime-pixel-exact; capturecasesinconnected-visual-comparison.json",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-portrait-98",
+      "path": "images/connected-portrait-0098.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "cb74fbbe22802538d0171c79778827a86f73aaf07aee20f6c9d007b3a6100c05",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87",
+        "member": 98,
+        "compressedOffset": 161747,
+        "compressedBytes": 1873,
+        "decodedBytes": 1920
+      },
+      "confidence": "sourcegeometry + observedselectionpalette; individualruntimeparitylistedinevidence",
+      "paletteRGB": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          65,
+          211
+        ],
+        [
+          211,
+          65,
+          0
+        ],
+        [
+          211,
+          97,
+          162
+        ],
+        [
+          0,
+          162,
+          97
+        ],
+        [
+          0,
+          162,
+          243
+        ],
+        [
+          243,
+          162,
+          97
+        ],
+        [
+          243,
+          227,
+          211
+        ]
+      ]
+    },
+    {
+      "id": "connected-port-hud",
+      "path": "images/connected-port-hud-frame.png",
+      "kind": "captured-hud-frame",
+      "width": 640,
+      "height": 480,
+      "sha256": "a6f076dfcb74339dd1e250c6dab0a397b594e06714d3b6c710e8131bc815d172",
+      "transparent": true,
+      "source": {
+        "capture": "docs/evidence/port-first.png",
+        "sha256": "f9f84db5dc7c01404aff6feaf39e720dd92bc1f6228029e6da2a474ab6a497d9",
+        "viewportRemoved": [
+          96,
+          48,
+          384,
+          384
+        ],
+        "erasedFields": [
+          {
+            "id": "player-name",
+            "rect": [
+              8,
+              260,
+              80,
+              20
+            ]
+          },
+          {
+            "id": "reputation",
+            "rect": [
+              48,
+              288,
+              40,
+              16
+            ]
+          },
+          {
+            "id": "coins",
+            "rect": [
+              32,
+              360,
+              48,
+              16
+            ]
+          },
+          {
+            "id": "ingots",
+            "rect": [
+              32,
+              400,
+              48,
+              16
+            ]
+          },
+          {
+            "id": "year",
+            "rect": [
+              48,
+              56,
+              32,
+              16
+            ]
+          },
+          {
+            "id": "month-day",
+            "rect": [
+              40,
+              80,
+              40,
+              16
+            ]
+          },
+          {
+            "id": "clock",
+            "rect": [
+              16,
+              184,
+              64,
+              16
+            ]
+          }
+        ]
+      },
+      "confidence": "temporarycapturedfixture; notdecodedGRAPH; dynamicfieldsblank",
+      "snapshotOnlyAreas": [
+        "port-title",
+        "regional-economic-metrics",
+        "compass",
+        "decorativeart"
+      ]
+    },
+    {
+      "id": "connected-facility-wallpaper",
+      "path": "images/connected-facility-wallpaper.png",
+      "kind": "captured-wallpaper-tile",
+      "width": 128,
+      "height": 64,
+      "sha256": "95f4061acf40ce0d5fd33a40580d806ebc9784875d0c7a1583f3f49070244537",
+      "transparent": false,
+      "source": {
+        "capture": "docs/evidence/scenario-initialization-home-first.png",
+        "crop": [
+          352,
+          368,
+          128,
+          64
+        ]
+      },
+      "confidence": "capturedfixture;128x64periodverifiedagainstvisiblebackground"
+    },
+    {
+      "id": "connected-facility-home",
+      "path": "images/connected-facility-home-backdrop.png",
+      "kind": "captured-facility-backdrop",
+      "width": 640,
+      "height": 480,
+      "sha256": "820c0ba246c2a105db3e0b5042cb6b4f979ee8b722fa98bb2af0ee53af230bbe",
+      "transparent": true,
+      "source": {
+        "capture": "docs/evidence/scenario-initialization-home-first.png",
+        "sha256": "3bfbbb920ed5297b892daa15799423cea37a85bdb19aca2d141288024ec201cf",
+        "wallpaperSourceCrop": [
+          352,
+          368,
+          128,
+          64
+        ],
+        "facilityArtCrop": [
+          104,
+          56,
+          136,
+          112
+        ],
+        "removedDialoguePanel": [
+          160,
+          216,
+          312,
+          144
+        ]
+      },
+      "confidence": "temporarycapturedfixture; olddialoguecleared",
+      "viewport": [
+        96,
+        48,
+        384,
+        384
+      ],
+      "facilityArtUnresolved": false
+    },
+    {
+      "id": "connected-facility-shipyard",
+      "path": "images/connected-facility-shipyard-backdrop.png",
+      "kind": "captured-facility-backdrop",
+      "width": 640,
+      "height": 480,
+      "sha256": "167fe278df2b8e3d888c5a634a3a64b21670abf2d2acfb4fffee78946dc3ac58",
+      "transparent": true,
+      "source": {
+        "capture": "docs/evidence/scenario-initialization-shipyard-first.png",
+        "sha256": "669b6a3abfe4760b6849efaad6af52ced086ed26503acd3505d33712cda8bec5",
+        "wallpaperSourceCrop": [
+          352,
+          368,
+          128,
+          64
+        ],
+        "facilityArtCrop": [
+          104,
+          56,
+          136,
+          112
+        ],
+        "removedDialoguePanel": [
+          160,
+          216,
+          312,
+          144
+        ]
+      },
+      "confidence": "temporarycapturedfixture; olddialoguecleared",
+      "viewport": [
+        96,
+        48,
+        384,
+        384
+      ],
+      "facilityArtUnresolved": false
+    },
+    {
+      "id": "connected-facility-tavern",
+      "path": "images/connected-facility-tavern-backdrop.png",
+      "kind": "captured-facility-backdrop",
+      "width": 640,
+      "height": 480,
+      "sha256": "81ca27f02d4ee43b25aaa4dad36b1a7e1c6756422c06d3991d0b0570fa7e1539",
+      "transparent": true,
+      "source": {
+        "capture": "docs/evidence/scenario-initialization-tavern-first.png",
+        "sha256": "422d875a21e12ce8ee5b3e0dabad471db501949cb4a23b222fca53ed2880e567",
+        "wallpaperSourceCrop": [
+          352,
+          368,
+          128,
+          64
+        ],
+        "facilityArtCrop": null,
+        "removedDialoguePanel": [
+          104,
+          56,
+          312,
+          144
+        ]
+      },
+      "confidence": "temporarycapturedfixture; olddialoguecleared; coveredtavernartunresolved",
+      "viewport": [
+        96,
+        48,
+        384,
+        384
+      ],
+      "facilityArtUnresolved": true
+    },
+    {
+      "id": "connected-window-0",
+      "path": "images/connected-window-0-empty.png",
+      "kind": "captured-empty-dialogue-panel",
+      "width": 240,
+      "height": 128,
+      "sha256": "12595cee3004d31f2cdf127a6f197a578083e2a0534b200f20a183a00962ae87",
+      "transparent": true,
+      "source": {
+        "capture": "docs/evidence/port-dialogue-first.png",
+        "sha256": "a2e1150ce9216fe0ff43db6847f31d75dcfce2345502bc458b29345ffd0266d9",
+        "crop": [
+          240,
+          48,
+          240,
+          128
+        ],
+        "erasedInterior": [
+          8,
+          8,
+          224,
+          112
+        ]
+      },
+      "confidence": "originalframecrop withfullyblankopaquetext/portraitinterior"
+    },
+    {
+      "id": "connected-window-1",
+      "path": "images/connected-window-1-empty.png",
+      "kind": "captured-empty-dialogue-panel",
+      "width": 312,
+      "height": 144,
+      "sha256": "134a165bb47e98593c2647225afaa1a47ff4eda12d18517483473faede231f04",
+      "transparent": true,
+      "source": {
+        "capture": "docs/evidence/scenario-initialization-tavern-first.png",
+        "sha256": "422d875a21e12ce8ee5b3e0dabad471db501949cb4a23b222fca53ed2880e567",
+        "crop": [
+          104,
+          56,
+          312,
+          144
+        ],
+        "erasedInterior": [
+          8,
+          8,
+          296,
+          128
+        ]
+      },
+      "confidence": "originalframecrop withfullyblankopaquetext/portraitinterior"
+    },
+    {
+      "id": "connected-window-2",
+      "path": "images/connected-window-2-empty.png",
+      "kind": "captured-empty-dialogue-panel",
+      "width": 312,
+      "height": 144,
+      "sha256": "134a165bb47e98593c2647225afaa1a47ff4eda12d18517483473faede231f04",
+      "transparent": true,
+      "source": {
+        "capture": "docs/evidence/scenario-initialization-home-first.png",
+        "sha256": "3bfbbb920ed5297b892daa15799423cea37a85bdb19aca2d141288024ec201cf",
+        "crop": [
+          160,
+          216,
+          312,
+          144
+        ],
+        "erasedInterior": [
+          8,
+          8,
+          296,
+          128
+        ]
+      },
+      "confidence": "originalframecrop withfullyblankopaquetext/portraitinterior"
+    },
+    {
+      "id": "connected-ack",
+      "path": "images/connected-ack.png",
+      "kind": "captured-acknowledgement",
+      "width": 16,
+      "height": 16,
+      "sha256": "78a27c5d2aed85fa51682625a5206118ee1c53ddc79ded52495bcafdc15cc99b",
+      "transparent": false,
+      "source": {
+        "capture": "docs/evidence/scenario-initialization-home-first.png",
+        "sha256": "3bfbbb920ed5297b892daa15799423cea37a85bdb19aca2d141288024ec201cf",
+        "crop": [
+          344,
+          256,
+          16,
+          16
+        ]
+      },
+      "confidence": "originalC7visibleframe; capturedfixture"
+    },
+    {
+      "id": "connected-portrait-15",
+      "path": "images/connected-portrait-0015.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "bf01f430b233e99d39429451b5e285f35c619f110260217d40f8539533763e41",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 15,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-20",
+      "path": "images/connected-portrait-0020.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "0df8aab984beeb37ba0f15bc514d839b72d5e24030e0a33edaffca7157b53b70",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 20,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-21",
+      "path": "images/connected-portrait-0021.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "80034ea157b61ebc53e7ac62138ed9aeaecba0966b6149014c6ff11f9f2a8c87",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 21,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-22",
+      "path": "images/connected-portrait-0022.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "1b09a5282c81975d7fc3dd62d7841dd5794b9d4ad7f6826805f81f5fd3168d9c",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 22,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-23",
+      "path": "images/connected-portrait-0023.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "4741496228f9960a9c358295476b31787c7c3dc3fcbcbac361e02a96c07d0696",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 23,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-25",
+      "path": "images/connected-portrait-0025.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "80dbb7f5893b3ff54a134c5af34718a6a0ac4c431712b2359cec6ef53f2cfabc",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 25,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-26",
+      "path": "images/connected-portrait-0026.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "3fc25968979e8b319dbae284cd02938992cddd6a99f850b6fc3aebdde0cce59b",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 26,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-27",
+      "path": "images/connected-portrait-0027.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "92fb860210ee7d57a8e85915472a15fc73ac98a486c47d140ebafd97b7c51c2b",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 27,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-29",
+      "path": "images/connected-portrait-0029.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "2075df0a5266c47ff7ef683332b2ee94507a27347ef58c090a13c35ab845bb8d",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 29,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-30",
+      "path": "images/connected-portrait-0030.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "53cc2fa01763295bd91cf04df40ddd6c0481e70295e68d09ed7e7af5f031ae73",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 30,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-33",
+      "path": "images/connected-portrait-0033.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "c7134421911b7f09cd252880a219a35b7d7a166129918c1f7cf40c0be79caae4",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 33,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-34",
+      "path": "images/connected-portrait-0034.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "fc2cd6c1dae37035aabe6cd3038c3ffb10ac50f3f7ea12c592d3a10034afa81c",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 34,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-35",
+      "path": "images/connected-portrait-0035.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "4bf1ea14a22e855951ebc3e50927f1737d1ea1dae5c488919519e36dfc863142",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 35,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-36",
+      "path": "images/connected-portrait-0036.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "61eeb3dd42dfa4a9b05a43a22586ab3ec14a9dd161016dee171e32022e5996ab",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 36,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-38",
+      "path": "images/connected-portrait-0038.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "70b8b14325af05aa769422cd84c21aecd25af79826bd4b262870a038c937b0d1",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 38,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-39",
+      "path": "images/connected-portrait-0039.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "78e8a64651e21a10492c9d45a5031c62943f31bc8f69cf708227eb094a856c23",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 39,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-40",
+      "path": "images/connected-portrait-0040.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "bc8bbe00a0e5b4903e12bfbe0a541acd011d109d8c8d6cef8081cfe2ce334309",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 40,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-45",
+      "path": "images/connected-portrait-0045.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "ece400c0cefe2fad43ec155b74fc9211d59c68c035b3c2943a630eb75dea20ff",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 45,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-53",
+      "path": "images/connected-portrait-0053.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "db4e729edd1db3ecfee14e8c4893bce112d28411c2ef1cfd2a9d103f5555ba44",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 53,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-59",
+      "path": "images/connected-portrait-0059.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "33bed217d4a52e8378079274fe7f0b315eb048347eda165f73a9c339bff1ceec",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 59,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-83",
+      "path": "images/connected-portrait-0083.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "cf6fd38f34670b95b1b4f724d954bf7e9c158c460e528bb07e903a3fc6456b4f",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 83,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-87",
+      "path": "images/connected-portrait-0087.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "c93149436dc54d2b4d046d2a742827793098f03fd8fb58c82787645116cb89a0",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 87,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-93",
+      "path": "images/connected-portrait-0093.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "4126ee058106df934dcd11b6375b63994705fd4d0bf3f47c97de92b5f5f90634",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 93,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-94",
+      "path": "images/connected-portrait-0094.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "f251575a24764fff8fd949f8c865a604fec42b649cfeace39958d4a691d56518",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 94,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-95",
+      "path": "images/connected-portrait-0095.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "449f7dfbe77fd6e5f72f35d5451798ceb9c47ae1df186c435e03453face9cb57",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 95,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-96",
+      "path": "images/connected-portrait-0096.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "90000bdc471895f3d10404970cad3fcae58c02d95d1b6dd299709708ad7c4de4",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 96,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-99",
+      "path": "images/connected-portrait-0099.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "1ba6736507bc2763feb64ef8398732dd0e310f5f017d5c0369c239cb344bf800",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 99,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-127",
+      "path": "images/connected-portrait-0127.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "e1f280486821fab904ecd418a0a127b66133ac3e1fd530cbfd2311dad78cf7cc",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 127,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-7",
+      "path": "images/connected-portrait-0007.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "29eb7a66e47cd09f8c6671d476428ca4320281c08445f540dcc887aead4d2e9a",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 7,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-8",
+      "path": "images/connected-portrait-0008.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "728d886c118dc20166fda3bfffb52e6973bc74f6d2a9c59399f02f77ed701a5b",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 8,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-9",
+      "path": "images/connected-portrait-0009.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "72ada131cb2c1e80fdf576633b3b13151b0dae8dbbd10cad1687a54572de266c",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 9,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-10",
+      "path": "images/connected-portrait-0010.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "2ede72d114229a0828324296cd8fc178f6f47649474e0de5c2c96c6c92dbdd6f",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 10,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-11",
+      "path": "images/connected-portrait-0011.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "d3182c29e5fe8c27efe45251459155c767c2d8c10a9cb290e2e01e1078929237",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 11,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-12",
+      "path": "images/connected-portrait-0012.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "df92c8210c455c427f45a8297e7676348d9930a86e4993f4327e3d8b91213e77",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 12,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-13",
+      "path": "images/connected-portrait-0013.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "7bc8ae09217c5174cab97429047aed5ab300457e67c38024324589383878ab84",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 13,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-14",
+      "path": "images/connected-portrait-0014.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "56eede9a88c5eb608bf2c9a522417f43c8c601ee76679a350bc03ed81b8040a0",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 14,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-16",
+      "path": "images/connected-portrait-0016.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "a9ead00fe71bfd016a4a1aaef13e5568dccde90e61856ad388f1a915e6913938",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 16,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-17",
+      "path": "images/connected-portrait-0017.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "9b47f7a2cb0aff7f17955ecea053f3e95fd0a41e620286c0b4db8e679a2ddbe9",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 17,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-24",
+      "path": "images/connected-portrait-0024.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "7bf05f76caaf3fb28991b516376dd0bbd7adef291dac32c0199b98cd585f31c0",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 24,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-28",
+      "path": "images/connected-portrait-0028.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "3b62bf99c7b91e66d387bface04ac8d68c497e42587b991b8c62308974e2ce5d",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 28,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-37",
+      "path": "images/connected-portrait-0037.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "2503ebe34cb5a6391374ac698e729bfb9ad25c9e2b3c3c62ca73604e3f2d5606",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 37,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-41",
+      "path": "images/connected-portrait-0041.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "b94c0795a9ce71e334b491a5881685ceb859e7f105971191efba0b7c0b7f03d5",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 41,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-42",
+      "path": "images/connected-portrait-0042.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "82ae5d4b5ac8b1b01c02d5a56dee174e3c05a65532ed7d5b0e127c5dcf242291",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 42,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-43",
+      "path": "images/connected-portrait-0043.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "6ad21926d9f9cb84e9f7685e6d67c0436200431f1e948d6f7555ca026984e8ba",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 43,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-44",
+      "path": "images/connected-portrait-0044.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "48f5317f49d6279a92ee84cf3cee4051cd0a38957988ae5b184b9a95b1809f10",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 44,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-46",
+      "path": "images/connected-portrait-0046.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "36f3dc0fb5fed23862bb5674358df6516bda847afadb269602f514f1f01c5f1e",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 46,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-47",
+      "path": "images/connected-portrait-0047.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "f82be3b99b9e3a919a1a8cf0a29abcd9ccffa686b8b6bc2ddef3941c81865f10",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 47,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-48",
+      "path": "images/connected-portrait-0048.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "734a87a9e3f95c23a1cb651f240e61715d4d3e4d9bfc0509df141b38cad52a7c",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 48,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-49",
+      "path": "images/connected-portrait-0049.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "7fb29a58090d7509c46107ed0dcd9f6f4755d07d1cba33f346ef066d3e4fb930",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 49,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-50",
+      "path": "images/connected-portrait-0050.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "5f4a2bc04f055d45bd71d02f238747aaf179990d775c1502ab41f7faba967fce",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 50,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-51",
+      "path": "images/connected-portrait-0051.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "c4ed64cebffabfbed5ec58a6e56ef9fdd5987c0885d4ed7fcb08b82f62594b55",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 51,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-52",
+      "path": "images/connected-portrait-0052.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "b2dae8139395b14709bb48307e93efe497501c3c8dc3b55cb1f5cfb3052a0926",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 52,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-54",
+      "path": "images/connected-portrait-0054.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "7a0fb2d363ad489227735663a5e4d2347282ddefa136499a6edd79cb34fcfb28",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 54,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-55",
+      "path": "images/connected-portrait-0055.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "8f50757ae902312b038f9d3d95851b3432d9ceb13012ad277780033edb820db6",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 55,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-56",
+      "path": "images/connected-portrait-0056.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "cd839cbaf84a00be3bf9293221e19666d3e9239f1f9d4d2cbad3573a121f88ac",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 56,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-57",
+      "path": "images/connected-portrait-0057.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "3568d025852ace78abf53672d6007ae923c10e52c8eada5fc0fc05a26e299b89",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 57,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-58",
+      "path": "images/connected-portrait-0058.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "21ee1a0450b594887cfecd14fda4ebca802ee1dde53419a2cfb8f250a290d005",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 58,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-60",
+      "path": "images/connected-portrait-0060.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "87be1a512a1b1af224fe619bb963e1ff3498f8d03774ab6dc79ee8e426f36f53",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 60,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-61",
+      "path": "images/connected-portrait-0061.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "9fb3e6fa66fb26a7434372ac621f741fce6fd1da3b7269e61ebdf9dadcdf92e7",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 61,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-62",
+      "path": "images/connected-portrait-0062.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "c2336a1cd7543440f8d2424735e993f9700c10465e0646a7815434e50992fe15",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 62,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-63",
+      "path": "images/connected-portrait-0063.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "224bf3f3ff4baca3ead4c2ccad693b20a63d75471ad90b843886b0249db1257a",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 63,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-64",
+      "path": "images/connected-portrait-0064.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "6362362a5642cb79e9343752612904d64d1de96d2ab2f9d0bddbf858a6123197",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 64,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-65",
+      "path": "images/connected-portrait-0065.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "51af7050de8fd038db4756c1097524f2e352dec748c5be31bb2f82b865daa109",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 65,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-66",
+      "path": "images/connected-portrait-0066.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "3606651c21f0aa568868bf89448ec6f50cc66234dfdbb7c44e663de2b524786c",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 66,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-67",
+      "path": "images/connected-portrait-0067.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "4c930ae69d5b2b52b5c059ef3d686ebe46c6c9f02f8be25dfb685c2d38f3d995",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 67,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-68",
+      "path": "images/connected-portrait-0068.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "8192809c20318ddc68eec71ce65d62fc5260d43523a69a917137fa6eaaada168",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 68,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-69",
+      "path": "images/connected-portrait-0069.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "5c1924b98bdb94dfba08ca22eef83da92be04d0a8278b8d57b770cc0235419a6",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 69,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-70",
+      "path": "images/connected-portrait-0070.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "29a4ed95c675956f29c7e5c7a0846e2beaa09bca68360d565086096c8675f084",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 70,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-71",
+      "path": "images/connected-portrait-0071.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "69e5bc7ef9661e37caead8052edef31fd4c96fb50d21bd40f2acad0cae8a7e81",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 71,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-72",
+      "path": "images/connected-portrait-0072.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "b1c52a4f27651802546079f2a41f7501c4e41bb4c85adefaed929edadeecc7fd",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 72,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-73",
+      "path": "images/connected-portrait-0073.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "bed4a78aff755a2f013f4b157ebf91ea17f8299101da46e4f96aa095b6bf5323",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 73,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-74",
+      "path": "images/connected-portrait-0074.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "898dd11e4d146d5d7373420180e76d3ba4c6b7fd095aea05e9254efc769c41fb",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 74,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-75",
+      "path": "images/connected-portrait-0075.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "fb584398ae58a5690b6468bbfbf77b52a38e6d27025ff4e216b1e5155dffe2d6",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 75,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-76",
+      "path": "images/connected-portrait-0076.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "6e839be068405f2e819b126385eb85242fb2cace6777530107b39e1ea5fceb61",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 76,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-77",
+      "path": "images/connected-portrait-0077.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "7993549c6e845d6bc76a55e17d49b2271490ee2ad78a28958c7a1ae2ab5c9e72",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 77,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-78",
+      "path": "images/connected-portrait-0078.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "069136f20cfdbdd76d594a8d37165c3550b0b4bc38e21dc5994c256f8c759d73",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 78,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-79",
+      "path": "images/connected-portrait-0079.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "f14a2feb3d6c20353c3c6a95491f84c121d34b67ba0c3888d1d6f92e06217b8c",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 79,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-80",
+      "path": "images/connected-portrait-0080.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "cc8844dc62d4f10e16511e8f8a875949d678c800b0fb5a7b066cf86b2ffa39ad",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 80,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-81",
+      "path": "images/connected-portrait-0081.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "aaa11bc0fcbdb75ce558f4fde67e5fe5ecb96fee08b5866a5604dda3ce728bdf",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 81,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-82",
+      "path": "images/connected-portrait-0082.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "1f908ba9c700314dcaa459ce2889f81332c0420dc3c4b24b6aad9626fa343149",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 82,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-84",
+      "path": "images/connected-portrait-0084.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "85b25d5bb11013d998b2359d0cf68ed10334585cf1d45fb4517da4a855c1be59",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 84,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-85",
+      "path": "images/connected-portrait-0085.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "c5bdc61e12a53dc8fb97cd3516028192c200bed9c67a9b9b7a8e7fe507bda9ea",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 85,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-86",
+      "path": "images/connected-portrait-0086.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "032f826d5b50d0024c5f904140834ed43041a04a154a6e68feb2ae01cf867eb8",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 86,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-88",
+      "path": "images/connected-portrait-0088.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "9e96e43c7c7beed840acc4f67574d716a1aa40deb48a179e1511979f7f8a9270",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 88,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-89",
+      "path": "images/connected-portrait-0089.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "0818433f8dfe157707a7ef30bc4360adf6e437d7490fda50eb21efc0e18b3881",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 89,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-90",
+      "path": "images/connected-portrait-0090.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "f85428531261e0aefa46515ea43d5dc1e82d262237f0273b67cafa1299115e86",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 90,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-91",
+      "path": "images/connected-portrait-0091.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "94a727f6af9aa93e12ae3cee5107fb58485b633d6a9b40b47fa66b8fbf9d0c9d",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 91,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-92",
+      "path": "images/connected-portrait-0092.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "b22cf5343834eb266b3b0976e95886abb1745beb0bccf715541b44ac0720b2e0",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 92,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-100",
+      "path": "images/connected-portrait-0100.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "a46d31a99ba37a724f70f8f86ce0271e7640b286e5738de55fe893c648a60647",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 100,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-101",
+      "path": "images/connected-portrait-0101.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "45192f2b9796dc3bb27da841f12db3ffb5024e88127e8d152cb832b2b5d4cb09",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 101,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-102",
+      "path": "images/connected-portrait-0102.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "fc2d260a143e23328e14d685dcd4e0a8d29e11e8ca86f937651b27e14ff0cc26",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 102,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-103",
+      "path": "images/connected-portrait-0103.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "ebe0465ac012565a0ee54e7b4e14fa288e0b1892083f806abc4c2a27be9d7986",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 103,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-104",
+      "path": "images/connected-portrait-0104.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "9e7c38dd4339e4616477eb9ea1a78ec4646e80057e74fb29072f487245c61a2a",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 104,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-105",
+      "path": "images/connected-portrait-0105.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "91878597ee2d4b06461e2350368c89249f3f20229a0148e0ad4fb5c5d9a440a8",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 105,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-106",
+      "path": "images/connected-portrait-0106.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "a48f86d36453321897983c5734f14c72ac6b1c3e396ac64068d175f1c34f7ea8",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 106,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-107",
+      "path": "images/connected-portrait-0107.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "592075d0092bf94459c9a3ee0f31e59a2c2e97a6e9c750021ec9adcad9a143d4",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 107,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-108",
+      "path": "images/connected-portrait-0108.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "3264f8c5d7c50b44963c587b4afb48bd469fb352f5378fb40e98fb3c10c412ec",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 108,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-109",
+      "path": "images/connected-portrait-0109.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "3b6db3ee71bb9d8346981fb9655fff8ce6a8b43b112d09e432f7da572352c1c1",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 109,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-110",
+      "path": "images/connected-portrait-0110.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "0a5511770248520bc830d34a19250a9f16d09e92b1e69531fbeca746ac6e1ddc",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 110,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-111",
+      "path": "images/connected-portrait-0111.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "4ca8942a7388950df717a1413afcf108d5c23daf1dd0dfb54684d7a484414f65",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 111,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-112",
+      "path": "images/connected-portrait-0112.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "dffeff1d0ea49debdf6f11a7b051810db410352ce848be5dfd08ee13ae457287",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 112,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-113",
+      "path": "images/connected-portrait-0113.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "db10591a88d793b6d85669dbc185a62bd41cb56685692c9369c9c173dc586e0a",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 113,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-114",
+      "path": "images/connected-portrait-0114.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "862a54cb1b9f07afa957487f0d42c464dec567a9f90168ccf923ed27d514b2d3",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 114,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-115",
+      "path": "images/connected-portrait-0115.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "867d4cfae284e9e404b0984321e1d1b014b48691f20eb7e8830905ac04015821",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 115,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-116",
+      "path": "images/connected-portrait-0116.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "50544860f6d517028bcbf6ee7a8b242065bdb6fd92d3b9ef1ee6d9464997cd50",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 116,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-117",
+      "path": "images/connected-portrait-0117.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "20f50cf5712b9f8bc8ef3dcd38a8c1243afd6db869ebdac2e14a6d58d0204954",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 117,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-118",
+      "path": "images/connected-portrait-0118.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "99e8a6cf938d16ad501e5bb727a854fa477dcf8d9ead1e23c4fb188d7b1afd70",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 118,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-119",
+      "path": "images/connected-portrait-0119.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "453a971eec7cae2130afc73632a947a594ef282aa01cf1df1316daae50f86b47",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 119,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-120",
+      "path": "images/connected-portrait-0120.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "faffe66d7abe4be8a092f21fd87893e1475edde47ddafe931527faf61f5d68a7",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 120,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-121",
+      "path": "images/connected-portrait-0121.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "acc03f5ceee36ee82b57e13889c21d92be9e17cd3a1a5fea9cfe4bb1791a5283",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 121,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-122",
+      "path": "images/connected-portrait-0122.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "9852d2808325330a54d4d7f597eafdf7e799bf82d1721e22fe8c5e62ad752041",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 122,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-123",
+      "path": "images/connected-portrait-0123.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "6dcab86bc8269ec3c06c479455f53b4720f98bd8ba50135ee3502433beff2d10",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 123,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-124",
+      "path": "images/connected-portrait-0124.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "e1a24df04fc9b31190c01a866232e20b9a978e34afc3cd907e87f923311a05c4",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 124,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-125",
+      "path": "images/connected-portrait-0125.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "296044b571bf2c391252baaa3bfac5decbe15ccea0900d37dcd0e6323876039f",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 125,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    },
+    {
+      "id": "connected-portrait-126",
+      "path": "images/connected-portrait-0126.png",
+      "kind": "portrait",
+      "width": 64,
+      "height": 80,
+      "sha256": "74e1fe65c63b8c6d6b48cf7097249f7a3e93cc9a8f81f270539b7897b9c386ae",
+      "transparent": false,
+      "source": {
+        "name": "KAO.LZW",
+        "member": 126,
+        "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+      },
+      "confidence": "decoded; selection-scene palette assumed (not pixel-compared)"
+    }
+  ],
+  "windows": {
+    "0": {
+      "panel": [
+        240,
+        48,
+        240,
+        128
+      ],
+      "portrait": [
+        104,
+        56
+      ],
+      "text": [
+        256,
+        56,
+        208
+      ],
+      "lineHeight": 24,
+      "body": [
+        248,
+        56,
+        224,
+        112
+      ],
+      "frameAsset": "connected-window-0",
+      "portraitSize": [
+        64,
+        80
+      ],
+      "geometryEvidence": "MAINdescriptorplus40letterbox andcapturedpixelpositions; portrait97tavern/0home/31shipyard exact"
+    },
+    "1": {
+      "panel": [
+        104,
+        56,
+        312,
+        144
+      ],
+      "portrait": [
+        120,
+        72
+      ],
+      "text": [
+        192,
+        72,
+        208
+      ],
+      "lineHeight": 24,
+      "body": [
+        112,
+        64,
+        296,
+        128
+      ],
+      "frameAsset": "connected-window-1",
+      "portraitSize": [
+        64,
+        80
+      ],
+      "geometryEvidence": "MAINdescriptorplus40letterbox andcapturedpixelpositions; portrait97tavern/0home/31shipyard exact"
+    },
+    "2": {
+      "panel": [
+        160,
+        216,
+        312,
+        144
+      ],
+      "portrait": [
+        176,
+        232
+      ],
+      "text": [
+        248,
+        232,
+        208
+      ],
+      "lineHeight": 24,
+      "body": [
+        168,
+        224,
+        296,
+        128
+      ],
+      "frameAsset": "connected-window-2",
+      "portraitSize": [
+        64,
+        80
+      ],
+      "geometryEvidence": "MAINdescriptorplus40letterbox andcapturedpixelpositions; portrait97tavern/0home/31shipyard exact"
+    }
+  },
+  "paletteRGB": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      65,
+      211
+    ],
+    [
+      211,
+      65,
+      0
+    ],
+    [
+      211,
+      97,
+      162
+    ],
+    [
+      0,
+      162,
+      97
+    ],
+    [
+      0,
+      162,
+      243
+    ],
+    [
+      243,
+      162,
+      97
+    ],
+    [
+      243,
+      227,
+      211
+    ]
+  ],
+  "viewport": [
+    96,
+    48,
+    384,
+    384
+  ],
+  "hudDynamicFields": [
+    {
+      "id": "player-name",
+      "rect": [
+        8,
+        260,
+        80,
+        20
+      ]
+    },
+    {
+      "id": "reputation",
+      "rect": [
+        48,
+        288,
+        40,
+        16
+      ]
+    },
+    {
+      "id": "coins",
+      "rect": [
+        32,
+        360,
+        48,
+        16
+      ]
+    },
+    {
+      "id": "ingots",
+      "rect": [
+        32,
+        400,
+        48,
+        16
+      ]
+    },
+    {
+      "id": "year",
+      "rect": [
+        48,
+        56,
+        32,
+        16
+      ]
+    },
+    {
+      "id": "month-day",
+      "rect": [
+        40,
+        80,
+        40,
+        16
+      ]
+    },
+    {
+      "id": "clock",
+      "rect": [
+        16,
+        184,
+        64,
+        16
+      ]
+    }
+  ],
+  "portraitReferences": {
+    "source": "SNR1.DAT",
+    "subscript": 0,
+    "fileOffset": 50,
+    "candidatePortraitIDs": [
+      0,
+      6,
+      18,
+      19,
+      31,
+      32,
+      97,
+      98
+    ],
+    "instructions": "C0/CC/C8/C7macro sourcebound; mayincludeunvisitedbranches; supersetcovershome,tavern,shipyard"
+  },
+  "limitations": [
+    "CapturedHUD/facility/background/frame assets are explicittemporaryfixtures; GRAPH.DAT decodingnotclaimed.",
+    "Portrait6/18/19/32/98 useobservedpalette withsourcegeometry; noindividualruntimecaptureexistsyet.",
+    "Porttitle,regionalmetricsanddecorations arecapturedsnapshotart; wallet/name/clockfieldsblank fordynamicrootrendering.",
+    "Tavernfacilityartbehindinitialdialoguewindowwasoccluded; exportedvisiblewallpaperonly, unresolvedheaderartnotinvented."
+  ]
+}

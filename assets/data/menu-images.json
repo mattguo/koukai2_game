@@ -1,0 +1,1527 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "menu-frame",
+      "path": "images/menu-frame.png",
+      "kind": "window-frame-9slice",
+      "width": 26,
+      "height": 36,
+      "sha256": "cb1ca2f4431b33346fc3dcde39a61c8d4d379fd2b0aa9be0b36d37a792026c2a",
+      "source": {
+        "capture": "docs/evidence/menus-supply.png",
+        "sha256": "a0bd42a4701296f5b2afb20a5bb9d0c89f76ba5e3151ace11d7fb4fc7e9f5110",
+        "crop": [
+          104,
+          72,
+          368,
+          72
+        ]
+      },
+      "corner": 12,
+      "parts": {
+        "tl": [
+          0,
+          0
+        ],
+        "tr": [
+          12,
+          0
+        ],
+        "bl": [
+          0,
+          12
+        ],
+        "br": [
+          12,
+          12
+        ],
+        "top": [
+          24,
+          0
+        ],
+        "bottom": [
+          25,
+          0
+        ],
+        "left": [
+          0,
+          24
+        ],
+        "right": [
+          12,
+          24
+        ]
+      }
+    },
+    {
+      "id": "menu-keypad",
+      "path": "images/menu-keypad.png",
+      "kind": "captured-keypad",
+      "width": 136,
+      "height": 151,
+      "sha256": "8a42f8605024715388ccc7faa3b7325f4ba1cb3844ece4c14db34b94ebb4281b",
+      "source": {
+        "capture": "docs/evidence/menus-market-qty.png",
+        "sha256": "d8f6d7efd5ed4f7597e7cb7408d8ac175c67bf9668e688bd4da7a9fc373f2f25",
+        "crop": [
+          504,
+          288,
+          136,
+          151
+        ]
+      },
+      "origin": [
+        504,
+        288
+      ],
+      "display": [
+        552,
+        312,
+        72,
+        16
+      ],
+      "keys": {
+        "x0": 514,
+        "y0": 337,
+        "size": 24,
+        "layout": [
+          [
+            "7",
+            "8",
+            "9",
+            "x",
+            "max"
+          ],
+          [
+            "4",
+            "5",
+            "6",
+            "div",
+            "ac"
+          ],
+          [
+            "1",
+            "2",
+            "3",
+            "minus",
+            "sign"
+          ],
+          [
+            "0",
+            "eq",
+            "plus",
+            "enter",
+            "enter"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "menu-yesno-yes",
+      "path": "images/menu-yesno-yes.png",
+      "kind": "captured-yesno",
+      "width": 144,
+      "height": 56,
+      "sha256": "f4668206c28d51be40de46f6a20abb2fd106f636006d92885a35c9651a4aeb02",
+      "source": {
+        "capture": "docs/evidence/menus-market-quote-yes.png",
+        "sha256": "534c0ceb3b8527d4bf7b0c42ce6bd528fde7abd5b9ee3a31522f3a64a5d84018",
+        "crop": [
+          312,
+          104,
+          144,
+          56
+        ]
+      },
+      "selected": "yes",
+      "hit": {
+        "yes": [
+          8,
+          12,
+          64,
+          32
+        ],
+        "no": [
+          72,
+          12,
+          64,
+          32
+        ]
+      }
+    },
+    {
+      "id": "menu-yesno-no",
+      "path": "images/menu-yesno-no.png",
+      "kind": "captured-yesno",
+      "width": 144,
+      "height": 56,
+      "sha256": "b7a187518005105223eec67b2bd8d833858723bf8d64fb63491c11a86990e099",
+      "source": {
+        "capture": "docs/evidence/menus-market-quote-no.png",
+        "sha256": "f32fd90999d4ee4c30a41daaaec796dcb6f47dccb4dd3bded8f6375d379851fc",
+        "crop": [
+          312,
+          104,
+          144,
+          56
+        ]
+      },
+      "selected": "no",
+      "hit": {
+        "yes": [
+          8,
+          12,
+          64,
+          32
+        ],
+        "no": [
+          72,
+          12,
+          64,
+          32
+        ]
+      }
+    },
+    {
+      "id": "menu-board",
+      "path": "images/menu-board.png",
+      "kind": "captured-market-board",
+      "width": 370,
+      "height": 152,
+      "sha256": "1be0a71596e5641b0be7704e9f99dc792638a0694881890b3f0072215b8e3ebc",
+      "source": {
+        "capture": "docs/evidence/menus-market-list.png",
+        "sha256": "2db74ec47d278c0e4abaff4ad9145eaf0fdcfb8dbdaacd603f550ce413222eec",
+        "crop": [
+          104,
+          176,
+          370,
+          152
+        ]
+      },
+      "origin": [
+        104,
+        176
+      ],
+      "interior": [
+        24,
+        32,
+        316,
+        110
+      ]
+    },
+    {
+      "id": "menu-list-buy",
+      "path": "images/menu-list-buy.png",
+      "kind": "captured-list-window",
+      "width": 224,
+      "height": 200,
+      "sha256": "5e32c4afc3aee8be48d9ac31280d03043a5c2e815b560d1ee0927e2f6eb98c70",
+      "source": {
+        "capture": "docs/evidence/menus-market-ships.png",
+        "sha256": "94b63e0eaddaafead8f5f70ec4fd2bf91e1499b5f6ee549ba2e138359af5ef4b",
+        "crop": [
+          416,
+          152,
+          224,
+          200
+        ]
+      },
+      "origin": [
+        416,
+        152
+      ]
+    },
+    {
+      "id": "menu-list-sell",
+      "path": "images/menu-list-sell.png",
+      "kind": "captured-list-window",
+      "width": 152,
+      "height": 198,
+      "sha256": "9d7d6732d95f79a23806fb7a0c0876186e292056b70ed2d792753fb7f6fcdf38",
+      "source": {
+        "capture": "docs/evidence/menus-sell-ships.png",
+        "sha256": "ff38b1a8d83281143f1111a96066c164f7fcbdfbb9086cb590d47b5c1a656236",
+        "crop": [
+          488,
+          152,
+          152,
+          198
+        ]
+      },
+      "origin": [
+        488,
+        152
+      ]
+    },
+    {
+      "id": "menu-backdrop-market",
+      "path": "images/menu-backdrop-market.png",
+      "kind": "captured-facility-backdrop",
+      "width": 640,
+      "height": 480,
+      "sha256": "8e854609ecc6c36d9cf1cb7204bcf8ba89e13375f84b677c220c774f4233664e",
+      "source": {
+        "capture": "docs/evidence/menus-market.png",
+        "sha256": "99fc622ea586bb385f667d6949818946e8fd58be402546ac5120c356c642de2a",
+        "crop": [
+          104,
+          56,
+          136,
+          112
+        ]
+      },
+      "art": [
+        104,
+        56,
+        136,
+        112
+      ]
+    },
+    {
+      "id": "menu-backdrop-harbor",
+      "path": "images/menu-backdrop-harbor.png",
+      "kind": "captured-facility-backdrop",
+      "width": 640,
+      "height": 480,
+      "sha256": "2b800c4674169bb1ed8f3beeb614a6d570f42f42edbd996a3f3e4b580a86dc06",
+      "source": {
+        "capture": "docs/evidence/menus-harbor.png",
+        "sha256": "bbbc7a70bd0141487c11732f50f3566ea98c7f2cfe2a865bcbe2b9619eac1391",
+        "crop": [
+          104,
+          56,
+          136,
+          112
+        ]
+      },
+      "art": [
+        104,
+        56,
+        136,
+        112
+      ]
+    },
+    {
+      "id": "menu-backdrop-tavern",
+      "path": "images/menu-backdrop-tavern.png",
+      "kind": "captured-facility-backdrop",
+      "width": 640,
+      "height": 480,
+      "sha256": "19366a61313fd25f6c3c70d9e97bfdd80bc58eb86963369b4904aaa0db07d000",
+      "source": {
+        "capture": "docs/evidence/menus-tavern.png",
+        "sha256": "ca5f0c910dc5be50a406201cee0466a28b76b863861703c84cf5384272621b51",
+        "crop": [
+          104,
+          56,
+          136,
+          112
+        ]
+      },
+      "art": [
+        104,
+        56,
+        136,
+        112
+      ]
+    },
+    {
+      "id": "menu-list-persons",
+      "path": "images/menu-list-persons.png",
+      "kind": "captured-list-window",
+      "width": 240,
+      "height": 200,
+      "sha256": "1908c7efd2bbfe34ef3fb871773ce0ca846c80e80770bb19a8b7e5973526e2ca",
+      "origin": [
+        400,
+        72
+      ],
+      "rows": {
+        "x": 408,
+        "y": 104,
+        "w": 208,
+        "h": 16,
+        "count": 10,
+        "textX": 408
+      },
+      "source": {
+        "capture": "docs/evidence/inn-list.png",
+        "sha256": "96bf8d3527440e47d6cd0d5fcb43f641699838c45126faf20883bd168649ba6a",
+        "crop": [
+          400,
+          72,
+          240,
+          200
+        ]
+      }
+    },
+    {
+      "id": "menu-window-support",
+      "path": "images/menu-window-support.png",
+      "kind": "captured-list-window",
+      "width": 380,
+      "height": 160,
+      "sha256": "faa25117d3a7e07835c919a9c7bc07c72935e9d851539507845666aaf3116ba6",
+      "origin": [
+        100,
+        176
+      ],
+      "text": {
+        "header": [
+          280,
+          192,
+          344,
+          192
+        ],
+        "nameX": 168,
+        "firstRowY": 216,
+        "rowH": 16,
+        "percentX": 288,
+        "markerX": 360
+      },
+      "source": {
+        "capture": "docs/evidence/inn-support.png",
+        "sha256": "9ddfde05b42f594f570fdc4ca164dbb63a8caa68e88ff2e50de6dfc5a2e52376",
+        "crop": [
+          100,
+          176,
+          380,
+          160
+        ]
+      }
+    },
+    {
+      "id": "game-over-wreck",
+      "path": "images/game-over-wreck.png",
+      "kind": "decoded-picture",
+      "width": 272,
+      "height": 176,
+      "sha256": "59df3462de5d1f60ae0339a820be8e9dce7a8ddc53acdb8a5c45b8f308572cd4",
+      "origin": [
+        184,
+        72
+      ],
+      "source": {
+        "name": "GRAPH.DAT",
+        "member": 61,
+        "palette": "capture docs/evidence/gameover-wreck.png",
+        "mismatches": 0
+      }
+    },
+    {
+      "id": "world-chart",
+      "path": "images/world-chart.png",
+      "kind": "decoded-graph",
+      "width": 640,
+      "height": 400,
+      "sha256": "1b1e05e570885785ed76f3fb06f495b415f501492409b7f7c028f7946d926dd1",
+      "origin": [
+        0,
+        40
+      ],
+      "source": {
+        "file": "GRAPH.DAT",
+        "member": 25,
+        "palette": "docs/evidence/chart-open.png"
+      }
+    },
+    {
+      "id": "ship-wallpaper",
+      "path": "images/ship-wallpaper.png",
+      "kind": "captured-window",
+      "width": 384,
+      "height": 384,
+      "sha256": "aeb3271a82f2deeb16ba9d3f4f16750d6b7f79d592cc983383978439f1e5405c",
+      "origin": [
+        96,
+        48
+      ],
+      "source": {
+        "capture": "docs/evidence/info-ship-list.png",
+        "sha256": "cf98b459c90aa3550329828bc9565b808e88d3833b052b417d52f54d7d8c3cf5",
+        "crop": [
+          96,
+          48,
+          384,
+          384
+        ]
+      }
+    },
+    {
+      "id": "menu-list-ships",
+      "path": "images/menu-list-ships.png",
+      "kind": "captured-window",
+      "width": 160,
+      "height": 200,
+      "sha256": "e093fdfdb43748c99cd0d64a62d1348d85e90b04321f97f75d3b93ce28dd9e55",
+      "origin": [
+        480,
+        72
+      ],
+      "source": {
+        "capture": "docs/evidence/info-ship-list.png",
+        "sha256": "cf98b459c90aa3550329828bc9565b808e88d3833b052b417d52f54d7d8c3cf5",
+        "crop": [
+          480,
+          72,
+          160,
+          200
+        ]
+      }
+    },
+    {
+      "id": "ship-sheet-window",
+      "path": "images/ship-sheet-window.png",
+      "kind": "captured-window",
+      "width": 328,
+      "height": 336,
+      "sha256": "a5d16081227f5410c75122be7dc5e09128a4ed55f96d8818af28331a779f4881",
+      "origin": [
+        120,
+        72
+      ],
+      "source": {
+        "capture": "docs/evidence/info-ship-sheet.png",
+        "sha256": "c8964909c6f383c8cd82a29356c462993c7bbe6080f154bace49f9671efaceba",
+        "crop": [
+          120,
+          72,
+          328,
+          336
+        ]
+      }
+    },
+    {
+      "id": "fleet-sea-tile",
+      "path": "images/fleet-sea-tile.png",
+      "kind": "captured-window",
+      "width": 16,
+      "height": 16,
+      "sha256": "366db28e3006fe23a9b1612501c87ca0d80fdb628df749bbe03cc923c6ed026d",
+      "origin": [
+        0,
+        40
+      ],
+      "source": {
+        "capture": "docs/evidence/info-fleet-sheet.png",
+        "sha256": "24b9c5ef1878e31ed77d1c8e179150c954699fbd1b59ce315084e14b87c26b6d",
+        "crop": [
+          0,
+          40,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "id": "fleet-info-panel",
+      "path": "images/fleet-info-panel.png",
+      "kind": "captured-window",
+      "width": 640,
+      "height": 96,
+      "sha256": "ac28a4704a1976676f62db158b06b8899852e1b689f6c5290fb055ba3dfc8ce4",
+      "origin": [
+        0,
+        344
+      ],
+      "source": {
+        "capture": "docs/evidence/info-fleet-sheet.png",
+        "sha256": "24b9c5ef1878e31ed77d1c8e179150c954699fbd1b59ce315084e14b87c26b6d",
+        "crop": [
+          0,
+          344,
+          640,
+          96
+        ]
+      }
+    },
+    {
+      "id": "lord-window",
+      "path": "images/lord-window.png",
+      "kind": "captured-window",
+      "width": 248,
+      "height": 168,
+      "sha256": "69080854703a3b6d7138f678142b24053cd1c1ef4684d2206ed6b742029a4bd2",
+      "origin": [
+        120,
+        72
+      ],
+      "source": {
+        "capture": "docs/evidence/info-lord.png",
+        "sha256": "f5804a7b74c3b4320ba73b54217252fba15a586f3c74200b6d86f4a2ea0c986a",
+        "crop": [
+          120,
+          72,
+          248,
+          168
+        ]
+      }
+    },
+    {
+      "id": "menu-list-items",
+      "path": "images/menu-list-items.png",
+      "kind": "captured-window",
+      "width": 160,
+      "height": 200,
+      "sha256": "07fc3a09a231dc6130fcccbcdbbd37c084265a3278db885b4c2681b9fae35e85",
+      "origin": [
+        480,
+        152
+      ],
+      "source": {
+        "capture": "docs/evidence/item-list.png",
+        "sha256": "dacf017d69e7f8b7a8f48abd7cd919e8231f6049c231a13be353a61b8d7de3ea",
+        "crop": [
+          480,
+          152,
+          160,
+          200
+        ]
+      }
+    },
+    {
+      "id": "item-window",
+      "path": "images/item-window.png",
+      "kind": "captured-window",
+      "width": 384,
+      "height": 176,
+      "sha256": "837925ad2c71f3641d86f6eb5bad1f73ef49928ae56a625da7e8156e74e04767",
+      "origin": [
+        96,
+        168
+      ],
+      "source": {
+        "capture": "docs/evidence/item-detail.png",
+        "sha256": "4b45cc233ead055c62cd8d56ee4eab40915304fdb8890bfb01601bf352148318",
+        "crop": [
+          96,
+          168,
+          384,
+          176
+        ]
+      }
+    },
+    {
+      "id": "item-note-window",
+      "path": "images/item-note-window.png",
+      "kind": "captured-window",
+      "width": 224,
+      "height": 96,
+      "sha256": "f058ab3edbb6f424fdbd8d3fad68499be11b36c336d5abb702a16a824a80e911",
+      "origin": [
+        144,
+        88
+      ],
+      "source": {
+        "capture": "docs/evidence/item-equip-note.png",
+        "sha256": "e145da942a6ab115e985733b5e7c05824329b48283f8c1e7379fa0e4306cea23",
+        "crop": [
+          144,
+          88,
+          224,
+          96
+        ]
+      }
+    },
+    {
+      "id": "item-pictures",
+      "path": "images/item-pictures.png",
+      "kind": "decoded-graph",
+      "width": 336,
+      "height": 336,
+      "sha256": "8d60b75968410b84fe375645f9df6d066353f82be9268630329c3dc9c139e933",
+      "origin": [
+        0,
+        0
+      ],
+      "source": {
+        "file": "KAO.LZW",
+        "members": "213..255",
+        "palette": "docs/evidence/item-detail.png"
+      }
+    },
+    {
+      "id": "menu-list-cargo",
+      "path": "images/menu-list-cargo.png",
+      "kind": "captured-window",
+      "width": 160,
+      "height": 200,
+      "sha256": "c62f39e46cf8705753030358ece0da10c295ebfe4a22f00c92075f7247c5a265",
+      "origin": [
+        480,
+        72
+      ],
+      "source": {
+        "capture": "docs/evidence/info-cargo-list.png",
+        "sha256": "c62b6f67db0abb9592b79717495611e9928263efd6abe2c31ab4afb39a75c891",
+        "crop": [
+          480,
+          72,
+          160,
+          200
+        ]
+      }
+    },
+    {
+      "id": "shop-panel",
+      "path": "images/shop-panel.png",
+      "kind": "captured-window",
+      "width": 368,
+      "height": 152,
+      "sha256": "8108ceaabc0b682cce2fb98b675f8288aebeda0e63467168dc14e1444ee47bad",
+      "origin": [
+        104,
+        176
+      ],
+      "source": {
+        "capture": "docs/evidence/shop-buylist.png",
+        "sha256": "afcf3d6f4f5057fd8d546ba05e92cc3a58fa91de35c46d821c6249d5885771e2",
+        "crop": [
+          104,
+          176,
+          368,
+          152
+        ]
+      }
+    },
+    {
+      "id": "cargo-window",
+      "path": "images/cargo-window.png",
+      "kind": "captured-window",
+      "width": 160,
+      "height": 144,
+      "sha256": "abc7bca6ed49591f610d2863994f241a55b8693c3adc4627604f3eb6bdc9b2b5",
+      "origin": [
+        120,
+        72
+      ],
+      "source": {
+        "capture": "docs/evidence/info-cargo-sheet.png",
+        "sha256": "4eaf8f69b46ed8902bd7fe5e92ca80c206b3abcd2137a88145daeb30fb0a188e",
+        "crop": [
+          120,
+          72,
+          160,
+          144
+        ]
+      }
+    },
+    {
+      "id": "menu-list-goods",
+      "path": "images/menu-list-goods.png",
+      "kind": "captured-window",
+      "width": 168,
+      "height": 200,
+      "sha256": "3c8ce3a9b83ecf471bf2af96f3cfd02f0422c04ed5af785615140b3c4e3d5ddd",
+      "origin": [
+        472,
+        72
+      ],
+      "source": {
+        "capture": "docs/evidence/info-goods-list.png",
+        "sha256": "130c66f6d74cc65442e142ef5cd7abeeb06d9324da0eb38da3d5320fb906286d",
+        "crop": [
+          472,
+          72,
+          168,
+          200
+        ]
+      }
+    },
+    {
+      "id": "menu-list-discoveries",
+      "path": "images/menu-list-discoveries.png",
+      "kind": "captured-window",
+      "width": 144,
+      "height": 200,
+      "sha256": "c9bccda8a3a2ab24646db1c2fe0695cfa8b1c222bf2a4b96f4d37fa4812ceecc",
+      "origin": [
+        496,
+        152
+      ],
+      "source": {
+        "capture": "docs/evidence/info-disc-list.png",
+        "sha256": "c683b5637a0b9b46656dd68873a1c3ab34e3b00e7b2f9ffc83dfa3f81ae47504",
+        "crop": [
+          496,
+          152,
+          144,
+          200
+        ]
+      }
+    },
+    {
+      "id": "discovery-window",
+      "path": "images/discovery-window.png",
+      "kind": "captured-window",
+      "width": 224,
+      "height": 208,
+      "sha256": "6b97101a54bbd01b788661cfdd84ed3ee55f034c5ce73deccdf550d60c38e1c4",
+      "origin": [
+        120,
+        72
+      ],
+      "source": {
+        "capture": "docs/evidence/info-disc-sheet.png",
+        "sha256": "d4aee5815d0cad6a76e7800af366fbe66cbff35b8c934982d7ff127b6895acf6",
+        "crop": [
+          120,
+          72,
+          224,
+          208
+        ]
+      }
+    },
+    {
+      "id": "discovery-pictures",
+      "path": "images/discovery-pictures.png",
+      "kind": "decoded-graph",
+      "width": 432,
+      "height": 480,
+      "sha256": "be1931a914ab0ace6086f0f560d1c1d98b4363421333b8a70a6a08bf040388c8",
+      "origin": [
+        0,
+        0
+      ],
+      "source": {
+        "file": "KAO.LZW",
+        "members": "128..212",
+        "palette": "docs/evidence/info-disc-sheet.png"
+      }
+    },
+    {
+      "id": "save-window-main",
+      "path": "images/save-window-main.png",
+      "kind": "captured-window",
+      "width": 256,
+      "height": 144,
+      "sha256": "3751e16bd6cdce0c55d87f43139e84c61bb0c27ae6609a42db4d2b565d84a5b0",
+      "origin": [
+        192,
+        88
+      ],
+      "source": {
+        "capture": "docs/evidence/save-main-menu.png",
+        "sha256": "155b634a4fb4836fe81c58529f7b28dbfb877aa0ae6141e01e67f25542e733f0",
+        "crop": [
+          192,
+          88,
+          256,
+          144
+        ]
+      }
+    },
+    {
+      "id": "save-window-list",
+      "path": "images/save-window-list.png",
+      "kind": "captured-window",
+      "width": 240,
+      "height": 288,
+      "sha256": "249864f10df31dc25e8c8f95f8d1c0378443e63e6a73fd36e098ab0270518442",
+      "origin": [
+        200,
+        88
+      ],
+      "source": {
+        "capture": "docs/evidence/save-list.png",
+        "sha256": "1447714a2b69efd2e9c4fda89dc9d2bdaebc0cb2d8c85a7da47502ca04defd30",
+        "crop": [
+          200,
+          88,
+          240,
+          288
+        ]
+      }
+    },
+    {
+      "id": "save-window-confirm",
+      "path": "images/save-window-confirm.png",
+      "kind": "captured-window",
+      "width": 256,
+      "height": 48,
+      "sha256": "3f3f0876a3fda0aebafc270e1896f3eb8fe61e5e9d489ab38916551b846cf725",
+      "origin": [
+        192,
+        296
+      ],
+      "source": {
+        "capture": "docs/evidence/save-load-confirm.png",
+        "sha256": "9680e17402775dbbb1eca356168eed2c9aafb845657d86c806f1311660928566",
+        "crop": [
+          192,
+          296,
+          256,
+          48
+        ]
+      }
+    },
+    {
+      "id": "save-window-note",
+      "path": "images/save-window-note.png",
+      "kind": "captured-window",
+      "width": 240,
+      "height": 48,
+      "sha256": "2b93aae16ee632023ef532616b44c758cc1ce81b77fdeff3714fd31028acbf69",
+      "origin": [
+        200,
+        296
+      ],
+      "source": {
+        "capture": "docs/evidence/save-empty-note.png",
+        "sha256": "80c7e3a36b399ded31e3817fe75359bcaa297b0b37b767ede461a608f6bad88d",
+        "crop": [
+          200,
+          296,
+          240,
+          48
+        ]
+      }
+    },
+    {
+      "id": "hud-tab-sail-active",
+      "path": "images/hud-tab-sail-active.png",
+      "kind": "captured-window",
+      "width": 26,
+      "height": 82,
+      "sha256": "740dda189434916cfe118c73c233eeeb6a297750896e3ede3e957b40acbae39f",
+      "origin": [
+        614,
+        351
+      ],
+      "source": {
+        "capture": "docs/evidence/save-save-list.png",
+        "sha256": "fcb1be752251f843d13e2f9e5114c91c8065ba43b8d6eba92a9b57a946a70cc9",
+        "crop": [
+          614,
+          351,
+          26,
+          82
+        ]
+      }
+    },
+    {
+      "id": "hud-tab-info-active",
+      "path": "images/hud-tab-info-active.png",
+      "kind": "captured-window",
+      "width": 26,
+      "height": 82,
+      "sha256": "8400344bd34f57189362f7786300ca547a8bf3c8f9bdbc7785c8e9532f0ef639",
+      "origin": [
+        614,
+        111
+      ],
+      "source": {
+        "capture": "docs/evidence/info-journal.png",
+        "sha256": "77b94d73ecd334b217d163eec31ce2a3be28aa05c23d21a6f651a54cb640e6bd",
+        "crop": [
+          614,
+          111,
+          26,
+          82
+        ]
+      }
+    },
+    {
+      "id": "hud-tab-cmd-active",
+      "path": "images/hud-tab-cmd-active.png",
+      "kind": "captured-window",
+      "width": 26,
+      "height": 82,
+      "sha256": "a843f75b97bed8fa4461440c01cecd14f0ec829be06f5addc46652202e9485c4",
+      "origin": [
+        614,
+        271
+      ],
+      "source": {
+        "capture": "docs/evidence/f3-nofleet.png",
+        "sha256": "f271301d7b9c97aefd53330d5c608cd7ebbce44f8483beca73d69f9e962fc39d",
+        "crop": [
+          614,
+          271,
+          26,
+          82
+        ]
+      }
+    },
+    {
+      "id": "food-window",
+      "path": "images/food-window.png",
+      "kind": "captured-window",
+      "width": 176,
+      "height": 96,
+      "sha256": "95c64bb50ae679ab05355592d2674aefa66fab8245b360813fcb5d2fa5579716",
+      "origin": [
+        456,
+        264
+      ],
+      "source": {
+        "capture": "docs/evidence/f3-food-25-75.png",
+        "sha256": "d5fe07e55dde632c08cb25b52b0701916dd17b6a2922a600f1534dc3caecdeed",
+        "crop": [
+          456,
+          264,
+          176,
+          96
+        ]
+      }
+    },
+    {
+      "id": "food-sel-left",
+      "path": "images/food-sel-left.png",
+      "kind": "captured-window",
+      "width": 16,
+      "height": 16,
+      "sha256": "f9463505897661099ff4a0cdc938ceff822c9a11eed776bfdd73d1aeb3a668c4",
+      "origin": [
+        512,
+        280
+      ],
+      "source": {
+        "capture": "docs/evidence/f3-food-25-75.png",
+        "sha256": "d5fe07e55dde632c08cb25b52b0701916dd17b6a2922a600f1534dc3caecdeed",
+        "crop": [
+          512,
+          280,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "id": "food-sel-right",
+      "path": "images/food-sel-right.png",
+      "kind": "captured-window",
+      "width": 16,
+      "height": 16,
+      "sha256": "4ddc499de9ff2f19af052ce9f1734f4a35097dc031fcf0bb4d695d4039be7b30",
+      "origin": [
+        600,
+        280
+      ],
+      "source": {
+        "capture": "docs/evidence/f3-food-right.png",
+        "sha256": "e970909a1e550eb2d347389c8bb60b687016c3f5cd7b4ce9b389c09b7380812a",
+        "crop": [
+          600,
+          280,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "id": "menu-list-crew",
+      "path": "images/menu-list-crew.png",
+      "kind": "captured-window",
+      "width": 262,
+      "height": 200,
+      "sha256": "0875255032bf37eda378b0dfc0ffd027ccff6c55082651d05c0e91db7c8afe09",
+      "origin": [
+        378,
+        216
+      ],
+      "source": {
+        "capture": "docs/evidence/f3-wage-list.png",
+        "sha256": "cc7c0fd0f7d4e15df0a2b49f8e036869be673e78f1b6beb5b435efc232882145",
+        "crop": [
+          378,
+          216,
+          262,
+          200
+        ]
+      }
+    },
+    {
+      "id": "menu-list-captain",
+      "path": "images/menu-list-captain.png",
+      "kind": "captured-window",
+      "width": 240,
+      "height": 200,
+      "sha256": "54f68e3cd88b1614b9d9ac72093743d75ff4035e9beda9bbff5773e6136842c4",
+      "origin": [
+        400,
+        160
+      ],
+      "source": {
+        "capture": "docs/evidence/f3-multi1.png",
+        "sha256": "0eab6fb8f4d5c23ec4d56b59f068b179b0132a9f0347d850c4c249199ae3181c",
+        "crop": [
+          400,
+          160,
+          240,
+          200
+        ]
+      }
+    },
+    {
+      "id": "menu-list-fleet-sea",
+      "path": "images/menu-list-fleet-sea.png",
+      "kind": "captured-window",
+      "width": 160,
+      "height": 200,
+      "sha256": "c62f39e46cf8705753030358ece0da10c295ebfe4a22f00c92075f7247c5a265",
+      "origin": [
+        480,
+        72
+      ],
+      "source": {
+        "capture": "docs/evidence/f3-form-b.png",
+        "sha256": "2c3861f282afe51e531bf8b2e65ef74b7cd299ab1b22ee1cc9a3b7bb9eb704be",
+        "crop": [
+          480,
+          72,
+          160,
+          200
+        ]
+      }
+    },
+    {
+      "id": "map-spot",
+      "path": "images/map-spot.png",
+      "kind": "captured-window",
+      "width": 16,
+      "height": 16,
+      "sha256": "ecdab8177edb676795aae531adb3b809069a0ae2610ca996014a3e0ea190529e",
+      "origin": [
+        352,
+        288
+      ],
+      "source": {
+        "capture": "docs/evidence/map-item-80.png",
+        "sha256": "0d4c46f57ae8b3e37851da431161c7a2c4a8a7feeb3a2dcfc824513652351f58",
+        "crop": [
+          352,
+          288,
+          16,
+          16
+        ]
+      }
+    },
+    {
+      "id": "land-list-ship",
+      "path": "images/land-list-ship.png",
+      "kind": "captured-window",
+      "width": 160,
+      "height": 200,
+      "sha256": "c62f39e46cf8705753030358ece0da10c295ebfe4a22f00c92075f7247c5a265",
+      "origin": [
+        480,
+        104
+      ],
+      "source": {
+        "capture": "docs/evidence/landing/repair-list.png",
+        "sha256": "6f10d5c20df9ae1b13398c3b1ce127cf9d610e62ef365b982e32bad7db892c29",
+        "crop": [
+          480,
+          104,
+          160,
+          200
+        ]
+      }
+    },
+    {
+      "id": "land-list-water",
+      "path": "images/land-list-water.png",
+      "kind": "captured-window",
+      "width": 240,
+      "height": 200,
+      "sha256": "86fc07d6630b14d5940aec9a1188717c45e993185c93e69ce24ac8916c1f97c8",
+      "origin": [
+        400,
+        152
+      ],
+      "source": {
+        "capture": "docs/evidence/landing/water-list.png",
+        "sha256": "e1d77e02109b2419ea0dfb4fa0186204c77771a575b05e210bc343947b4b1aaa",
+        "crop": [
+          400,
+          152,
+          240,
+          200
+        ]
+      }
+    },
+    {
+      "id": "land-repair-window",
+      "path": "images/land-repair-window.png",
+      "kind": "captured-window",
+      "width": 192,
+      "height": 128,
+      "sha256": "4802a3eaea77197af3bbea4e56e15be154d9887b4effe25483168b5d1e6eaa07",
+      "origin": [
+        160,
+        136
+      ],
+      "source": {
+        "capture": "docs/evidence/landing/repair-panel.png",
+        "sha256": "5f019dca1f39f74dccf6b5d5eb5827cd0e42d56d7af71d1fd482ffdd9d890644",
+        "crop": [
+          160,
+          136,
+          192,
+          128
+        ]
+      }
+    }
+  ],
+  "labels": {
+    "load": {
+      "capture": "docs/evidence/menus-supply.png",
+      "tokens": [
+        {
+          "x": 136,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 3930
+        },
+        {
+          "x": 168,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 708
+        }
+      ]
+    },
+    "unload": {
+      "capture": "docs/evidence/menus-supply-unload.png",
+      "tokens": [
+        {
+          "x": 136,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 1463
+        },
+        {
+          "x": 168,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 706
+        }
+      ]
+    },
+    "supplyHeaders": {
+      "capture": "docs/evidence/menus-supply.png",
+      "tokens": [
+        {
+          "x": 280,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 831
+        },
+        {
+          "x": 312,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 2184
+        },
+        {
+          "x": 328,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 1700
+        },
+        {
+          "x": 352,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 3961
+        },
+        {
+          "x": 368,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 1305
+        },
+        {
+          "x": 392,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 2478
+        },
+        {
+          "x": 408,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 4507
+        }
+      ]
+    },
+    "departHeaders": {
+      "capture": "docs/evidence/menus-departure.png",
+      "tokens": [
+        {
+          "x": 240,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 4817
+        },
+        {
+          "x": 256,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 4815
+        },
+        {
+          "x": 280,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 5239
+        },
+        {
+          "x": 296,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 2858
+        },
+        {
+          "x": 320,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 954
+        },
+        {
+          "x": 336,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 1642
+        },
+        {
+          "x": 360,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 4970
+        },
+        {
+          "x": 376,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 3979
+        },
+        {
+          "x": 400,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 831
+        },
+        {
+          "x": 432,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 2184
+        },
+        {
+          "x": 448,
+          "y": 88,
+          "bank": 1,
+          "oneBasedIndex": 1700
+        }
+      ]
+    },
+    "unitCrew": {
+      "capture": "docs/evidence/menus-departure.png",
+      "tokens": [
+        {
+          "x": 264,
+          "y": 112,
+          "bank": 1,
+          "oneBasedIndex": 1022
+        }
+      ]
+    },
+    "boardBuyHeader": {
+      "capture": "docs/evidence/menus-market-list.png",
+      "tokens": [
+        {
+          "x": 144,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 2682
+        },
+        {
+          "x": 160,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 1846
+        },
+        {
+          "x": 176,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 1022
+        },
+        {
+          "x": 224,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 4448
+        },
+        {
+          "x": 240,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 2386
+        },
+        {
+          "x": 336,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 2682
+        },
+        {
+          "x": 352,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 1846
+        },
+        {
+          "x": 368,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 1022
+        },
+        {
+          "x": 416,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 4448
+        },
+        {
+          "x": 432,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 2386
+        }
+      ]
+    },
+    "boardSellHeader": {
+      "capture": "docs/evidence/menus-sell-list.png",
+      "tokens": [
+        {
+          "x": 200,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 2682
+        },
+        {
+          "x": 216,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 1846
+        },
+        {
+          "x": 232,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 1022
+        },
+        {
+          "x": 280,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 4970
+        },
+        {
+          "x": 296,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 3979
+        },
+        {
+          "x": 312,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 3560
+        },
+        {
+          "x": 344,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 4448
+        },
+        {
+          "x": 360,
+          "y": 184,
+          "bank": 1,
+          "oneBasedIndex": 2386
+        }
+      ]
+    },
+    "buyShipsHeader": {
+      "capture": "docs/evidence/menus-market-ships.png",
+      "tokens": [
+        {
+          "x": 448,
+          "y": 156,
+          "bank": 1,
+          "oneBasedIndex": 5776
+        },
+        {
+          "x": 480,
+          "y": 156,
+          "bank": 1,
+          "oneBasedIndex": 3023
+        },
+        {
+          "x": 512,
+          "y": 156,
+          "bank": 1,
+          "oneBasedIndex": 1022
+        },
+        {
+          "x": 552,
+          "y": 156,
+          "bank": 1,
+          "oneBasedIndex": 883
+        },
+        {
+          "x": 568,
+          "y": 156,
+          "bank": 1,
+          "oneBasedIndex": 2538
+        },
+        {
+          "x": 584,
+          "y": 156,
+          "bank": 1,
+          "oneBasedIndex": 3560
+        }
+      ]
+    },
+    "sellShipsTitle": {
+      "capture": "docs/evidence/menus-sell-ships.png",
+      "tokens": [
+        {
+          "x": 520,
+          "y": 156,
+          "bank": 1,
+          "oneBasedIndex": 2682
+        },
+        {
+          "x": 544,
+          "y": 156,
+          "bank": 1,
+          "oneBasedIndex": 1846
+        },
+        {
+          "x": 568,
+          "y": 156,
+          "bank": 1,
+          "oneBasedIndex": 4743
+        },
+        {
+          "x": 592,
+          "y": 156,
+          "bank": 1,
+          "oneBasedIndex": 866
+        }
+      ]
+    }
+  },
+  "menuOrigin": [
+    480,
+    144
+  ],
+  "note": "M3 item 1: crops of original VGA captures; geometry measured from the same captures (docs/evidence/menus-*.png)."
+}

@@ -1,0 +1,671 @@
+{
+  "source": "MENU.DAT",
+  "id": 56,
+  "offset": 2230,
+  "headerHex": "1c05",
+  "headerSemantics": "Unverified; observedsecondbyte5 matches5 NUL-terminated entries",
+  "entries": [
+    {
+      "id": 0,
+      "rawHex": "adaa2020adfc20209c8d20209bbf2020a1cf202098f8",
+      "tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "adaa",
+          "bank": 1,
+          "oneBasedIndex": 5771,
+          "glyphId": "font1:5770",
+          "fontOffset": 164120,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 2,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 3,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "adfc",
+          "bank": 1,
+          "oneBasedIndex": 5853,
+          "glyphId": "font1:5852",
+          "fontOffset": 166456,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 6,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 7,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 8,
+          "codeHex": "9c8d",
+          "bank": 1,
+          "oneBasedIndex": 2546,
+          "glyphId": "font1:2545",
+          "fontOffset": 72388,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 10,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 11,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 12,
+          "codeHex": "9bbf",
+          "bank": 1,
+          "oneBasedIndex": 2408,
+          "glyphId": "font1:2407",
+          "fontOffset": 68460,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 14,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 15,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 16,
+          "codeHex": "a1cf",
+          "bank": 1,
+          "oneBasedIndex": 3552,
+          "glyphId": "font1:3551",
+          "fontOffset": 101004,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 18,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 19,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 20,
+          "codeHex": "98f8",
+          "bank": 1,
+          "oneBasedIndex": 1901,
+          "glyphId": "font1:1900",
+          "fontOffset": 54040,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 22
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "rawHex": "8130a1e32020202096ed20202020a2ba202020209c8d202020209bbf",
+      "tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "8130",
+          "bank": 1,
+          "oneBasedIndex": 1,
+          "glyphId": "font1:0",
+          "fontOffset": 0,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "a1e3",
+          "bank": 1,
+          "oneBasedIndex": 3572,
+          "glyphId": "font1:3571",
+          "fontOffset": 101572,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 4,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 5,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 6,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 7,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 8,
+          "codeHex": "96ed",
+          "bank": 1,
+          "oneBasedIndex": 1514,
+          "glyphId": "font1:1513",
+          "fontOffset": 43036,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 10,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 11,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 12,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 13,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 14,
+          "codeHex": "a2ba",
+          "bank": 1,
+          "oneBasedIndex": 3719,
+          "glyphId": "font1:3718",
+          "fontOffset": 105752,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 16,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 17,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 18,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 19,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 20,
+          "codeHex": "9c8d",
+          "bank": 1,
+          "oneBasedIndex": 2546,
+          "glyphId": "font1:2545",
+          "fontOffset": 72388,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 22,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 23,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 24,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 25,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 26,
+          "codeHex": "9bbf",
+          "bank": 1,
+          "oneBasedIndex": 2408,
+          "glyphId": "font1:2407",
+          "fontOffset": 68460,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 28
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "rawHex": "aabe20202020a4b9202020209f592020202096f8",
+      "tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "aabe",
+          "bank": 1,
+          "oneBasedIndex": 5227,
+          "glyphId": "font1:5226",
+          "fontOffset": 148648,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 2,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 3,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 4,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 5,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 6,
+          "codeHex": "a4b9",
+          "bank": 1,
+          "oneBasedIndex": 4094,
+          "glyphId": "font1:4093",
+          "fontOffset": 116420,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 8,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 9,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 10,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 11,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 12,
+          "codeHex": "9f59",
+          "bank": 1,
+          "oneBasedIndex": 3069,
+          "glyphId": "font1:3068",
+          "fontOffset": 87264,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 14,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 15,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 16,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 17,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 18,
+          "codeHex": "96f8",
+          "bank": 1,
+          "oneBasedIndex": 1525,
+          "glyphId": "font1:1524",
+          "fontOffset": 43344,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 20
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "rawHex": "a14e2020202095d520202020a44120202020aa82",
+      "tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "a14e",
+          "bank": 1,
+          "oneBasedIndex": 3434,
+          "glyphId": "font1:3433",
+          "fontOffset": 97644,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 2,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 3,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 4,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 5,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 6,
+          "codeHex": "95d5",
+          "bank": 1,
+          "oneBasedIndex": 1302,
+          "glyphId": "font1:1301",
+          "fontOffset": 37004,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 8,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 9,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 10,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 11,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 12,
+          "codeHex": "a441",
+          "bank": 1,
+          "oneBasedIndex": 3985,
+          "glyphId": "font1:3984",
+          "fontOffset": 113320,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 14,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 15,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 16,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 17,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 18,
+          "codeHex": "aa82",
+          "bank": 1,
+          "oneBasedIndex": 5167,
+          "glyphId": "font1:5166",
+          "fontOffset": 146944,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 20
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "rawHex": "aa5920202020949520202020a1cf2020202098f8",
+      "tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "aa59",
+          "bank": 1,
+          "oneBasedIndex": 5137,
+          "glyphId": "font1:5136",
+          "fontOffset": 146088,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 2,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 3,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 4,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 5,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 6,
+          "codeHex": "9495",
+          "bank": 1,
+          "oneBasedIndex": 1050,
+          "glyphId": "font1:1049",
+          "fontOffset": 29836,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 8,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 9,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 10,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 11,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 12,
+          "codeHex": "a1cf",
+          "bank": 1,
+          "oneBasedIndex": 3552,
+          "glyphId": "font1:3551",
+          "fontOffset": 101004,
+          "unicode": null
+        },
+        {
+          "kind": "ascii",
+          "offset": 14,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 15,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 16,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "ascii",
+          "offset": 17,
+          "byte": 32,
+          "text": " "
+        },
+        {
+          "kind": "glyph",
+          "offset": 18,
+          "codeHex": "98f8",
+          "bank": 1,
+          "oneBasedIndex": 1901,
+          "glyphId": "font1:1900",
+          "fontOffset": 54040,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 20
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+ "version": 1,
+ "assets": [
+  {
+   "id": "hud-sea-frame",
+   "path": "images/hud-sea-frame.png",
+   "kind": "decoded-hud-frame",
+   "width": 640,
+   "height": 480,
+   "sha256": "04bba779073b02cbcfc30cd32a16d832e242c50de32217a6dcf14af02c774afd",
+   "source": {
+    "name": "GRAPH.DAT",
+    "member": 2,
+    "sha256": "bbb0762c1452e56d40aebdcc9c03763159b6146b5aecdb904dbeaad9555b720a",
+    "decoder": "tools/assets/graph.py",
+    "palette": "fixed 8-colour palette verified against the capture"
+   },
+   "verification": {
+    "capture": "docs/evidence/sea-original-departure.png",
+    "comparedPixels": 65632,
+    "mismatches": 0,
+    "excluded": "dials, gauges, numbers, date"
+   }
+  },
+  {
+   "id": "hud-port-frame",
+   "path": "images/hud-port-frame.png",
+   "kind": "decoded-hud-frame",
+   "width": 640,
+   "height": 480,
+   "sha256": "2fc1ae10dd805099cb86c7ab9abddfb8d8facb7206e7b906119dfffbcfefa9a9",
+   "source": {
+    "name": "GRAPH.DAT",
+    "member": 3,
+    "sha256": "bbb0762c1452e56d40aebdcc9c03763159b6146b5aecdb904dbeaad9555b720a",
+    "decoder": "tools/assets/graph.py"
+   },
+   "verification": {
+    "capture": "docs/evidence/port-first.png",
+    "comparedPixels": 108544,
+    "mismatches": 2162,
+    "note": "mismatches are the values, port/region name, date, clock and cursor the game draws"
+   }
+  },
+  {
+   "id": "sea-dial-ring",
+   "path": "images/sea-dial-ring.png",
+   "kind": "captured-crop",
+   "width": 40,
+   "height": 40,
+   "sha256": "f91609f81bb72364a0f77699cf80b7a420900e05c0c45c5378997a5dfead7812",
+   "source": {
+    "capture": "docs/evidence/sea-original-departure.png",
+    "crop": [
+     568,
+     200,
+     40,
+     40
+    ]
+   }
+  },
+  {
+   "id": "sea-dial-arrow",
+   "path": "images/sea-dial-arrow.png",
+   "kind": "captured-crop",
+   "width": 40,
+   "height": 40,
+   "sha256": "6cc78b00d12e87aec04a449f941dc46d2078db39ce5a55eb9f82ab6a48d9e1b6",
+   "source": {
+    "capture": "docs/evidence/sea-original-departure.png",
+    "crop": [
+     568,
+     104,
+     40,
+     40
+    ],
+    "note": "arrow pointing south (current direction 4 at the capture); other directions are rotated approximations"
+   }
+  }
+ ]
+}

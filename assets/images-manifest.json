@@ -1,0 +1,323 @@
+{
+ "version": 1,
+ "assets": [
+  {
+   "id": "KAO.LZW:0",
+   "path": "images/kao-0000-reference-palette.png",
+   "kind": "portrait",
+   "width": 64,
+   "height": 80,
+   "source": {
+    "name": "KAO.LZW",
+    "member": 0,
+    "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+   },
+   "sha256": "82852d248f23c1a2353c98f40e159c7d913f0ec19d782dff4665d5eb09e4f3f8",
+   "palette": "protagonist-selection",
+   "confidence": "runtime-pixel-exact",
+   "transparent": false
+  },
+  {
+   "id": "KAO.LZW:1",
+   "path": "images/kao-0001-reference-palette.png",
+   "kind": "portrait",
+   "width": 64,
+   "height": 80,
+   "source": {
+    "name": "KAO.LZW",
+    "member": 1,
+    "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+   },
+   "sha256": "2205cf6ba6e6731894b33bace6eb3168e14642653edb7cba246fd806468729fa",
+   "palette": "protagonist-selection",
+   "confidence": "runtime-pixel-exact",
+   "transparent": false
+  },
+  {
+   "id": "KAO.LZW:2",
+   "path": "images/kao-0002-reference-palette.png",
+   "kind": "portrait",
+   "width": 64,
+   "height": 80,
+   "source": {
+    "name": "KAO.LZW",
+    "member": 2,
+    "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+   },
+   "sha256": "19506a703613e4a97c5589295c92456acd2d9a55eebe08e7962f1ac119e365ed",
+   "palette": "protagonist-selection",
+   "confidence": "runtime-pixel-exact",
+   "transparent": false
+  },
+  {
+   "id": "KAO.LZW:3",
+   "path": "images/kao-0003-reference-palette.png",
+   "kind": "portrait",
+   "width": 64,
+   "height": 80,
+   "source": {
+    "name": "KAO.LZW",
+    "member": 3,
+    "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+   },
+   "sha256": "18d9f2d486cd17dfb85d59eeb4aee84bb76ce7f6dad8f9099e8572e078df595a",
+   "palette": "protagonist-selection",
+   "confidence": "runtime-pixel-exact",
+   "transparent": false
+  },
+  {
+   "id": "KAO.LZW:4",
+   "path": "images/kao-0004-reference-palette.png",
+   "kind": "portrait",
+   "width": 64,
+   "height": 80,
+   "source": {
+    "name": "KAO.LZW",
+    "member": 4,
+    "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+   },
+   "sha256": "cfa4e68509cfdaf72727e5586f3fcd578eed69f9ab94b5c53a0aa4ecbb4b2174",
+   "palette": "protagonist-selection",
+   "confidence": "runtime-pixel-exact",
+   "transparent": false
+  },
+  {
+   "id": "KAO.LZW:5",
+   "path": "images/kao-0005-reference-palette.png",
+   "kind": "portrait",
+   "width": 64,
+   "height": 80,
+   "source": {
+    "name": "KAO.LZW",
+    "member": 5,
+    "sha256": "ffd3fb6660f92fef089861aa42bc7c2a4a50370cb27017f3cd2149361580ef87"
+   },
+   "sha256": "358e8c0b81f1ec5f3e6db3da13dbf03343b5346f579824bdc07433d18d75aeb5",
+   "palette": "protagonist-selection",
+   "confidence": "runtime-pixel-exact",
+   "transparent": false
+  },
+  {
+   "id": "font1",
+   "kind": "font",
+   "path": "fonts/font1.png",
+   "width": 16,
+   "height": 14,
+   "columns": 32,
+   "glyphs": 6086,
+   "confidence": "static-renderer; font1 menu runtime-pixel-exact",
+   "source": {
+    "name": "1.PAT",
+    "sha256": "c3c82e8b49a831619f0a27289f19e54b5b3f9fc301ca91b13924777a5fd9f00c"
+   },
+   "sha256": "2325bbdb05c2a600be0f6765450cb34eeefd34d2969a841aa829b848fb514fb9"
+  },
+  {
+   "id": "font2",
+   "kind": "font",
+   "path": "fonts/font2.png",
+   "width": 16,
+   "height": 14,
+   "columns": 32,
+   "glyphs": 7650,
+   "confidence": "static-renderer; font1 menu runtime-pixel-exact",
+   "source": {
+    "name": "2.PAT",
+    "sha256": "4629ba691c7ef9d2c7f4bc56c633f81286f9837cd8e8608e31b80fdb75853c22"
+   },
+   "sha256": "be450b66ab6b5047dc7f13a9d4136b6cbedd9d8ae434ad573fd4a3e4b4894ffc"
+  },
+  {
+   "id": "ascii",
+   "kind": "ascii-font",
+   "path": "fonts/ascii.png",
+   "width": 8,
+   "height": 16,
+   "confidence": "BIOS runtime-pixel-exact tested subset",
+   "sha256": "5c94edfad77cf0dd830ee2c415d1f9f99b104c2b81cca5320b17b0faab193e69"
+  },
+  {
+   "id": "PORTCHIP.LZW:0",
+   "kind": "port-atlas",
+   "path": "images/portchip-0000-reference-palette.png",
+   "confidence": "first-port visible subset runtime-pixel-exact",
+   "sha256": "ab23a4b8a859f52573ed42fffee67fa6b0699b415d6d434135c1583251a9a140"
+  },
+  {
+   "id": "CHAR.LZW:0",
+   "kind": "walking-atlas",
+   "path": "images/char-0000-reference-palette.png",
+   "confidence": "first-port visible subset runtime-pixel-exact",
+   "sha256": "1fbfd8572277fef6c33775f3fd6c07b06e89336282e4b23ab926232112d89eb9"
+  },
+  {
+   "id": "CHAR.LZW:6",
+   "kind": "walking-atlas",
+   "path": "images/char-0006-reference-palette.png",
+   "confidence": "first-port visible subset runtime-pixel-exact",
+   "sha256": "b0ff74c936b73c881c4611e8eec32ba87f1000d235a1a26f45f36f48c5283cc0"
+  },
+  {
+   "id": "harbor-backdrop",
+   "kind": "captured-reference-fixture",
+   "path": "images/harbor-reference-backdrop.png",
+   "sha256": "a2e1150ce9216fe0ff43db6847f31d75dcfce2345502bc458b29345ffd0266d9",
+   "source": {
+    "capture": "docs/evidence/port-dialogue-first.png",
+    "sha256": "a2e1150ce9216fe0ff43db6847f31d75dcfce2345502bc458b29345ffd0266d9"
+   },
+   "confidence": "captured bounded backdrop; GRAPH resource recovery pending"
+  },
+  {
+   "id": "harbor-ack",
+   "kind": "captured-reference-fixture",
+   "path": "images/harbor-ack-reference.png",
+   "sha256": "7b646e0fe500f17c6afc8c1887ec1519e9c0946b3abca5321cd3be1ab0b92520",
+   "source": {
+    "capture": "docs/evidence/port-dialogue-first.png",
+    "sha256": "a2e1150ce9216fe0ff43db6847f31d75dcfce2345502bc458b29345ffd0266d9"
+   },
+   "confidence": "captured bounded backdrop; GRAPH resource recovery pending"
+  },
+  {
+   "id": "sea-tiles-p0",
+   "path": "images/sea-tiles-p0.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 256,
+   "source": {
+    "name": "DATA1.LZW",
+    "member": 11,
+    "sha256": "00e9bcbeff65a5978d26c902715d1fc29b0a3f073c45153080e22267376f2572",
+    "palette": "MAIN DS:A4AC entry 0"
+   },
+   "sha256": "2ecec624d562ae8e429c05af87d4909efcf36e415165a4f805ee6a0d8002e31c"
+  },
+  {
+   "id": "sea-tiles-p1",
+   "path": "images/sea-tiles-p1.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 256,
+   "source": {
+    "name": "DATA1.LZW",
+    "member": 11,
+    "sha256": "00e9bcbeff65a5978d26c902715d1fc29b0a3f073c45153080e22267376f2572",
+    "palette": "MAIN DS:A4AC entry 1"
+   },
+   "sha256": "1987741bcf812f6a694e15fdc87d8361680f4ad59c49c674666856657c2ab27e"
+  },
+  {
+   "id": "sea-tiles-p2",
+   "path": "images/sea-tiles-p2.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 256,
+   "source": {
+    "name": "DATA1.LZW",
+    "member": 11,
+    "sha256": "00e9bcbeff65a5978d26c902715d1fc29b0a3f073c45153080e22267376f2572",
+    "palette": "MAIN DS:A4AC entry 2"
+   },
+   "sha256": "cb7e23ceb3111e1a1d38ab1587e38767592f0422ef0f0fc6ac0082ea86957849"
+  },
+  {
+   "id": "sea-tiles-p3",
+   "path": "images/sea-tiles-p3.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 256,
+   "source": {
+    "name": "DATA1.LZW",
+    "member": 11,
+    "sha256": "00e9bcbeff65a5978d26c902715d1fc29b0a3f073c45153080e22267376f2572",
+    "palette": "MAIN DS:A4AC entry 3"
+   },
+   "sha256": "d28379d82c0a996e8b6551634379c81b85bcd5c0b3c26ce6853a78ab33d56d62"
+  },
+  {
+   "id": "sea-ships-p0",
+   "path": "images/sea-ships-p0.png",
+   "kind": "sprite-atlas",
+   "width": 256,
+   "height": 128,
+   "source": {
+    "name": "DATA1.LZW",
+    "member": 11,
+    "bytes": "0x4000-0x7fff",
+    "sha256": "00e9bcbeff65a5978d26c902715d1fc29b0a3f073c45153080e22267376f2572",
+    "palette": "MAIN DS:A4AC entry 0"
+   },
+   "sha256": "e5b775bc8e2e3fa5aa8c7ea7b22bf1f0c9f71e763ab2ef3f2594a89e48d1c74e",
+   "verification": {
+    "capture": "docs/evidence/sea-original-departure.idx",
+    "sprite": 8,
+    "opaquePixels": 486,
+    "mismatches": 0
+   }
+  },
+  {
+   "id": "sea-ships-p1",
+   "path": "images/sea-ships-p1.png",
+   "kind": "sprite-atlas",
+   "width": 256,
+   "height": 128,
+   "source": {
+    "name": "DATA1.LZW",
+    "member": 11,
+    "bytes": "0x4000-0x7fff",
+    "sha256": "00e9bcbeff65a5978d26c902715d1fc29b0a3f073c45153080e22267376f2572",
+    "palette": "MAIN DS:A4AC entry 1"
+   },
+   "sha256": "e5b775bc8e2e3fa5aa8c7ea7b22bf1f0c9f71e763ab2ef3f2594a89e48d1c74e",
+   "verification": {
+    "capture": "docs/evidence/sea-original-departure.idx",
+    "sprite": 8,
+    "opaquePixels": 486,
+    "mismatches": 0
+   }
+  },
+  {
+   "id": "sea-ships-p2",
+   "path": "images/sea-ships-p2.png",
+   "kind": "sprite-atlas",
+   "width": 256,
+   "height": 128,
+   "source": {
+    "name": "DATA1.LZW",
+    "member": 11,
+    "bytes": "0x4000-0x7fff",
+    "sha256": "00e9bcbeff65a5978d26c902715d1fc29b0a3f073c45153080e22267376f2572",
+    "palette": "MAIN DS:A4AC entry 2"
+   },
+   "sha256": "e5b775bc8e2e3fa5aa8c7ea7b22bf1f0c9f71e763ab2ef3f2594a89e48d1c74e",
+   "verification": {
+    "capture": "docs/evidence/sea-original-departure.idx",
+    "sprite": 8,
+    "opaquePixels": 486,
+    "mismatches": 0
+   }
+  },
+  {
+   "id": "sea-ships-p3",
+   "path": "images/sea-ships-p3.png",
+   "kind": "sprite-atlas",
+   "width": 256,
+   "height": 128,
+   "source": {
+    "name": "DATA1.LZW",
+    "member": 11,
+    "bytes": "0x4000-0x7fff",
+    "sha256": "00e9bcbeff65a5978d26c902715d1fc29b0a3f073c45153080e22267376f2572",
+    "palette": "MAIN DS:A4AC entry 3"
+   },
+   "sha256": "e5b775bc8e2e3fa5aa8c7ea7b22bf1f0c9f71e763ab2ef3f2594a89e48d1c74e",
+   "verification": {
+    "capture": "docs/evidence/sea-original-departure.idx",
+    "sprite": 8,
+    "opaquePixels": 486,
+    "mismatches": 0
+   }
+  }
+ ]
+}

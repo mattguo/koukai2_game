@@ -1,0 +1,5757 @@
+{
+  "scope": "Initial economy defaults, source identity verified. Port state and index changes are mutable at runtime. Goods labels and quantity unit await source glyph interpretation/runtime comparison.",
+  "sources": {
+    "MAIN.EXE": "5854c3fc79c53e7cdb7c6ed70ed5eb01d251786a886060c6846d468453a499bc",
+    "DATA1.LZW": "00e9bcbeff65a5978d26c902715d1fc29b0a3f073c45153080e22267376f2572"
+  },
+  "initial_world_identity": {
+    "data1_member": 15,
+    "bytes": 32117,
+    "ds_start": 3236,
+    "sha256": "2c138dd25cff81c44d2c65cf14b841f0cded670e9b240a6a6a704d12c568d43c",
+    "exact_main_copy": true
+  },
+  "goods": [
+    {
+      "id": 0,
+      "main_file_offset": 250770,
+      "data_offset": 66,
+      "raw_name_hex": "92a29a9d",
+      "unicode": "unresolved",
+      "label_manual_transcription": "丁香",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "92a2",
+          "bank": 1,
+          "oneBasedIndex": 687,
+          "glyphId": "font1:686",
+          "fontOffset": 19512,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "9a9d",
+          "bank": 1,
+          "oneBasedIndex": 2186,
+          "glyphId": "font1:2185",
+          "fontOffset": 62148,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 0
+    },
+    {
+      "id": 1,
+      "main_file_offset": 250775,
+      "data_offset": 71,
+      "raw_name_hex": "9b9e93f5",
+      "unicode": "unresolved",
+      "label_manual_transcription": "桂皮",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "9b9e",
+          "bank": 1,
+          "oneBasedIndex": 2375,
+          "glyphId": "font1:2374",
+          "fontOffset": 67520,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "93f5",
+          "bank": 1,
+          "oneBasedIndex": 958,
+          "glyphId": "font1:957",
+          "fontOffset": 27220,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 0
+    },
+    {
+      "id": 2,
+      "main_file_offset": 250780,
+      "data_offset": 76,
+      "raw_name_hex": "9a43a09a",
+      "unicode": "unresolved",
+      "label_manual_transcription": "胡椒",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "9a43",
+          "bank": 1,
+          "oneBasedIndex": 2107,
+          "glyphId": "font1:2106",
+          "fontOffset": 59904,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "a09a",
+          "bank": 1,
+          "oneBasedIndex": 3311,
+          "glyphId": "font1:3310",
+          "fontOffset": 94144,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 0
+    },
+    {
+      "id": 3,
+      "main_file_offset": 250785,
+      "data_offset": 81,
+      "raw_name_hex": "94d79664c94c",
+      "unicode": "unresolved",
+      "label_manual_transcription": "肉豆蔻",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "94d7",
+          "bank": 1,
+          "oneBasedIndex": 1116,
+          "glyphId": "font1:1115",
+          "fontOffset": 31708,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "9664",
+          "bank": 1,
+          "oneBasedIndex": 1382,
+          "glyphId": "font1:1381",
+          "fontOffset": 39276,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "c94c",
+          "bank": 2,
+          "oneBasedIndex": 4722,
+          "glyphId": "font2:4721",
+          "fontOffset": 134284,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 6
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 0
+    },
+    {
+      "id": 4,
+      "main_file_offset": 250792,
+      "data_offset": 88,
+      "raw_name_hex": "93eba09a",
+      "unicode": "unresolved",
+      "label_manual_transcription": "甘椒",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "93eb",
+          "bank": 1,
+          "oneBasedIndex": 948,
+          "glyphId": "font1:947",
+          "fontOffset": 26932,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "a09a",
+          "bank": 1,
+          "oneBasedIndex": 3311,
+          "glyphId": "font1:3310",
+          "fontOffset": 94144,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 0
+    },
+    {
+      "id": 5,
+      "main_file_offset": 250797,
+      "data_offset": 93,
+      "raw_name_hex": "93ecab44",
+      "unicode": "unresolved",
+      "label_manual_transcription": "生薑",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "93ec",
+          "bank": 1,
+          "oneBasedIndex": 949,
+          "glyphId": "font1:948",
+          "fontOffset": 26960,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "ab44",
+          "bank": 1,
+          "oneBasedIndex": 5304,
+          "glyphId": "font1:5303",
+          "fontOffset": 150836,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 0
+    },
+    {
+      "id": 6,
+      "main_file_offset": 250802,
+      "data_offset": 98,
+      "raw_name_hex": "a2f49c98",
+      "unicode": "unresolved",
+      "label_manual_transcription": "煙草",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "a2f4",
+          "bank": 1,
+          "oneBasedIndex": 3777,
+          "glyphId": "font1:3776",
+          "fontOffset": 107400,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "9c98",
+          "bank": 1,
+          "oneBasedIndex": 2557,
+          "glyphId": "font1:2556",
+          "fontOffset": 72704,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 1
+    },
+    {
+      "id": 7,
+      "main_file_offset": 250807,
+      "data_offset": 103,
+      "raw_name_hex": "9c9ea3b3",
+      "unicode": "unresolved",
+      "label_manual_transcription": "茶葉",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "9c9e",
+          "bank": 1,
+          "oneBasedIndex": 2563,
+          "glyphId": "font1:2562",
+          "fontOffset": 72872,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "a3b3",
+          "bank": 1,
+          "oneBasedIndex": 3900,
+          "glyphId": "font1:3899",
+          "fontOffset": 110900,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 1
+    },
+    {
+      "id": 8,
+      "main_file_offset": 250812,
+      "data_offset": 108,
+      "raw_name_hex": "96c19d53",
+      "unicode": "unresolved",
+      "label_manual_transcription": "咖啡",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "96c1",
+          "bank": 1,
+          "oneBasedIndex": 1470,
+          "glyphId": "font1:1469",
+          "fontOffset": 41780,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "9d53",
+          "bank": 1,
+          "oneBasedIndex": 2687,
+          "glyphId": "font1:2686",
+          "fontOffset": 76400,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 1
+    },
+    {
+      "id": 9,
+      "main_file_offset": 250817,
+      "data_offset": 113,
+      "raw_name_hex": "93aa93aa92cc",
+      "unicode": "unresolved",
+      "label_manual_transcription": "可可子",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "93aa",
+          "bank": 1,
+          "oneBasedIndex": 883,
+          "glyphId": "font1:882",
+          "fontOffset": 25088,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "93aa",
+          "bank": 1,
+          "oneBasedIndex": 883,
+          "glyphId": "font1:882",
+          "fontOffset": 25088,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "92cc",
+          "bank": 1,
+          "oneBasedIndex": 729,
+          "glyphId": "font1:728",
+          "fontOffset": 20704,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 6
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 1
+    },
+    {
+      "id": 10,
+      "main_file_offset": 250824,
+      "data_offset": 120,
+      "raw_name_hex": "99e4a988",
+      "unicode": "unresolved",
+      "label_manual_transcription": "砂糖",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "99e4",
+          "bank": 1,
+          "oneBasedIndex": 2069,
+          "glyphId": "font1:2068",
+          "fontOffset": 58816,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "a988",
+          "bank": 1,
+          "oneBasedIndex": 4985,
+          "glyphId": "font1:4984",
+          "fontOffset": 141760,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 2
+    },
+    {
+      "id": 11,
+      "main_file_offset": 250829,
+      "data_offset": 125,
+      "raw_name_hex": "9687a5fa98c1",
+      "unicode": "unresolved",
+      "label_manual_transcription": "乳製品",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "9687",
+          "bank": 1,
+          "oneBasedIndex": 1412,
+          "glyphId": "font1:1411",
+          "fontOffset": 40132,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "a5fa",
+          "bank": 1,
+          "oneBasedIndex": 4347,
+          "glyphId": "font1:4346",
+          "fontOffset": 123616,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "98c1",
+          "bank": 1,
+          "oneBasedIndex": 1846,
+          "glyphId": "font1:1845",
+          "fontOffset": 52476,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 6
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 2
+    },
+    {
+      "id": 12,
+      "main_file_offset": 250836,
+      "data_offset": 132,
+      "raw_name_hex": "9fa294d7",
+      "unicode": "unresolved",
+      "label_manual_transcription": "魚肉",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "9fa2",
+          "bank": 1,
+          "oneBasedIndex": 3131,
+          "glyphId": "font1:3130",
+          "fontOffset": 89024,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "94d7",
+          "bank": 1,
+          "oneBasedIndex": 1116,
+          "glyphId": "font1:1115",
+          "fontOffset": 31708,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 2
+    },
+    {
+      "id": 13,
+      "main_file_offset": 250841,
+      "data_offset": 137,
+      "raw_name_hex": "a7a6ad67",
+      "unicode": "unresolved",
+      "label_manual_transcription": "穀類",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "a7a6",
+          "bank": 1,
+          "oneBasedIndex": 4639,
+          "glyphId": "font1:4638",
+          "fontOffset": 131920,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "ad67",
+          "bank": 1,
+          "oneBasedIndex": 5709,
+          "glyphId": "font1:5708",
+          "fontOffset": 162360,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 2
+    },
+    {
+      "id": 14,
+      "main_file_offset": 250846,
+      "data_offset": 142,
+      "raw_name_hex": "a8f9af3297d1",
+      "unicode": "unresolved",
+      "label_manual_transcription": "橄欖油",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "a8f9",
+          "bank": 1,
+          "oneBasedIndex": 4910,
+          "glyphId": "font1:4909",
+          "fontOffset": 139628,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "af32",
+          "bank": 1,
+          "oneBasedIndex": 6045,
+          "glyphId": "font1:6044",
+          "fontOffset": 171912,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "97d1",
+          "bank": 1,
+          "oneBasedIndex": 1674,
+          "glyphId": "font1:1673",
+          "fontOffset": 47580,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 6
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 2
+    },
+    {
+      "id": 15,
+      "main_file_offset": 250853,
+      "data_offset": 149,
+      "raw_name_hex": "a3b8a18c9cd7",
+      "unicode": "unresolved",
+      "label_manual_transcription": "葡萄酒",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "a3b8",
+          "bank": 1,
+          "oneBasedIndex": 3905,
+          "glyphId": "font1:3904",
+          "fontOffset": 111040,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "a18c",
+          "bank": 1,
+          "oneBasedIndex": 3485,
+          "glyphId": "font1:3484",
+          "fontOffset": 99096,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "9cd7",
+          "bank": 1,
+          "oneBasedIndex": 2620,
+          "glyphId": "font1:2619",
+          "fontOffset": 74492,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 6
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 2
+    },
+    {
+      "id": 16,
+      "main_file_offset": 250860,
+      "data_offset": 156,
+      "raw_name_hex": "9736aefb",
+      "unicode": "unresolved",
+      "label_manual_transcription": "岩鹽",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "9736",
+          "bank": 1,
+          "oneBasedIndex": 1537,
+          "glyphId": "font1:1536",
+          "fontOffset": 43688,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "aefb",
+          "bank": 1,
+          "oneBasedIndex": 6040,
+          "glyphId": "font1:6039",
+          "fontOffset": 171772,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 2
+    },
+    {
+      "id": 17,
+      "main_file_offset": 250865,
+      "data_offset": 161,
+      "raw_name_hex": "a153a5bf",
+      "unicode": "unresolved",
+      "label_manual_transcription": "絲綢",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "a153",
+          "bank": 1,
+          "oneBasedIndex": 3439,
+          "glyphId": "font1:3438",
+          "fontOffset": 97792,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "a5bf",
+          "bank": 1,
+          "oneBasedIndex": 4288,
+          "glyphId": "font1:4287",
+          "fontOffset": 121940,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 3
+    },
+    {
+      "id": 18,
+      "main_file_offset": 250870,
+      "data_offset": 166,
+      "raw_name_hex": "9369a09c",
+      "unicode": "unresolved",
+      "label_manual_transcription": "木棉",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "9369",
+          "bank": 1,
+          "oneBasedIndex": 823,
+          "glyphId": "font1:822",
+          "fontOffset": 23376,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "a09c",
+          "bank": 1,
+          "oneBasedIndex": 3313,
+          "glyphId": "font1:3312",
+          "fontOffset": 94208,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 3
+    },
+    {
+      "id": 19,
+      "main_file_offset": 250875,
+      "data_offset": 171,
+      "raw_name_hex": "94cf936f",
+      "unicode": "unresolved",
+      "label_manual_transcription": "羊毛",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "94cf",
+          "bank": 1,
+          "oneBasedIndex": 1108,
+          "glyphId": "font1:1107",
+          "fontOffset": 31484,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "936f",
+          "bank": 1,
+          "oneBasedIndex": 829,
+          "glyphId": "font1:828",
+          "fontOffset": 23552,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 3
+    },
+    {
+      "id": 20,
+      "main_file_offset": 250880,
+      "data_offset": 176,
+      "raw_name_hex": "a2369fa7",
+      "unicode": "unresolved",
+      "label_manual_transcription": "黃麻",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "a236",
+          "bank": 1,
+          "oneBasedIndex": 3605,
+          "glyphId": "font1:3604",
+          "fontOffset": 102512,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "9fa7",
+          "bank": 1,
+          "oneBasedIndex": 3136,
+          "glyphId": "font1:3135",
+          "fontOffset": 89172,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 3
+    },
+    {
+      "id": 21,
+      "main_file_offset": 250885,
+      "data_offset": 181,
+      "raw_name_hex": "a09cabfd98c1",
+      "unicode": "unresolved",
+      "label_manual_transcription": "棉織品",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "a09c",
+          "bank": 1,
+          "oneBasedIndex": 3313,
+          "glyphId": "font1:3312",
+          "fontOffset": 94208,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "abfd",
+          "bank": 1,
+          "oneBasedIndex": 5478,
+          "glyphId": "font1:5477",
+          "fontOffset": 155788,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "98c1",
+          "bank": 1,
+          "oneBasedIndex": 1846,
+          "glyphId": "font1:1845",
+          "fontOffset": 52476,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 6
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 4
+    },
+    {
+      "id": 22,
+      "main_file_offset": 250892,
+      "data_offset": 188,
+      "raw_name_hex": "a153abfd98c1",
+      "unicode": "unresolved",
+      "label_manual_transcription": "絲織品",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "a153",
+          "bank": 1,
+          "oneBasedIndex": 3439,
+          "glyphId": "font1:3438",
+          "fontOffset": 97792,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "abfd",
+          "bank": 1,
+          "oneBasedIndex": 5478,
+          "glyphId": "font1:5477",
+          "fontOffset": 155788,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "98c1",
+          "bank": 1,
+          "oneBasedIndex": 1846,
+          "glyphId": "font1:1845",
+          "fontOffset": 52476,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 6
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 4
+    },
+    {
+      "id": 23,
+      "main_file_offset": 250899,
+      "data_offset": 195,
+      "raw_name_hex": "936fabfd98c1",
+      "unicode": "unresolved",
+      "label_manual_transcription": "毛織品",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "936f",
+          "bank": 1,
+          "oneBasedIndex": 829,
+          "glyphId": "font1:828",
+          "fontOffset": 23552,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "abfd",
+          "bank": 1,
+          "oneBasedIndex": 5478,
+          "glyphId": "font1:5477",
+          "fontOffset": 155788,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "98c1",
+          "bank": 1,
+          "oneBasedIndex": 1846,
+          "glyphId": "font1:1845",
+          "fontOffset": 52476,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 6
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 4
+    },
+    {
+      "id": 24,
+      "main_file_offset": 250906,
+      "data_offset": 202,
+      "raw_name_hex": "9348aca5a14f",
+      "unicode": "unresolved",
+      "label_manual_transcription": "天鵝絨",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "9348",
+          "bank": 1,
+          "oneBasedIndex": 796,
+          "glyphId": "font1:795",
+          "fontOffset": 22612,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "aca5",
+          "bank": 1,
+          "oneBasedIndex": 5578,
+          "glyphId": "font1:5577",
+          "fontOffset": 158628,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "a14f",
+          "bank": 1,
+          "oneBasedIndex": 3435,
+          "glyphId": "font1:3434",
+          "fontOffset": 97672,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 6
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 4
+    },
+    {
+      "id": 25,
+      "main_file_offset": 250913,
+      "data_offset": 209,
+      "raw_name_hex": "9fa793cb",
+      "unicode": "unresolved",
+      "label_manual_transcription": "麻布",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "9fa7",
+          "bank": 1,
+          "oneBasedIndex": 3136,
+          "glyphId": "font1:3135",
+          "fontOffset": 89172,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "93cb",
+          "bank": 1,
+          "oneBasedIndex": 916,
+          "glyphId": "font1:915",
+          "fontOffset": 26020,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 4
+    },
+    {
+      "id": 26,
+      "main_file_offset": 250918,
+      "data_offset": 214,
+      "raw_name_hex": "99c2a342",
+      "unicode": "unresolved",
+      "label_manual_transcription": "珊瑚",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "99c2",
+          "bank": 1,
+          "oneBasedIndex": 2035,
+          "glyphId": "font1:2034",
+          "fontOffset": 57856,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "a342",
+          "bank": 1,
+          "oneBasedIndex": 3798,
+          "glyphId": "font1:3797",
+          "fontOffset": 107996,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 5
+    },
+    {
+      "id": 27,
+      "main_file_offset": 250923,
+      "data_offset": 219,
+      "raw_name_hex": "a0e099c6",
+      "unicode": "unresolved",
+      "label_manual_transcription": "琥珀",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "a0e0",
+          "bank": 1,
+          "oneBasedIndex": 3381,
+          "glyphId": "font1:3380",
+          "fontOffset": 96136,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "99c6",
+          "bank": 1,
+          "oneBasedIndex": 2039,
+          "glyphId": "font1:2038",
+          "fontOffset": 57968,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 5
+    },
+    {
+      "id": 28,
+      "main_file_offset": 250928,
+      "data_offset": 224,
+      "raw_name_hex": "a1ae9377",
+      "unicode": "unresolved",
+      "label_manual_transcription": "象牙",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "a1ae",
+          "bank": 1,
+          "oneBasedIndex": 3519,
+          "glyphId": "font1:3518",
+          "fontOffset": 100064,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "9377",
+          "bank": 1,
+          "oneBasedIndex": 837,
+          "glyphId": "font1:836",
+          "fontOffset": 23776,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 5
+    },
+    {
+      "id": 29,
+      "main_file_offset": 250933,
+      "data_offset": 229,
+      "raw_name_hex": "99c59bdf",
+      "unicode": "unresolved",
+      "label_manual_transcription": "珍珠",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "99c5",
+          "bank": 1,
+          "oneBasedIndex": 2038,
+          "glyphId": "font1:2037",
+          "fontOffset": 57940,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "9bdf",
+          "bank": 1,
+          "oneBasedIndex": 2440,
+          "glyphId": "font1:2439",
+          "fontOffset": 69372,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 5
+    },
+    {
+      "id": 30,
+      "main_file_offset": 250938,
+      "data_offset": 234,
+      "raw_name_hex": "99c7a34693f1",
+      "unicode": "unresolved",
+      "label_manual_transcription": "玳瑁甲",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "99c7",
+          "bank": 1,
+          "oneBasedIndex": 2040,
+          "glyphId": "font1:2039",
+          "fontOffset": 57996,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "a346",
+          "bank": 1,
+          "oneBasedIndex": 3802,
+          "glyphId": "font1:3801",
+          "fontOffset": 108116,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "93f1",
+          "bank": 1,
+          "oneBasedIndex": 954,
+          "glyphId": "font1:953",
+          "fontOffset": 27100,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 6
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 5
+    },
+    {
+      "id": 31,
+      "main_file_offset": 250945,
+      "data_offset": 241,
+      "raw_name_hex": "a2369876",
+      "unicode": "unresolved",
+      "label_manual_transcription": "黃金",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "a236",
+          "bank": 1,
+          "oneBasedIndex": 3605,
+          "glyphId": "font1:3604",
+          "fontOffset": 102512,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "9876",
+          "bank": 1,
+          "oneBasedIndex": 1776,
+          "glyphId": "font1:1775",
+          "fontOffset": 50484,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 6
+    },
+    {
+      "id": 32,
+      "main_file_offset": 250950,
+      "data_offset": 246,
+      "raw_name_hex": "93f4a66d",
+      "unicode": "unresolved",
+      "label_manual_transcription": "白銀",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "93f4",
+          "bank": 1,
+          "oneBasedIndex": 957,
+          "glyphId": "font1:956",
+          "fontOffset": 27192,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "a66d",
+          "bank": 1,
+          "oneBasedIndex": 4399,
+          "glyphId": "font1:4398",
+          "fontOffset": 125096,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 6
+    },
+    {
+      "id": 33,
+      "main_file_offset": 250955,
+      "data_offset": 251,
+      "raw_name_hex": "a66ead9d93fa",
+      "unicode": "unresolved",
+      "label_manual_transcription": "銅礦石",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "a66e",
+          "bank": 1,
+          "oneBasedIndex": 4400,
+          "glyphId": "font1:4399",
+          "fontOffset": 125124,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "ad9d",
+          "bank": 1,
+          "oneBasedIndex": 5758,
+          "glyphId": "font1:5757",
+          "fontOffset": 163748,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "93fa",
+          "bank": 1,
+          "oneBasedIndex": 963,
+          "glyphId": "font1:962",
+          "fontOffset": 27360,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 6
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 7
+    },
+    {
+      "id": 34,
+      "main_file_offset": 250962,
+      "data_offset": 258,
+      "raw_name_hex": "a9e5ad9d93fa",
+      "unicode": "unresolved",
+      "label_manual_transcription": "錫礦石",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "a9e5",
+          "bank": 1,
+          "oneBasedIndex": 5078,
+          "glyphId": "font1:5077",
+          "fontOffset": 144412,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "ad9d",
+          "bank": 1,
+          "oneBasedIndex": 5758,
+          "glyphId": "font1:5757",
+          "fontOffset": 163748,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "93fa",
+          "bank": 1,
+          "oneBasedIndex": 963,
+          "glyphId": "font1:962",
+          "fontOffset": 27360,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 6
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 7
+    },
+    {
+      "id": 35,
+      "main_file_offset": 250969,
+      "data_offset": 265,
+      "raw_name_hex": "ae4dad9d93fa",
+      "unicode": "unresolved",
+      "label_manual_transcription": "鐵礦石",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "ae4d",
+          "bank": 1,
+          "oneBasedIndex": 5877,
+          "glyphId": "font1:5876",
+          "fontOffset": 167136,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "ad9d",
+          "bank": 1,
+          "oneBasedIndex": 5758,
+          "glyphId": "font1:5757",
+          "fontOffset": 163748,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "93fa",
+          "bank": 1,
+          "oneBasedIndex": 963,
+          "glyphId": "font1:962",
+          "fontOffset": 27360,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 6
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 7
+    },
+    {
+      "id": 36,
+      "main_file_offset": 250976,
+      "data_offset": 272,
+      "raw_name_hex": "9a309f4a98c1",
+      "unicode": "unresolved",
+      "label_manual_transcription": "美術品",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "9a30",
+          "bank": 1,
+          "oneBasedIndex": 2095,
+          "glyphId": "font1:2094",
+          "fontOffset": 59560,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "9f4a",
+          "bank": 1,
+          "oneBasedIndex": 3054,
+          "glyphId": "font1:3053",
+          "fontOffset": 86836,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "98c1",
+          "bank": 1,
+          "oneBasedIndex": 1846,
+          "glyphId": "font1:1845",
+          "fontOffset": 52476,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 6
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 8
+    },
+    {
+      "id": 37,
+      "main_file_offset": 250983,
+      "data_offset": 279,
+      "raw_name_hex": "a14fa0a6",
+      "unicode": "unresolved",
+      "label_manual_transcription": "絨毯",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "a14f",
+          "bank": 1,
+          "oneBasedIndex": 3435,
+          "glyphId": "font1:3434",
+          "fontOffset": 97672,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "a0a6",
+          "bank": 1,
+          "oneBasedIndex": 3323,
+          "glyphId": "font1:3322",
+          "fontOffset": 94488,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 8
+    },
+    {
+      "id": 38,
+      "main_file_offset": 250988,
+      "data_offset": 284,
+      "raw_name_hex": "ae6d9a9d",
+      "unicode": "unresolved",
+      "label_manual_transcription": "麝香",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "ae6d",
+          "bank": 1,
+          "oneBasedIndex": 5903,
+          "glyphId": "font1:5902",
+          "fontOffset": 167872,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "9a9d",
+          "bank": 1,
+          "oneBasedIndex": 2186,
+          "glyphId": "font1:2185",
+          "fontOffset": 62148,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 8
+    },
+    {
+      "id": 39,
+      "main_file_offset": 250993,
+      "data_offset": 289,
+      "raw_name_hex": "9a9d9371",
+      "unicode": "unresolved",
+      "label_manual_transcription": "香水",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "9a9d",
+          "bank": 1,
+          "oneBasedIndex": 2186,
+          "glyphId": "font1:2185",
+          "fontOffset": 62148,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "9371",
+          "bank": 1,
+          "oneBasedIndex": 831,
+          "glyphId": "font1:830",
+          "fontOffset": 23608,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 8
+    },
+    {
+      "id": 40,
+      "main_file_offset": 250998,
+      "data_offset": 294,
+      "raw_name_hex": "99c3a7899e9f",
+      "unicode": "unresolved",
+      "label_manual_transcription": "玻璃球",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "99c3",
+          "bank": 1,
+          "oneBasedIndex": 2036,
+          "glyphId": "font1:2035",
+          "fontOffset": 57884,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "a789",
+          "bank": 1,
+          "oneBasedIndex": 4610,
+          "glyphId": "font1:4609",
+          "fontOffset": 131100,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "9e9f",
+          "bank": 1,
+          "oneBasedIndex": 2940,
+          "glyphId": "font1:2939",
+          "fontOffset": 83596,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 6
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 9
+    },
+    {
+      "id": 41,
+      "main_file_offset": 251005,
+      "data_offset": 301,
+      "raw_name_hex": "99759b89",
+      "unicode": "unresolved",
+      "label_manual_transcription": "染料",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "9975",
+          "bank": 1,
+          "oneBasedIndex": 1963,
+          "glyphId": "font1:1962",
+          "fontOffset": 55808,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "9b89",
+          "bank": 1,
+          "oneBasedIndex": 2354,
+          "glyphId": "font1:2353",
+          "fontOffset": 66924,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 9
+    },
+    {
+      "id": 42,
+      "main_file_offset": 251010,
+      "data_offset": 306,
+      "raw_name_hex": "9f989ea5a8c1",
+      "unicode": "unresolved",
+      "label_manual_transcription": "陶瓷器",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "9f98",
+          "bank": 1,
+          "oneBasedIndex": 3121,
+          "glyphId": "font1:3120",
+          "fontOffset": 88744,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "9ea5",
+          "bank": 1,
+          "oneBasedIndex": 2946,
+          "glyphId": "font1:2945",
+          "fontOffset": 83764,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "a8c1",
+          "bank": 1,
+          "oneBasedIndex": 4854,
+          "glyphId": "font1:4853",
+          "fontOffset": 138036,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 6
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 9
+    },
+    {
+      "id": 43,
+      "main_file_offset": 251017,
+      "data_offset": 313,
+      "raw_name_hex": "99c3a789a8c193f6",
+      "unicode": "unresolved",
+      "label_manual_transcription": "玻璃器皿",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "99c3",
+          "bank": 1,
+          "oneBasedIndex": 2036,
+          "glyphId": "font1:2035",
+          "fontOffset": 57884,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "a789",
+          "bank": 1,
+          "oneBasedIndex": 4610,
+          "glyphId": "font1:4609",
+          "fontOffset": 131100,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 4,
+          "codeHex": "a8c1",
+          "bank": 1,
+          "oneBasedIndex": 4854,
+          "glyphId": "font1:4853",
+          "fontOffset": 138036,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 6,
+          "codeHex": "93f6",
+          "bank": 1,
+          "oneBasedIndex": 959,
+          "glyphId": "font1:958",
+          "fontOffset": 27248,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 8
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 9
+    },
+    {
+      "id": 44,
+      "main_file_offset": 251026,
+      "data_offset": 322,
+      "raw_name_hex": "97bca8c1",
+      "unicode": "unresolved",
+      "label_manual_transcription": "武器",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "97bc",
+          "bank": 1,
+          "oneBasedIndex": 1653,
+          "glyphId": "font1:1652",
+          "fontOffset": 46984,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "a8c1",
+          "bank": 1,
+          "oneBasedIndex": 4854,
+          "glyphId": "font1:4853",
+          "fontOffset": 138036,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 9
+    },
+    {
+      "id": 45,
+      "main_file_offset": 251031,
+      "data_offset": 327,
+      "raw_name_hex": "936995d8",
+      "unicode": "unresolved",
+      "label_manual_transcription": "木材",
+      "source_glyph_tokens": [
+        {
+          "kind": "glyph",
+          "offset": 0,
+          "codeHex": "9369",
+          "bank": 1,
+          "oneBasedIndex": 823,
+          "glyphId": "font1:822",
+          "fontOffset": 23376,
+          "unicode": null
+        },
+        {
+          "kind": "glyph",
+          "offset": 2,
+          "codeHex": "95d8",
+          "bank": 1,
+          "oneBasedIndex": 1305,
+          "glyphId": "font1:1304",
+          "fontOffset": 37088,
+          "unicode": null
+        },
+        {
+          "kind": "terminator",
+          "offset": 4
+        }
+      ],
+      "label_evidence": "docs/evidence/text-goods-labels.png; manual reading of source bitmap glyphs, not generic Big5",
+      "quantity_unit": "unresolved",
+      "category": 9
+    }
+  ],
+  "category_end_exclusive": [
+    6,
+    10,
+    17,
+    21,
+    26,
+    31,
+    33,
+    36,
+    40,
+    46
+  ],
+  "regions": [
+    {
+      "id": 0,
+      "source_main_file_offset": 281668,
+      "source_data1_member": 15,
+      "source_decoded_offset": 27728,
+      "raw_hex": "8c00780050005f003c003700dc00c800050069002d0014000a0020000a0014004100b40032004b0028002800dc0046003200190018012c01180136017800e803f000b4006400be0090012c0178006e00020032007800e600640082001e0014001c002400460050003200780078000b0c0e0f151819292c0000001e0032003c4b",
+      "sale_base_prices": [
+        140,
+        120,
+        80,
+        95,
+        60,
+        55,
+        220,
+        200,
+        5,
+        105,
+        45,
+        20,
+        10,
+        32,
+        10,
+        20,
+        65,
+        180,
+        50,
+        75,
+        40,
+        40,
+        220,
+        70,
+        50,
+        25,
+        280,
+        300,
+        280,
+        310,
+        120,
+        1000,
+        240,
+        180,
+        100,
+        190,
+        400,
+        300,
+        120,
+        110,
+        2,
+        50,
+        120,
+        230,
+        100,
+        130
+      ],
+      "purchase_catalog": [
+        {
+          "slot": 0,
+          "base_price": 30,
+          "good_id": 11,
+          "development_threshold": 0
+        },
+        {
+          "slot": 1,
+          "base_price": 20,
+          "good_id": 12,
+          "development_threshold": 0
+        },
+        {
+          "slot": 2,
+          "base_price": 28,
+          "good_id": 14,
+          "development_threshold": 0
+        },
+        {
+          "slot": 3,
+          "base_price": 36,
+          "good_id": 15,
+          "development_threshold": 300
+        },
+        {
+          "slot": 4,
+          "base_price": 70,
+          "good_id": 21,
+          "development_threshold": 0
+        },
+        {
+          "slot": 5,
+          "base_price": 80,
+          "good_id": 24,
+          "development_threshold": 500
+        },
+        {
+          "slot": 6,
+          "base_price": 50,
+          "good_id": 25,
+          "development_threshold": 0
+        },
+        {
+          "slot": 7,
+          "base_price": 120,
+          "good_id": 41,
+          "development_threshold": 600
+        },
+        {
+          "slot": 8,
+          "base_price": 120,
+          "good_id": 44,
+          "development_threshold": 750
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "source_main_file_offset": 281796,
+      "source_data1_member": 15,
+      "source_decoded_offset": 27856,
+      "raw_hex": "a00082008c006e0037004600fa00dc0005006e0031000f000a00080026003a004100f00014003c002d00230004015a005a0041001d0131012201400182004c040401aa006e00460090015e0182008200020082003700e100640064001900140014002d003c006e005a00000000000b0c0d1215232affff0000000028464bffff",
+      "sale_base_prices": [
+        160,
+        130,
+        140,
+        110,
+        55,
+        70,
+        250,
+        220,
+        5,
+        110,
+        49,
+        15,
+        10,
+        8,
+        38,
+        58,
+        65,
+        240,
+        20,
+        60,
+        45,
+        35,
+        260,
+        90,
+        90,
+        65,
+        285,
+        305,
+        290,
+        320,
+        130,
+        1100,
+        260,
+        170,
+        110,
+        70,
+        400,
+        350,
+        130,
+        130,
+        2,
+        130,
+        55,
+        225,
+        100,
+        100
+      ],
+      "purchase_catalog": [
+        {
+          "slot": 0,
+          "base_price": 25,
+          "good_id": 11,
+          "development_threshold": 0
+        },
+        {
+          "slot": 1,
+          "base_price": 20,
+          "good_id": 12,
+          "development_threshold": 0
+        },
+        {
+          "slot": 2,
+          "base_price": 20,
+          "good_id": 13,
+          "development_threshold": 0
+        },
+        {
+          "slot": 3,
+          "base_price": 45,
+          "good_id": 18,
+          "development_threshold": 0
+        },
+        {
+          "slot": 4,
+          "base_price": 60,
+          "good_id": 21,
+          "development_threshold": 400
+        },
+        {
+          "slot": 5,
+          "base_price": 110,
+          "good_id": 35,
+          "development_threshold": 700
+        },
+        {
+          "slot": 6,
+          "base_price": 90,
+          "good_id": 42,
+          "development_threshold": 750
+        },
+        {
+          "slot": 7,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        },
+        {
+          "slot": 8,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "source_main_file_offset": 281924,
+      "source_data1_member": 15,
+      "source_decoded_offset": 27984,
+      "raw_hex": "960078007800640046004100c800c80005005f00300028000a0008000f0014004100a0000f0019002a004100c80041004b001e000901400118012c016e00e803f000af005a00b90090012c017800640002007d008200e60064007d00190012001e002800260041003200030000000c0d0e0f12131928ff0000001e003c0028ff",
+      "sale_base_prices": [
+        150,
+        120,
+        120,
+        100,
+        70,
+        65,
+        200,
+        200,
+        5,
+        95,
+        48,
+        40,
+        10,
+        8,
+        15,
+        20,
+        65,
+        160,
+        15,
+        25,
+        42,
+        65,
+        200,
+        65,
+        75,
+        30,
+        265,
+        320,
+        280,
+        300,
+        110,
+        1000,
+        240,
+        175,
+        90,
+        185,
+        400,
+        300,
+        120,
+        100,
+        2,
+        125,
+        130,
+        230,
+        100,
+        125
+      ],
+      "purchase_catalog": [
+        {
+          "slot": 0,
+          "base_price": 25,
+          "good_id": 12,
+          "development_threshold": 0
+        },
+        {
+          "slot": 1,
+          "base_price": 18,
+          "good_id": 13,
+          "development_threshold": 0
+        },
+        {
+          "slot": 2,
+          "base_price": 30,
+          "good_id": 14,
+          "development_threshold": 0
+        },
+        {
+          "slot": 3,
+          "base_price": 40,
+          "good_id": 15,
+          "development_threshold": 300
+        },
+        {
+          "slot": 4,
+          "base_price": 38,
+          "good_id": 18,
+          "development_threshold": 0
+        },
+        {
+          "slot": 5,
+          "base_price": 65,
+          "good_id": 19,
+          "development_threshold": 600
+        },
+        {
+          "slot": 6,
+          "base_price": 50,
+          "good_id": 25,
+          "development_threshold": 0
+        },
+        {
+          "slot": 7,
+          "base_price": 3,
+          "good_id": 40,
+          "development_threshold": 400
+        },
+        {
+          "slot": 8,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "source_main_file_offset": 282052,
+      "source_data1_member": 15,
+      "source_decoded_offset": 28112,
+      "raw_hex": "91006e0064005f0041003c00b400b40040014b00320023000a0019000c0028002d006e0028001e000a00410078002d00410023000e012c0104010e0150008403f000a0005f00aa002c01aa0064007800020064006e00e60064006400190023003c004600230032000000000000000c0e10131419ffffff00001e280028ffffff",
+      "sale_base_prices": [
+        145,
+        110,
+        100,
+        95,
+        65,
+        60,
+        180,
+        180,
+        320,
+        75,
+        50,
+        35,
+        10,
+        25,
+        12,
+        40,
+        45,
+        110,
+        40,
+        30,
+        10,
+        65,
+        120,
+        45,
+        65,
+        35,
+        270,
+        300,
+        260,
+        270,
+        80,
+        900,
+        240,
+        160,
+        95,
+        170,
+        300,
+        170,
+        100,
+        120,
+        2,
+        100,
+        110,
+        230,
+        100,
+        100
+      ],
+      "purchase_catalog": [
+        {
+          "slot": 0,
+          "base_price": 25,
+          "good_id": 12,
+          "development_threshold": 0
+        },
+        {
+          "slot": 1,
+          "base_price": 35,
+          "good_id": 14,
+          "development_threshold": 0
+        },
+        {
+          "slot": 2,
+          "base_price": 60,
+          "good_id": 16,
+          "development_threshold": 300
+        },
+        {
+          "slot": 3,
+          "base_price": 70,
+          "good_id": 19,
+          "development_threshold": 400
+        },
+        {
+          "slot": 4,
+          "base_price": 35,
+          "good_id": 20,
+          "development_threshold": 0
+        },
+        {
+          "slot": 5,
+          "base_price": 50,
+          "good_id": 25,
+          "development_threshold": 400
+        },
+        {
+          "slot": 6,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        },
+        {
+          "slot": 7,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        },
+        {
+          "slot": 8,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "source_main_file_offset": 282180,
+      "source_data1_member": 15,
+      "source_decoded_offset": 28240,
+      "raw_hex": "6e0096004b005a003c0041001801a0005401550032000f00230007002a000f0014008c0028003c001e003c00b4005a005f003c002c012c012201f0005500e803c8003c006400be00900196008c007800020032006400eb00640028001e000e00370041003c0064007300460000000b0d10121321292dff00001e142832281eff",
+      "sale_base_prices": [
+        110,
+        150,
+        75,
+        90,
+        60,
+        65,
+        280,
+        160,
+        340,
+        85,
+        50,
+        15,
+        35,
+        7,
+        42,
+        15,
+        20,
+        140,
+        40,
+        60,
+        30,
+        60,
+        180,
+        90,
+        95,
+        60,
+        300,
+        300,
+        290,
+        240,
+        85,
+        1000,
+        200,
+        60,
+        100,
+        190,
+        400,
+        150,
+        140,
+        120,
+        2,
+        50,
+        100,
+        235,
+        100,
+        40
+      ],
+      "purchase_catalog": [
+        {
+          "slot": 0,
+          "base_price": 30,
+          "good_id": 11,
+          "development_threshold": 0
+        },
+        {
+          "slot": 1,
+          "base_price": 14,
+          "good_id": 13,
+          "development_threshold": 0
+        },
+        {
+          "slot": 2,
+          "base_price": 55,
+          "good_id": 16,
+          "development_threshold": 300
+        },
+        {
+          "slot": 3,
+          "base_price": 65,
+          "good_id": 18,
+          "development_threshold": 200
+        },
+        {
+          "slot": 4,
+          "base_price": 60,
+          "good_id": 19,
+          "development_threshold": 400
+        },
+        {
+          "slot": 5,
+          "base_price": 100,
+          "good_id": 33,
+          "development_threshold": 500
+        },
+        {
+          "slot": 6,
+          "base_price": 115,
+          "good_id": 41,
+          "development_threshold": 400
+        },
+        {
+          "slot": 7,
+          "base_price": 70,
+          "good_id": 45,
+          "development_threshold": 300
+        },
+        {
+          "slot": 8,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "source_main_file_offset": 282308,
+      "source_data1_member": 15,
+      "source_decoded_offset": 28368,
+      "raw_hex": "2d00280028002d002d0028000a0014000f000a003c002d00050032003c001e00160026002d000a000f004b0050000f005500110050005a002d0046000f002c01b4001e001400230050006e003c005a0032003c00280032008c0014003200190023002d00dc00bc02000000000000090c14191b1fffffff1e0000191e28ffffff",
+      "sale_base_prices": [
+        45,
+        40,
+        40,
+        45,
+        45,
+        40,
+        10,
+        20,
+        15,
+        10,
+        60,
+        45,
+        5,
+        50,
+        60,
+        30,
+        22,
+        38,
+        45,
+        10,
+        15,
+        75,
+        80,
+        15,
+        85,
+        17,
+        80,
+        90,
+        45,
+        70,
+        15,
+        300,
+        180,
+        30,
+        20,
+        35,
+        80,
+        110,
+        60,
+        90,
+        50,
+        60,
+        40,
+        50,
+        140,
+        20
+      ],
+      "purchase_catalog": [
+        {
+          "slot": 0,
+          "base_price": 50,
+          "good_id": 9,
+          "development_threshold": 300
+        },
+        {
+          "slot": 1,
+          "base_price": 25,
+          "good_id": 12,
+          "development_threshold": 0
+        },
+        {
+          "slot": 2,
+          "base_price": 35,
+          "good_id": 20,
+          "development_threshold": 0
+        },
+        {
+          "slot": 3,
+          "base_price": 45,
+          "good_id": 25,
+          "development_threshold": 250
+        },
+        {
+          "slot": 4,
+          "base_price": 220,
+          "good_id": 27,
+          "development_threshold": 300
+        },
+        {
+          "slot": 5,
+          "base_price": 700,
+          "good_id": 31,
+          "development_threshold": 400
+        },
+        {
+          "slot": 6,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        },
+        {
+          "slot": 7,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        },
+        {
+          "slot": 8,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "source_main_file_offset": 282436,
+      "source_data1_member": 15,
+      "source_decoded_offset": 28496,
+      "raw_hex": "37002d001e00280005001e00460019001e00140050002d00080023001e0023000f00280032000f00140055005a0014004600410046001801780069002800fa008c00280016002300780069002300320002000f0032003200b4001c0014000f00280078003c002300000000000000040c101a1e29ffffff14001e0a2314ffffff",
+      "sale_base_prices": [
+        55,
+        45,
+        30,
+        40,
+        5,
+        30,
+        70,
+        25,
+        30,
+        20,
+        80,
+        45,
+        8,
+        35,
+        30,
+        35,
+        15,
+        40,
+        50,
+        15,
+        20,
+        85,
+        90,
+        20,
+        70,
+        65,
+        70,
+        280,
+        120,
+        105,
+        40,
+        250,
+        140,
+        40,
+        22,
+        35,
+        120,
+        105,
+        35,
+        50,
+        2,
+        15,
+        50,
+        50,
+        180,
+        28
+      ],
+      "purchase_catalog": [
+        {
+          "slot": 0,
+          "base_price": 20,
+          "good_id": 4,
+          "development_threshold": 200
+        },
+        {
+          "slot": 1,
+          "base_price": 15,
+          "good_id": 12,
+          "development_threshold": 0
+        },
+        {
+          "slot": 2,
+          "base_price": 40,
+          "good_id": 16,
+          "development_threshold": 300
+        },
+        {
+          "slot": 3,
+          "base_price": 120,
+          "good_id": 26,
+          "development_threshold": 100
+        },
+        {
+          "slot": 4,
+          "base_price": 60,
+          "good_id": 30,
+          "development_threshold": 350
+        },
+        {
+          "slot": 5,
+          "base_price": 35,
+          "good_id": 41,
+          "development_threshold": 200
+        },
+        {
+          "slot": 6,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        },
+        {
+          "slot": 7,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        },
+        {
+          "slot": 8,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "source_main_file_offset": 282564,
+      "source_data1_member": 15,
+      "source_decoded_offset": 28624,
+      "raw_hex": "3200320023002d000700190046001e0014000f00550032000a000f0019001e003200250034000c0019005200580012004400430064000e016e005f001e000e0164002a0017001e00820064002a003c000200140032003200aa001e0014001900370096005a000000000000000000040d1e2023ffffffff0f000f191effffffff",
+      "sale_base_prices": [
+        50,
+        50,
+        35,
+        45,
+        7,
+        25,
+        70,
+        30,
+        20,
+        15,
+        85,
+        50,
+        10,
+        15,
+        25,
+        30,
+        50,
+        37,
+        52,
+        12,
+        25,
+        82,
+        88,
+        18,
+        68,
+        67,
+        100,
+        270,
+        110,
+        95,
+        30,
+        270,
+        100,
+        42,
+        23,
+        30,
+        130,
+        100,
+        42,
+        60,
+        2,
+        20,
+        50,
+        50,
+        170,
+        30
+      ],
+      "purchase_catalog": [
+        {
+          "slot": 0,
+          "base_price": 20,
+          "good_id": 4,
+          "development_threshold": 150
+        },
+        {
+          "slot": 1,
+          "base_price": 25,
+          "good_id": 13,
+          "development_threshold": 0
+        },
+        {
+          "slot": 2,
+          "base_price": 55,
+          "good_id": 30,
+          "development_threshold": 150
+        },
+        {
+          "slot": 3,
+          "base_price": 150,
+          "good_id": 32,
+          "development_threshold": 250
+        },
+        {
+          "slot": 4,
+          "base_price": 90,
+          "good_id": 35,
+          "development_threshold": 300
+        },
+        {
+          "slot": 5,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        },
+        {
+          "slot": 6,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        },
+        {
+          "slot": 7,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        },
+        {
+          "slot": 8,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "source_main_file_offset": 282692,
+      "source_data1_member": 15,
+      "source_decoded_offset": 28752,
+      "raw_hex": "1900140014001900140014000a0010000c000a0041002d00070037000f00230006001c00370008000a00500050001400500046003c00780028004b0032009600aa002800190023004600780037005f00640014001e006900a0001900140012001e007800260250002800000000000c10141a1f2129ffff00140f001e1e19ffff",
+      "sale_base_prices": [
+        25,
+        20,
+        20,
+        25,
+        20,
+        20,
+        10,
+        16,
+        12,
+        10,
+        65,
+        45,
+        7,
+        55,
+        15,
+        35,
+        6,
+        28,
+        55,
+        8,
+        10,
+        80,
+        80,
+        20,
+        80,
+        70,
+        60,
+        120,
+        40,
+        75,
+        50,
+        150,
+        170,
+        40,
+        25,
+        35,
+        70,
+        120,
+        55,
+        95,
+        100,
+        20,
+        30,
+        105,
+        160,
+        25
+      ],
+      "purchase_catalog": [
+        {
+          "slot": 0,
+          "base_price": 20,
+          "good_id": 12,
+          "development_threshold": 0
+        },
+        {
+          "slot": 1,
+          "base_price": 18,
+          "good_id": 16,
+          "development_threshold": 200
+        },
+        {
+          "slot": 2,
+          "base_price": 30,
+          "good_id": 20,
+          "development_threshold": 150
+        },
+        {
+          "slot": 3,
+          "base_price": 120,
+          "good_id": 26,
+          "development_threshold": 0
+        },
+        {
+          "slot": 4,
+          "base_price": 550,
+          "good_id": 31,
+          "development_threshold": 300
+        },
+        {
+          "slot": 5,
+          "base_price": 80,
+          "good_id": 33,
+          "development_threshold": 300
+        },
+        {
+          "slot": 6,
+          "base_price": 40,
+          "good_id": 41,
+          "development_threshold": 250
+        },
+        {
+          "slot": 7,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        },
+        {
+          "slot": 8,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "source_main_file_offset": 282820,
+      "source_data1_member": 15,
+      "source_decoded_offset": 28880,
+      "raw_hex": "1e001c0016001200280023000f005a000f0005003200230014000f0005000a000c006400050010001e000e006e001600730041005000360146003c004100b603aa004b003c00780040011e0078001c000200780023002300f000780023000a0014000f001e0020002d004b003200080e101213151725270f001e000014142828",
+      "sale_base_prices": [
+        30,
+        28,
+        22,
+        18,
+        40,
+        35,
+        15,
+        90,
+        15,
+        5,
+        50,
+        35,
+        20,
+        15,
+        5,
+        10,
+        12,
+        100,
+        5,
+        16,
+        30,
+        14,
+        110,
+        22,
+        115,
+        65,
+        80,
+        310,
+        70,
+        60,
+        65,
+        950,
+        170,
+        75,
+        60,
+        120,
+        320,
+        30,
+        120,
+        28,
+        2,
+        120,
+        35,
+        35,
+        240,
+        120
+      ],
+      "purchase_catalog": [
+        {
+          "slot": 0,
+          "base_price": 35,
+          "good_id": 8,
+          "development_threshold": 150
+        },
+        {
+          "slot": 1,
+          "base_price": 10,
+          "good_id": 14,
+          "development_threshold": 0
+        },
+        {
+          "slot": 2,
+          "base_price": 20,
+          "good_id": 16,
+          "development_threshold": 300
+        },
+        {
+          "slot": 3,
+          "base_price": 15,
+          "good_id": 18,
+          "development_threshold": 0
+        },
+        {
+          "slot": 4,
+          "base_price": 30,
+          "good_id": 19,
+          "development_threshold": 0
+        },
+        {
+          "slot": 5,
+          "base_price": 32,
+          "good_id": 21,
+          "development_threshold": 200
+        },
+        {
+          "slot": 6,
+          "base_price": 45,
+          "good_id": 23,
+          "development_threshold": 200
+        },
+        {
+          "slot": 7,
+          "base_price": 75,
+          "good_id": 37,
+          "development_threshold": 400
+        },
+        {
+          "slot": 8,
+          "base_price": 50,
+          "good_id": 39,
+          "development_threshold": 400
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "source_main_file_offset": 282948,
+      "source_data1_member": 15,
+      "source_decoded_offset": 29008,
+      "raw_hex": "0c000a0005000d000f000e000c0008000600050044000f000f00040008002d0005004b000a00140003001e0055003b00dc001200460022015a00280014001a04b4001e0037008200c80023008200870002008c00c8002c01e600160019000f0014000c00190008001e003c0000000002070d12141921ff140a000000000f1eff",
+      "sale_base_prices": [
+        12,
+        10,
+        5,
+        13,
+        15,
+        14,
+        12,
+        8,
+        6,
+        5,
+        68,
+        15,
+        15,
+        4,
+        8,
+        45,
+        5,
+        75,
+        10,
+        20,
+        3,
+        30,
+        85,
+        59,
+        220,
+        18,
+        70,
+        290,
+        90,
+        40,
+        20,
+        1050,
+        180,
+        30,
+        55,
+        130,
+        200,
+        35,
+        130,
+        135,
+        2,
+        140,
+        200,
+        300,
+        230,
+        22
+      ],
+      "purchase_catalog": [
+        {
+          "slot": 0,
+          "base_price": 25,
+          "good_id": 0,
+          "development_threshold": 200
+        },
+        {
+          "slot": 1,
+          "base_price": 15,
+          "good_id": 2,
+          "development_threshold": 100
+        },
+        {
+          "slot": 2,
+          "base_price": 20,
+          "good_id": 7,
+          "development_threshold": 0
+        },
+        {
+          "slot": 3,
+          "base_price": 12,
+          "good_id": 13,
+          "development_threshold": 0
+        },
+        {
+          "slot": 4,
+          "base_price": 25,
+          "good_id": 18,
+          "development_threshold": 0
+        },
+        {
+          "slot": 5,
+          "base_price": 8,
+          "good_id": 20,
+          "development_threshold": 0
+        },
+        {
+          "slot": 6,
+          "base_price": 30,
+          "good_id": 25,
+          "development_threshold": 150
+        },
+        {
+          "slot": 7,
+          "base_price": 60,
+          "good_id": 33,
+          "development_threshold": 300
+        },
+        {
+          "slot": 8,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "source_main_file_offset": 283076,
+      "source_data1_member": 15,
+      "source_decoded_offset": 29136,
+      "raw_hex": "0300020002000300020002000c0006000500050046000c00050004000a002d000600280010001200140026002a002a00280020001400d200780023000a00fc03be0046001900320064002d00410037000200140028005f00be001200030003000f0032001e002d0000000000000002050c1a1e22ffffff0000000f141effffff",
+      "sale_base_prices": [
+        3,
+        2,
+        2,
+        3,
+        2,
+        2,
+        12,
+        6,
+        5,
+        5,
+        70,
+        12,
+        5,
+        4,
+        10,
+        45,
+        6,
+        40,
+        16,
+        18,
+        20,
+        38,
+        42,
+        42,
+        40,
+        32,
+        20,
+        210,
+        120,
+        35,
+        10,
+        1020,
+        190,
+        70,
+        25,
+        50,
+        100,
+        45,
+        65,
+        55,
+        2,
+        20,
+        40,
+        95,
+        190,
+        18
+      ],
+      "purchase_catalog": [
+        {
+          "slot": 0,
+          "base_price": 3,
+          "good_id": 2,
+          "development_threshold": 0
+        },
+        {
+          "slot": 1,
+          "base_price": 3,
+          "good_id": 5,
+          "development_threshold": 0
+        },
+        {
+          "slot": 2,
+          "base_price": 15,
+          "good_id": 12,
+          "development_threshold": 0
+        },
+        {
+          "slot": 3,
+          "base_price": 50,
+          "good_id": 26,
+          "development_threshold": 150
+        },
+        {
+          "slot": 4,
+          "base_price": 30,
+          "good_id": 30,
+          "development_threshold": 200
+        },
+        {
+          "slot": 5,
+          "base_price": 45,
+          "good_id": 34,
+          "development_threshold": 300
+        },
+        {
+          "slot": 6,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        },
+        {
+          "slot": 7,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        },
+        {
+          "slot": 8,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "source_main_file_offset": 283204,
+      "source_data1_member": 15,
+      "source_decoded_offset": 29264,
+      "raw_hex": "1e00280032002d0003000a0040010800050005005a001400030005000700460005003200120017000e0028001e00460036010f003700fa002c011e0014008403c800320023008c00500034008c00a0000200c8000c00c20146000f00140014000a0019003c0078001e000000000005070c191d242affff0000000a0a281effff",
+      "sale_base_prices": [
+        30,
+        40,
+        50,
+        45,
+        3,
+        10,
+        320,
+        8,
+        5,
+        5,
+        90,
+        20,
+        3,
+        5,
+        7,
+        70,
+        5,
+        50,
+        18,
+        23,
+        14,
+        40,
+        30,
+        70,
+        310,
+        15,
+        55,
+        250,
+        300,
+        30,
+        20,
+        900,
+        200,
+        50,
+        35,
+        140,
+        80,
+        52,
+        140,
+        160,
+        2,
+        200,
+        12,
+        450,
+        70,
+        15
+      ],
+      "purchase_catalog": [
+        {
+          "slot": 0,
+          "base_price": 20,
+          "good_id": 5,
+          "development_threshold": 0
+        },
+        {
+          "slot": 1,
+          "base_price": 20,
+          "good_id": 7,
+          "development_threshold": 0
+        },
+        {
+          "slot": 2,
+          "base_price": 10,
+          "good_id": 12,
+          "development_threshold": 0
+        },
+        {
+          "slot": 3,
+          "base_price": 25,
+          "good_id": 25,
+          "development_threshold": 100
+        },
+        {
+          "slot": 4,
+          "base_price": 60,
+          "good_id": 29,
+          "development_threshold": 100
+        },
+        {
+          "slot": 5,
+          "base_price": 120,
+          "good_id": 36,
+          "development_threshold": 400
+        },
+        {
+          "slot": 6,
+          "base_price": 30,
+          "good_id": 42,
+          "development_threshold": 300
+        },
+        {
+          "slot": 7,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        },
+        {
+          "slot": 8,
+          "base_price": 0,
+          "good_id": null,
+          "development_threshold": null
+        }
+      ]
+    }
+  ],
+  "ports": [
+    {
+      "id": 0,
+      "source_data_offset": 27264,
+      "source_main_file_offset": 277968,
+      "raw_hex": "0c03000002030000640000000000313234322d36343333332600100a00141803ff0000ff00",
+      "development": 780,
+      "price_category_indices": [
+        49,
+        50,
+        52,
+        50,
+        45,
+        54,
+        52,
+        51,
+        51,
+        51
+      ],
+      "specialty_base_price": 38,
+      "specialty_good_id": 16,
+      "specialty_development_threshold": 100,
+      "region_id": 0,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 1,
+      "source_data_offset": 27301,
+      "source_main_file_offset": 278005,
+      "raw_hex": "020300002a0300000064000000003636313334353632362d64002a0a001806030d0000ff01",
+      "development": 770,
+      "price_category_indices": [
+        54,
+        54,
+        49,
+        51,
+        52,
+        53,
+        54,
+        50,
+        54,
+        45
+      ],
+      "specialty_base_price": 100,
+      "specialty_good_id": 42,
+      "specialty_development_threshold": 100,
+      "region_id": 0,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 2,
+      "source_data_offset": 27338,
+      "source_main_file_offset": 278042,
+      "raw_hex": "2a030000d00200000000640000002f33332e323630362f2ed200250a00181014070405ff0a",
+      "development": 810,
+      "price_category_indices": [
+        47,
+        51,
+        51,
+        46,
+        50,
+        54,
+        48,
+        54,
+        47,
+        46
+      ],
+      "specialty_base_price": 210,
+      "specialty_good_id": 37,
+      "specialty_development_threshold": 100,
+      "region_id": 4,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 3,
+      "source_data_offset": 27375,
+      "source_main_file_offset": 278079,
+      "raw_hex": "4e0200001c0200000064000000002f2d343432312e2f302d2d00100a0000102aff0000ff01",
+      "development": 590,
+      "price_category_indices": [
+        47,
+        45,
+        52,
+        52,
+        50,
+        49,
+        46,
+        47,
+        48,
+        45
+      ],
+      "specialty_base_price": 45,
+      "specialty_good_id": 16,
+      "specialty_development_threshold": 100,
+      "region_id": 0,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 4,
+      "source_data_offset": 27412,
+      "source_main_file_offset": 278116,
+      "raw_hex": "a0000000b40000000000140000003136312e35342d353533ff00ffff00092bffff0305ff02",
+      "development": 160,
+      "price_category_indices": [
+        49,
+        54,
+        49,
+        46,
+        53,
+        52,
+        45,
+        53,
+        53,
+        51
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 3,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 5,
+      "source_data_offset": 27449,
+      "source_main_file_offset": 278153,
+      "raw_hex": "82000000a000000000000f0000003234312e312f333232315a00233c00ffffffff0305ff08",
+      "development": 130,
+      "price_category_indices": [
+        50,
+        52,
+        49,
+        46,
+        49,
+        47,
+        51,
+        50,
+        50,
+        49
+      ],
+      "specialty_base_price": 90,
+      "specialty_good_id": 35,
+      "specialty_development_threshold": 600,
+      "region_id": 3,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 6,
+      "source_data_offset": 27486,
+      "source_main_file_offset": 278190,
+      "raw_hex": "400100002c010000006400000000362d2f3334363036353238001714002b01ffff0000ff01",
+      "development": 320,
+      "price_category_indices": [
+        54,
+        45,
+        47,
+        51,
+        52,
+        54,
+        48,
+        54,
+        53,
+        50
+      ],
+      "specialty_base_price": 56,
+      "specialty_good_id": 23,
+      "specialty_development_threshold": 200,
+      "region_id": 0,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 7,
+      "source_data_offset": 27523,
+      "source_main_file_offset": 278227,
+      "raw_hex": "5e01000022010000000000000000302e3532312e34362e2e6900271400043eff050203ff03",
+      "development": 350,
+      "price_category_indices": [
+        48,
+        46,
+        53,
+        50,
+        49,
+        46,
+        52,
+        54,
+        46,
+        46
+      ],
+      "specialty_base_price": 105,
+      "specialty_good_id": 39,
+      "specialty_development_threshold": 200,
+      "region_id": 2,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 8,
+      "source_data_offset": 27560,
+      "source_main_file_offset": 278264,
+      "raw_hex": "ee020000f80200000000000064002e35302f353531303231be00201e0009143aff0204ff01",
+      "development": 750,
+      "price_category_indices": [
+        46,
+        53,
+        48,
+        47,
+        53,
+        53,
+        49,
+        48,
+        50,
+        49
+      ],
+      "specialty_base_price": 190,
+      "specialty_good_id": 32,
+      "specialty_development_threshold": 300,
+      "region_id": 2,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 9,
+      "source_data_offset": 27597,
+      "source_main_file_offset": 278301,
+      "raw_hex": "6c0200001c02000000000000640031313333352f352d3431aa00162800033e0aff0204ff01",
+      "development": 620,
+      "price_category_indices": [
+        49,
+        49,
+        51,
+        51,
+        53,
+        47,
+        53,
+        45,
+        52,
+        49
+      ],
+      "specialty_base_price": 170,
+      "specialty_good_id": 22,
+      "specialty_development_threshold": 400,
+      "region_id": 2,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 10,
+      "source_data_offset": 27634,
+      "source_main_file_offset": 278338,
+      "raw_hex": "76020000800200000000000064002d362f2f2e333034323644001714000410294b0204ff01",
+      "development": 630,
+      "price_category_indices": [
+        45,
+        54,
+        47,
+        47,
+        46,
+        51,
+        48,
+        52,
+        50,
+        54
+      ],
+      "specialty_base_price": 68,
+      "specialty_good_id": 23,
+      "specialty_development_threshold": 200,
+      "region_id": 2,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 11,
+      "source_data_offset": 27671,
+      "source_main_file_offset": 278375,
+      "raw_hex": "f0000000dc0000000000000064002f34353231322f33352eff00ffff00012bff270204ff01",
+      "development": 240,
+      "price_category_indices": [
+        47,
+        52,
+        53,
+        50,
+        49,
+        50,
+        47,
+        51,
+        53,
+        46
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 2,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 12,
+      "source_data_offset": 27708,
+      "source_main_file_offset": 278412,
+      "raw_hex": "220100001d010000006200000000353433322f33312f2d34ff00ffff00ffffffff0200ff01",
+      "development": 290,
+      "price_category_indices": [
+        53,
+        52,
+        51,
+        50,
+        47,
+        51,
+        49,
+        47,
+        45,
+        52
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 2,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 13,
+      "source_data_offset": 27745,
+      "source_main_file_offset": 278449,
+      "raw_hex": "e4020000da0200000000000064002e2f313136312e343636b4002b1e00111504440204ff01",
+      "development": 740,
+      "price_category_indices": [
+        46,
+        47,
+        49,
+        49,
+        54,
+        49,
+        46,
+        52,
+        54,
+        54
+      ],
+      "specialty_base_price": 180,
+      "specialty_good_id": 43,
+      "specialty_development_threshold": 300,
+      "region_id": 2,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 14,
+      "source_data_offset": 27782,
+      "source_main_file_offset": 278486,
+      "raw_hex": "960000008c000000000000006400332e2f35362e333031325c002914001400ffff0204ff02",
+      "development": 150,
+      "price_category_indices": [
+        51,
+        46,
+        47,
+        53,
+        54,
+        46,
+        51,
+        48,
+        49,
+        50
+      ],
+      "specialty_base_price": 92,
+      "specialty_good_id": 41,
+      "specialty_development_threshold": 200,
+      "region_id": 2,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 15,
+      "source_data_offset": 27819,
+      "source_main_file_offset": 278523,
+      "raw_hex": "b4000000a00000000000000000002d2f322f2e2f3135332eff00ffff00ffffffff0204ff05",
+      "development": 180,
+      "price_category_indices": [
+        45,
+        47,
+        50,
+        47,
+        46,
+        47,
+        49,
+        53,
+        51,
+        46
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 2,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 16,
+      "source_data_offset": 27856,
+      "source_main_file_offset": 278560,
+      "raw_hex": "800200001c02000000000000000031333633342f3034302d3601241e000f2b37160204ff05",
+      "development": 640,
+      "price_category_indices": [
+        49,
+        51,
+        54,
+        51,
+        52,
+        47,
+        48,
+        52,
+        48,
+        45
+      ],
+      "specialty_base_price": 310,
+      "specialty_good_id": 36,
+      "specialty_development_threshold": 300,
+      "region_id": 2,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 17,
+      "source_data_offset": 27893,
+      "source_main_file_offset": 278597,
+      "raw_hex": "6e000000780000000000000000003031343533322d322f33ff00ffff0009ffff230404ff05",
+      "development": 110,
+      "price_category_indices": [
+        48,
+        49,
+        52,
+        53,
+        51,
+        50,
+        45,
+        50,
+        47,
+        51
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 4,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 18,
+      "source_data_offset": 27930,
+      "source_main_file_offset": 278634,
+      "raw_hex": "d0020000bc0200000000640000002f35343434322e3533311900151400121529070405ff0a",
+      "development": 720,
+      "price_category_indices": [
+        47,
+        53,
+        52,
+        52,
+        52,
+        50,
+        46,
+        53,
+        51,
+        49
+      ],
+      "specialty_base_price": 25,
+      "specialty_good_id": 21,
+      "specialty_development_threshold": 200,
+      "region_id": 4,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 19,
+      "source_data_offset": 27967,
+      "source_main_file_offset": 278671,
+      "raw_hex": "8c0000009600000000005f0000003632302e342d2d353030ff00ffff00ffffffff0405ff0a",
+      "development": 140,
+      "price_category_indices": [
+        54,
+        50,
+        48,
+        46,
+        52,
+        45,
+        45,
+        53,
+        48,
+        48
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 4,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 20,
+      "source_data_offset": 28004,
+      "source_main_file_offset": 278708,
+      "raw_hex": "0e010000fa00000000006400000034363134303233302e30d200251e00062affff0405ff0a",
+      "development": 270,
+      "price_category_indices": [
+        52,
+        54,
+        49,
+        52,
+        48,
+        50,
+        51,
+        48,
+        46,
+        48
+      ],
+      "specialty_base_price": 210,
+      "specialty_good_id": 37,
+      "specialty_development_threshold": 300,
+      "region_id": 4,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 21,
+      "source_data_offset": 28041,
+      "source_main_file_offset": 278745,
+      "raw_hex": "96000000a00000000000620000003633323231312e3230355800212800ffffffff0205ff0a",
+      "development": 150,
+      "price_category_indices": [
+        54,
+        51,
+        50,
+        50,
+        49,
+        49,
+        46,
+        50,
+        48,
+        53
+      ],
+      "specialty_base_price": 88,
+      "specialty_good_id": 33,
+      "specialty_development_threshold": 400,
+      "region_id": 2,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 22,
+      "source_data_offset": 28078,
+      "source_main_file_offset": 278782,
+      "raw_hex": "a40100009001000000005a0000003032333130352f313033ff00ffff00061018250305ff01",
+      "development": 420,
+      "price_category_indices": [
+        48,
+        50,
+        51,
+        49,
+        48,
+        53,
+        47,
+        49,
+        48,
+        51
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 3,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 23,
+      "source_data_offset": 28115,
+      "source_main_file_offset": 278819,
+      "raw_hex": "540100005e01000000002300000033312f3630363531332f5500232800ffffffff0405ff0a",
+      "development": 340,
+      "price_category_indices": [
+        51,
+        49,
+        47,
+        54,
+        48,
+        54,
+        53,
+        49,
+        51,
+        47
+      ],
+      "specialty_base_price": 85,
+      "specialty_good_id": 35,
+      "specialty_development_threshold": 400,
+      "region_id": 4,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 24,
+      "source_data_offset": 28152,
+      "source_main_file_offset": 278856,
+      "raw_hex": "6e00000073000000000014000000302f343433363432332eff00ffff0000ffff240405ff0a",
+      "development": 110,
+      "price_category_indices": [
+        48,
+        47,
+        52,
+        52,
+        51,
+        54,
+        52,
+        50,
+        51,
+        46
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 4,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 25,
+      "source_data_offset": 28189,
+      "source_main_file_offset": 278893,
+      "raw_hex": "68010000720100000000640000002e333331342d2d3032353a00150a000f3affff0405ff0a",
+      "development": 360,
+      "price_category_indices": [
+        46,
+        51,
+        51,
+        49,
+        52,
+        45,
+        45,
+        48,
+        50,
+        53
+      ],
+      "specialty_base_price": 58,
+      "specialty_good_id": 21,
+      "specialty_development_threshold": 100,
+      "region_id": 4,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 26,
+      "source_data_offset": 28226,
+      "source_main_file_offset": 278930,
+      "raw_hex": "550000005a000000640000000000332d302f333430342d31ff00ffff00ffffffff0300ff01",
+      "development": 85,
+      "price_category_indices": [
+        51,
+        45,
+        48,
+        47,
+        51,
+        52,
+        48,
+        52,
+        45,
+        49
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 3,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 27,
+      "source_data_offset": 28263,
+      "source_main_file_offset": 278967,
+      "raw_hex": "58020000440200000000005000002f30363436323530333320000f1400012a03ff0103ff01",
+      "development": 600,
+      "price_category_indices": [
+        47,
+        48,
+        54,
+        52,
+        54,
+        50,
+        53,
+        48,
+        51,
+        51
+      ],
+      "specialty_base_price": 32,
+      "specialty_good_id": 15,
+      "specialty_development_threshold": 200,
+      "region_id": 1,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 28,
+      "source_data_offset": 28300,
+      "source_main_file_offset": 279004,
+      "raw_hex": "300200003a020000000000500000312d3134342d32332f31ff00ffff0004113eff0103ff03",
+      "development": 560,
+      "price_category_indices": [
+        49,
+        45,
+        49,
+        52,
+        52,
+        45,
+        50,
+        51,
+        47,
+        49
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 1,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 29,
+      "source_data_offset": 28337,
+      "source_main_file_offset": 279041,
+      "raw_hex": "d0020000e40200000000006400002d2e2d2f312e3531322d2d00130a0009183a150101ff02",
+      "development": 720,
+      "price_category_indices": [
+        45,
+        46,
+        45,
+        47,
+        49,
+        46,
+        53,
+        49,
+        50,
+        45
+      ],
+      "specialty_base_price": 45,
+      "specialty_good_id": 19,
+      "specialty_development_threshold": 100,
+      "region_id": 1,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 30,
+      "source_data_offset": 28374,
+      "source_main_file_offset": 279078,
+      "raw_hex": "400100007c010000000000640000322f3532333532312e324b002223000a10ff0e0101ff02",
+      "development": 320,
+      "price_category_indices": [
+        50,
+        47,
+        53,
+        50,
+        51,
+        53,
+        50,
+        49,
+        46,
+        50
+      ],
+      "specialty_base_price": 75,
+      "specialty_good_id": 34,
+      "specialty_development_threshold": 350,
+      "region_id": 1,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 31,
+      "source_data_offset": 28411,
+      "source_main_file_offset": 279115,
+      "raw_hex": "720100005e0100000000005d0000343033363035322e332fff00ffff00000aff0e0101ff02",
+      "development": 370,
+      "price_category_indices": [
+        52,
+        48,
+        51,
+        54,
+        48,
+        53,
+        50,
+        46,
+        51,
+        47
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 1,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 32,
+      "source_data_offset": 28448,
+      "source_main_file_offset": 279152,
+      "raw_hex": "940200009e02000000000000006431332e32342f31352e363400171e00022934280102ff04",
+      "development": 660,
+      "price_category_indices": [
+        49,
+        51,
+        46,
+        50,
+        52,
+        47,
+        49,
+        53,
+        46,
+        54
+      ],
+      "specialty_base_price": 52,
+      "specialty_good_id": 23,
+      "specialty_development_threshold": 300,
+      "region_id": 1,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 33,
+      "source_data_offset": 28485,
+      "source_main_file_offset": 279189,
+      "raw_hex": "bc020000da02000000000000006433303535303332342e330300280a00181516170102ff04",
+      "development": 700,
+      "price_category_indices": [
+        51,
+        48,
+        53,
+        53,
+        48,
+        51,
+        50,
+        52,
+        46,
+        51
+      ],
+      "specialty_base_price": 3,
+      "specialty_good_id": 40,
+      "specialty_development_threshold": 100,
+      "region_id": 1,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 34,
+      "source_data_offset": 28522,
+      "source_main_file_offset": 279226,
+      "raw_hex": "12020000fe01000000000000006235322d2f32332f2e3634be002b2d001112134e0103ff04",
+      "development": 530,
+      "price_category_indices": [
+        53,
+        50,
+        45,
+        47,
+        50,
+        51,
+        47,
+        46,
+        54,
+        52
+      ],
+      "specialty_base_price": 190,
+      "specialty_good_id": 43,
+      "specialty_development_threshold": 450,
+      "region_id": 1,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 35,
+      "source_data_offset": 28559,
+      "source_main_file_offset": 279263,
+      "raw_hex": "580200006c02000000000000005f3135362e3535322e362d5500292800141037ff0102ff05",
+      "development": 600,
+      "price_category_indices": [
+        49,
+        53,
+        54,
+        46,
+        53,
+        53,
+        50,
+        46,
+        54,
+        45
+      ],
+      "specialty_base_price": 85,
+      "specialty_good_id": 41,
+      "specialty_development_threshold": 400,
+      "region_id": 1,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 36,
+      "source_data_offset": 28596,
+      "source_main_file_offset": 279300,
+      "raw_hex": "be000000b9000000000000500000362e322e31363036322f52002d0a00ffffffff0103ff06",
+      "development": 190,
+      "price_category_indices": [
+        54,
+        46,
+        50,
+        46,
+        49,
+        54,
+        48,
+        54,
+        50,
+        47
+      ],
+      "specialty_base_price": 82,
+      "specialty_good_id": 45,
+      "specialty_development_threshold": 100,
+      "region_id": 1,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 37,
+      "source_data_offset": 28633,
+      "source_main_file_offset": 279337,
+      "raw_hex": "e0010000d60100000000005500002d3236322e323334333350002132000001ff0d0103ff06",
+      "development": 480,
+      "price_category_indices": [
+        45,
+        50,
+        54,
+        50,
+        46,
+        50,
+        51,
+        52,
+        51,
+        51
+      ],
+      "specialty_base_price": 80,
+      "specialty_good_id": 33,
+      "specialty_development_threshold": 500,
+      "region_id": 1,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 38,
+      "source_data_offset": 28670,
+      "source_main_file_offset": 279374,
+      "raw_hex": "400100002c0100000000000000553635322d2f302f2e2e36aa002032000f02050c0103ff06",
+      "development": 320,
+      "price_category_indices": [
+        54,
+        53,
+        50,
+        45,
+        47,
+        48,
+        47,
+        46,
+        46,
+        54
+      ],
+      "specialty_base_price": 170,
+      "specialty_good_id": 32,
+      "specialty_development_threshold": 500,
+      "region_id": 1,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 39,
+      "source_data_offset": 28707,
+      "source_main_file_offset": 279411,
+      "raw_hex": "720100001801000000000000005a312d35362d3235302e30ff00ffff001035ff260103ff05",
+      "development": 370,
+      "price_category_indices": [
+        49,
+        45,
+        53,
+        54,
+        45,
+        50,
+        53,
+        48,
+        46,
+        48
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 1,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 40,
+      "source_data_offset": 28744,
+      "source_main_file_offset": 279448,
+      "raw_hex": "96000000a00000000000000000553336322d2f363330322d50002d0a00ffffffff0103ff06",
+      "development": 150,
+      "price_category_indices": [
+        51,
+        54,
+        50,
+        45,
+        47,
+        54,
+        51,
+        48,
+        50,
+        45
+      ],
+      "specialty_base_price": 80,
+      "specialty_good_id": 45,
+      "specialty_development_threshold": 100,
+      "region_id": 1,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 41,
+      "source_data_offset": 28781,
+      "source_main_file_offset": 279485,
+      "raw_hex": "9100000096000000000000000050332e302f322d30302d2dff00ffff00ffffffff0103ff04",
+      "development": 145,
+      "price_category_indices": [
+        51,
+        46,
+        48,
+        47,
+        50,
+        45,
+        48,
+        48,
+        45,
+        45
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 1,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 42,
+      "source_data_offset": 28818,
+      "source_main_file_offset": 279522,
+      "raw_hex": "dc000000d2000000005f0000000034313631312d342f323528000614012b11ffff070aff07",
+      "development": 220,
+      "price_category_indices": [
+        52,
+        49,
+        54,
+        49,
+        49,
+        45,
+        52,
+        47,
+        50,
+        53
+      ],
+      "specialty_base_price": 40,
+      "specialty_good_id": 6,
+      "specialty_development_threshold": 200,
+      "region_id": 7,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 43,
+      "source_data_offset": 28855,
+      "source_main_file_offset": 279559,
+      "raw_hex": "be0000008200000000000000000033332d3232333635342fff00ffff012b02ffff070aff07",
+      "development": 190,
+      "price_category_indices": [
+        51,
+        51,
+        45,
+        50,
+        50,
+        51,
+        54,
+        53,
+        52,
+        47
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 7,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 44,
+      "source_data_offset": 28892,
+      "source_main_file_offset": 279596,
+      "raw_hex": "d2000000dc000000005d0000000036343635303034362d312300061401ffffffff060aff00",
+      "development": 210,
+      "price_category_indices": [
+        54,
+        52,
+        54,
+        53,
+        48,
+        48,
+        52,
+        54,
+        45,
+        49
+      ],
+      "specialty_base_price": 35,
+      "specialty_good_id": 6,
+      "specialty_development_threshold": 200,
+      "region_id": 6,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 45,
+      "source_data_offset": 28929,
+      "source_main_file_offset": 279633,
+      "raw_hex": "280000002d00000000000000000032323133352e32343431ff00ffff0100ffff42070aff07",
+      "development": 40,
+      "price_category_indices": [
+        50,
+        50,
+        49,
+        51,
+        53,
+        46,
+        50,
+        52,
+        52,
+        49
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 7,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 46,
+      "source_data_offset": 28966,
+      "source_main_file_offset": 279670,
+      "raw_hex": "a0000000be00000000000000000032342e2d343333313030ff00ffff012b44ffff060aff07",
+      "development": 160,
+      "price_category_indices": [
+        50,
+        52,
+        46,
+        45,
+        52,
+        51,
+        51,
+        49,
+        48,
+        48
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 6,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 47,
+      "source_data_offset": 29003,
+      "source_main_file_offset": 279707,
+      "raw_hex": "3c0000004b000000005f000000003533322e2f352d2e2d36ff00ffff01ffffffff060aff07",
+      "development": 60,
+      "price_category_indices": [
+        53,
+        51,
+        50,
+        46,
+        47,
+        53,
+        45,
+        46,
+        45,
+        54
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 6,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 48,
+      "source_data_offset": 29040,
+      "source_main_file_offset": 279744,
+      "raw_hex": "96000000a00000000062000000002f2d332d35303031313312000a14012a29ffff060aff00",
+      "development": 150,
+      "price_category_indices": [
+        47,
+        45,
+        51,
+        45,
+        53,
+        48,
+        48,
+        49,
+        49,
+        51
+      ],
+      "specialty_base_price": 18,
+      "specialty_good_id": 10,
+      "specialty_development_threshold": 200,
+      "region_id": 6,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 49,
+      "source_data_offset": 29077,
+      "source_main_file_offset": 279781,
+      "raw_hex": "500000004b0000000000000000002f343430332e2f2e332f90011f2801ffffffff060aff07",
+      "development": 80,
+      "price_category_indices": [
+        47,
+        52,
+        52,
+        48,
+        51,
+        46,
+        47,
+        46,
+        51,
+        47
+      ],
+      "specialty_base_price": 400,
+      "specialty_good_id": 31,
+      "specialty_development_threshold": 400,
+      "region_id": 6,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 50,
+      "source_data_offset": 29114,
+      "source_main_file_offset": 279818,
+      "raw_hex": "3c00000050000000005a000000002e32353636342e302d3412000a14013cffffff060aff00",
+      "development": 60,
+      "price_category_indices": [
+        46,
+        50,
+        53,
+        54,
+        54,
+        52,
+        46,
+        48,
+        45,
+        52
+      ],
+      "specialty_base_price": 18,
+      "specialty_good_id": 10,
+      "specialty_development_threshold": 200,
+      "region_id": 6,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 51,
+      "source_data_offset": 29151,
+      "source_main_file_offset": 279855,
+      "raw_hex": "460000004100000000610000000036363233312f30312f2f0a000d0901ffffffff060aff07",
+      "development": 70,
+      "price_category_indices": [
+        54,
+        54,
+        50,
+        51,
+        49,
+        47,
+        48,
+        49,
+        47,
+        47
+      ],
+      "specialty_base_price": 10,
+      "specialty_good_id": 13,
+      "specialty_development_threshold": 90,
+      "region_id": 6,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 52,
+      "source_data_offset": 29188,
+      "source_main_file_offset": 279892,
+      "raw_hex": "d7000000f0000000640000000000312d36362d3331342d2f23002919010013ff4a070aff02",
+      "development": 215,
+      "price_category_indices": [
+        49,
+        45,
+        54,
+        54,
+        45,
+        51,
+        49,
+        52,
+        45,
+        47
+      ],
+      "specialty_base_price": 35,
+      "specialty_good_id": 41,
+      "specialty_development_threshold": 250,
+      "region_id": 7,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 53,
+      "source_data_offset": 29225,
+      "source_main_file_offset": 279929,
+      "raw_hex": "2d000000320000005a00000000002e3036343534323432337c011f2d0137ffff41070aff02",
+      "development": 45,
+      "price_category_indices": [
+        46,
+        48,
+        54,
+        52,
+        53,
+        52,
+        50,
+        52,
+        50,
+        51
+      ],
+      "specialty_base_price": 380,
+      "specialty_good_id": 31,
+      "specialty_development_threshold": 450,
+      "region_id": 7,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 54,
+      "source_data_offset": 29262,
+      "source_main_file_offset": 279966,
+      "raw_hex": "7800000069000000005f0000000030322d35312f2d333130ff00ffff01ffffffff070aff08",
+      "development": 120,
+      "price_category_indices": [
+        48,
+        50,
+        45,
+        53,
+        49,
+        47,
+        45,
+        51,
+        49,
+        48
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 7,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 55,
+      "source_data_offset": 29299,
+      "source_main_file_offset": 280003,
+      "raw_hex": "5000000069000000000000000000363635332e2d2d313234ff00ffff012bffffff060aff00",
+      "development": 80,
+      "price_category_indices": [
+        54,
+        54,
+        53,
+        51,
+        46,
+        45,
+        45,
+        49,
+        50,
+        52
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 6,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 56,
+      "source_data_offset": 29336,
+      "source_main_file_offset": 280040,
+      "raw_hex": "46000000410000000000000000002f31342f2d2f323532333c002d0a01ffffffff070aff00",
+      "development": 70,
+      "price_category_indices": [
+        47,
+        49,
+        52,
+        47,
+        45,
+        47,
+        50,
+        53,
+        50,
+        51
+      ],
+      "specialty_base_price": 60,
+      "specialty_good_id": 45,
+      "specialty_development_threshold": 100,
+      "region_id": 7,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 57,
+      "source_data_offset": 29373,
+      "source_main_file_offset": 280077,
+      "raw_hex": "f0000000e600000064000000000031312d313436333535340c000a0a02ffffffff0507ff01",
+      "development": 240,
+      "price_category_indices": [
+        49,
+        49,
+        45,
+        49,
+        52,
+        54,
+        51,
+        53,
+        53,
+        52
+      ],
+      "specialty_base_price": 12,
+      "specialty_good_id": 10,
+      "specialty_development_threshold": 100,
+      "region_id": 5,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 58,
+      "source_data_offset": 29410,
+      "source_main_file_offset": 280114,
+      "raw_hex": "5a0000005000000000000000000030313131353033353634ff00ffff02ffffffff0507ff02",
+      "development": 90,
+      "price_category_indices": [
+        48,
+        49,
+        49,
+        49,
+        53,
+        48,
+        51,
+        53,
+        54,
+        52
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 5,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 59,
+      "source_data_offset": 29447,
+      "source_main_file_offset": 280151,
+      "raw_hex": "d2000000be0000006400000000002f34312f302d342e2f3064001c14020018ff450507ff08",
+      "development": 210,
+      "price_category_indices": [
+        47,
+        52,
+        49,
+        47,
+        48,
+        45,
+        52,
+        46,
+        47,
+        48
+      ],
+      "specialty_base_price": 100,
+      "specialty_good_id": 28,
+      "specialty_development_threshold": 200,
+      "region_id": 5,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 60,
+      "source_data_offset": 29484,
+      "source_main_file_offset": 280188,
+      "raw_hex": "550000006400000000000000000034363532322d3432352eff00ffff02ffffffff0507ff08",
+      "development": 85,
+      "price_category_indices": [
+        52,
+        54,
+        53,
+        50,
+        50,
+        45,
+        52,
+        50,
+        53,
+        46
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 5,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 61,
+      "source_data_offset": 29521,
+      "source_main_file_offset": 280225,
+      "raw_hex": "5a0000004b0000006000000000002e34312d313631332d3678001a0a02ffffffff0507ff08",
+      "development": 90,
+      "price_category_indices": [
+        46,
+        52,
+        49,
+        45,
+        49,
+        54,
+        49,
+        51,
+        45,
+        54
+      ],
+      "specialty_base_price": 120,
+      "specialty_good_id": 26,
+      "specialty_development_threshold": 100,
+      "region_id": 5,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 62,
+      "source_data_offset": 29558,
+      "source_main_file_offset": 280262,
+      "raw_hex": "c8000000b90000006400000000003133362e313036343036ff00ffff022935ffff0507ff08",
+      "development": 200,
+      "price_category_indices": [
+        49,
+        51,
+        54,
+        46,
+        49,
+        48,
+        54,
+        52,
+        48,
+        54
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 5,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 63,
+      "source_data_offset": 29595,
+      "source_main_file_offset": 280299,
+      "raw_hex": "4b0000003c00000000000000000035353031352e2e353133ff00ffff02ffffffff0507ff08",
+      "development": 75,
+      "price_category_indices": [
+        53,
+        53,
+        48,
+        49,
+        53,
+        46,
+        46,
+        53,
+        49,
+        51
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 5,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 64,
+      "source_data_offset": 29632,
+      "source_main_file_offset": 280336,
+      "raw_hex": "ae01000023000000000000000000363531322d36323535323c001c0a0240413d4c0507ff09",
+      "development": 430,
+      "price_category_indices": [
+        54,
+        53,
+        49,
+        50,
+        45,
+        54,
+        50,
+        53,
+        53,
+        50
+      ],
+      "specialty_base_price": 60,
+      "specialty_good_id": 28,
+      "specialty_development_threshold": 100,
+      "region_id": 5,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 65,
+      "source_data_offset": 29669,
+      "source_main_file_offset": 280373,
+      "raw_hex": "5a0000004b0000000000000000002d33313432342e2e33305000261402ffffffff0507ff08",
+      "development": 90,
+      "price_category_indices": [
+        45,
+        51,
+        49,
+        52,
+        50,
+        52,
+        46,
+        46,
+        51,
+        48
+      ],
+      "specialty_base_price": 80,
+      "specialty_good_id": 38,
+      "specialty_development_threshold": 200,
+      "region_id": 5,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 66,
+      "source_data_offset": 29706,
+      "source_main_file_offset": 280410,
+      "raw_hex": "8601000090010000550000000000342d2e2d322f363531345a001c0a03ffffffff0807ff08",
+      "development": 390,
+      "price_category_indices": [
+        52,
+        45,
+        46,
+        45,
+        50,
+        47,
+        54,
+        53,
+        49,
+        52
+      ],
+      "specialty_base_price": 90,
+      "specialty_good_id": 28,
+      "specialty_development_threshold": 100,
+      "region_id": 8,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 67,
+      "source_data_offset": 29743,
+      "source_main_file_offset": 280447,
+      "raw_hex": "72010000680100005f00000000002d322f313232303031344600260f03ffffffff0807ff08",
+      "development": 370,
+      "price_category_indices": [
+        45,
+        50,
+        47,
+        49,
+        50,
+        50,
+        48,
+        48,
+        49,
+        52
+      ],
+      "specialty_base_price": 70,
+      "specialty_good_id": 38,
+      "specialty_development_threshold": 150,
+      "region_id": 8,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 68,
+      "source_data_offset": 29780,
+      "source_main_file_offset": 280484,
+      "raw_hex": "5a000000460000000000000000002f3035323432332e2e3555001c0f03ffffffff0807ff08",
+      "development": 90,
+      "price_category_indices": [
+        47,
+        48,
+        53,
+        50,
+        52,
+        50,
+        51,
+        46,
+        46,
+        53
+      ],
+      "specialty_base_price": 85,
+      "specialty_good_id": 28,
+      "specialty_development_threshold": 150,
+      "region_id": 8,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 69,
+      "source_data_offset": 29817,
+      "source_main_file_offset": 280521,
+      "raw_hex": "7c010000860100005a00000000002d2d2d2d2d2f36362e34ff00ffff03433234360807ff08",
+      "development": 380,
+      "price_category_indices": [
+        45,
+        45,
+        45,
+        45,
+        45,
+        47,
+        54,
+        54,
+        46,
+        52
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 8,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 70,
+      "source_data_offset": 29854,
+      "source_main_file_offset": 280558,
+      "raw_hex": "b4000000a00000000000000000002f2f3132363532363333ff00ffff032941ff3f0807ff08",
+      "development": 180,
+      "price_category_indices": [
+        47,
+        47,
+        49,
+        50,
+        54,
+        53,
+        50,
+        54,
+        51,
+        51
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 8,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 71,
+      "source_data_offset": 29891,
+      "source_main_file_offset": 280595,
+      "raw_hex": "3c0000003c000000000000000000313230332e332e3433312d001e1403ffffffff0807ff08",
+      "development": 60,
+      "price_category_indices": [
+        49,
+        50,
+        48,
+        51,
+        46,
+        51,
+        46,
+        52,
+        51,
+        49
+      ],
+      "specialty_base_price": 45,
+      "specialty_good_id": 30,
+      "specialty_development_threshold": 200,
+      "region_id": 8,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 72,
+      "source_data_offset": 29928,
+      "source_main_file_offset": 280632,
+      "raw_hex": "d2000000040100005a0000000000322d3132302d33352e2f6e001b1904ffffffff0906ff0a",
+      "development": 210,
+      "price_category_indices": [
+        50,
+        45,
+        49,
+        50,
+        48,
+        45,
+        51,
+        53,
+        46,
+        47
+      ],
+      "specialty_base_price": 110,
+      "specialty_good_id": 27,
+      "specialty_development_threshold": 250,
+      "region_id": 9,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 73,
+      "source_data_offset": 29965,
+      "source_main_file_offset": 280669,
+      "raw_hex": "640000005a0000005f000000000031353630332f303130321900051e04ffffffff0906ff0a",
+      "development": 100,
+      "price_category_indices": [
+        49,
+        53,
+        54,
+        48,
+        51,
+        47,
+        48,
+        49,
+        48,
+        50
+      ],
+      "specialty_base_price": 25,
+      "specialty_good_id": 5,
+      "specialty_development_threshold": 300,
+      "region_id": 9,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 74,
+      "source_data_offset": 30002,
+      "source_main_file_offset": 280706,
+      "raw_hex": "5a00000055000000000000000000302e33312f2e322f35361900041e0443ffffff0906ff08",
+      "development": 90,
+      "price_category_indices": [
+        48,
+        46,
+        51,
+        49,
+        47,
+        46,
+        50,
+        47,
+        53,
+        54
+      ],
+      "specialty_base_price": 25,
+      "specialty_good_id": 4,
+      "specialty_development_threshold": 300,
+      "region_id": 9,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 75,
+      "source_data_offset": 30039,
+      "source_main_file_offset": 280743,
+      "raw_hex": "fe010000e001000000006400000034353334332d2f353334be00242804073911ff0905ff0a",
+      "development": 510,
+      "price_category_indices": [
+        52,
+        53,
+        51,
+        52,
+        51,
+        45,
+        47,
+        53,
+        51,
+        52
+      ],
+      "specialty_base_price": 190,
+      "specialty_good_id": 36,
+      "specialty_development_threshold": 400,
+      "region_id": 9,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 76,
+      "source_data_offset": 30076,
+      "source_main_file_offset": 280780,
+      "raw_hex": "e0010000f40100000000640000003035343030333136352e0a000b0504ffffffff0906ff0a",
+      "development": 480,
+      "price_category_indices": [
+        48,
+        53,
+        52,
+        48,
+        48,
+        51,
+        49,
+        54,
+        53,
+        46
+      ],
+      "specialty_base_price": 10,
+      "specialty_good_id": 11,
+      "specialty_development_threshold": 50,
+      "region_id": 9,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 77,
+      "source_data_offset": 30113,
+      "source_main_file_offset": 280817,
+      "raw_hex": "f4010000500000000000640000002d302d322e35352e35303200261404193916ff0906ff0a",
+      "development": 500,
+      "price_category_indices": [
+        45,
+        48,
+        45,
+        50,
+        46,
+        53,
+        53,
+        46,
+        53,
+        48
+      ],
+      "specialty_base_price": 50,
+      "specialty_good_id": 38,
+      "specialty_development_threshold": 200,
+      "region_id": 9,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 78,
+      "source_data_offset": 30150,
+      "source_main_file_offset": 280854,
+      "raw_hex": "82000000a00000000000640000002e3630352e342e352d3523001e0f04ffffffff0906ff0a",
+      "development": 130,
+      "price_category_indices": [
+        46,
+        54,
+        48,
+        53,
+        46,
+        52,
+        46,
+        53,
+        45,
+        53
+      ],
+      "specialty_base_price": 35,
+      "specialty_good_id": 30,
+      "specialty_development_threshold": 150,
+      "region_id": 9,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 79,
+      "source_data_offset": 30187,
+      "source_main_file_offset": 280891,
+      "raw_hex": "46000000500000000000640000003630353134302d353335ff00ffff04ffffffff0906ff0a",
+      "development": 70,
+      "price_category_indices": [
+        54,
+        48,
+        53,
+        49,
+        52,
+        48,
+        45,
+        53,
+        51,
+        53
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 9,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 80,
+      "source_data_offset": 30224,
+      "source_main_file_offset": 280928,
+      "raw_hex": "b4000000e600000000005f00000035313232333534352f31ff00ffff04ffffffff0906ff0a",
+      "development": 180,
+      "price_category_indices": [
+        53,
+        49,
+        50,
+        50,
+        51,
+        53,
+        52,
+        53,
+        47,
+        49
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 9,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 81,
+      "source_data_offset": 30261,
+      "source_main_file_offset": 280965,
+      "raw_hex": "4b00000050000000570000000000332e332e35352e31322dff00ffff05ffffffff0a06ff0a",
+      "development": 75,
+      "price_category_indices": [
+        51,
+        46,
+        51,
+        46,
+        53,
+        53,
+        46,
+        49,
+        50,
+        45
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 10,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 82,
+      "source_data_offset": 30298,
+      "source_main_file_offset": 281002,
+      "raw_hex": "82000000780000005a0000000000342d3034323632343230ff00ffff05ffffffff0a06ff0b",
+      "development": 130,
+      "price_category_indices": [
+        52,
+        45,
+        48,
+        52,
+        50,
+        54,
+        50,
+        52,
+        50,
+        48
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 10,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 83,
+      "source_data_offset": 30335,
+      "source_main_file_offset": 281039,
+      "raw_hex": "b4000000d20000000000000000003233343130302e2f34350400010505380fffff0a06ff0b",
+      "development": 180,
+      "price_category_indices": [
+        50,
+        51,
+        52,
+        49,
+        48,
+        48,
+        46,
+        47,
+        52,
+        53
+      ],
+      "specialty_base_price": 4,
+      "specialty_good_id": 1,
+      "specialty_development_threshold": 50,
+      "region_id": 10,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 84,
+      "source_data_offset": 30372,
+      "source_main_file_offset": 281076,
+      "raw_hex": "3200000032000000000000000000302e352e30352e3133310500030706ffffffff0b06ff08",
+      "development": 50,
+      "price_category_indices": [
+        48,
+        46,
+        53,
+        46,
+        48,
+        53,
+        46,
+        49,
+        51,
+        49
+      ],
+      "specialty_base_price": 5,
+      "specialty_good_id": 3,
+      "specialty_development_threshold": 70,
+      "region_id": 11,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 85,
+      "source_data_offset": 30409,
+      "source_main_file_offset": 281113,
+      "raw_hex": "1c020000300200005500000000003635342d332e333131330a000514052a0136ff0a06ff0b",
+      "development": 540,
+      "price_category_indices": [
+        54,
+        53,
+        52,
+        45,
+        51,
+        46,
+        51,
+        49,
+        49,
+        51
+      ],
+      "specialty_base_price": 10,
+      "specialty_good_id": 5,
+      "specialty_development_threshold": 200,
+      "region_id": 10,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 86,
+      "source_data_offset": 30446,
+      "source_main_file_offset": 281150,
+      "raw_hex": "5a0000005f0000000000000000002e3233313432362f302e0300010506ffffffff0b06ff08",
+      "development": 90,
+      "price_category_indices": [
+        46,
+        50,
+        51,
+        49,
+        52,
+        50,
+        54,
+        47,
+        48,
+        46
+      ],
+      "specialty_base_price": 3,
+      "specialty_good_id": 1,
+      "specialty_development_threshold": 50,
+      "region_id": 11,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 87,
+      "source_data_offset": 30483,
+      "source_main_file_offset": 281187,
+      "raw_hex": "50000000550000000000000000002f36362f3135343131320400000806ffffffff0b06ff08",
+      "development": 80,
+      "price_category_indices": [
+        47,
+        54,
+        54,
+        47,
+        49,
+        53,
+        52,
+        49,
+        49,
+        50
+      ],
+      "specialty_base_price": 4,
+      "specialty_good_id": 0,
+      "specialty_development_threshold": 80,
+      "region_id": 11,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 88,
+      "source_data_offset": 30520,
+      "source_main_file_offset": 281224,
+      "raw_hex": "2d0000002800000000000000000031302e2e3430312d322f0300030306ffffffff0b06ff08",
+      "development": 45,
+      "price_category_indices": [
+        49,
+        48,
+        46,
+        46,
+        52,
+        48,
+        49,
+        45,
+        50,
+        47
+      ],
+      "specialty_base_price": 3,
+      "specialty_good_id": 3,
+      "specialty_development_threshold": 30,
+      "region_id": 11,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 89,
+      "source_data_offset": 30557,
+      "source_main_file_offset": 281261,
+      "raw_hex": "280000002d0000000000000000002d3036322f2d2f2d31300400000506ffffffff0b06ff08",
+      "development": 40,
+      "price_category_indices": [
+        45,
+        48,
+        54,
+        50,
+        47,
+        45,
+        47,
+        45,
+        49,
+        48
+      ],
+      "specialty_base_price": 4,
+      "specialty_good_id": 0,
+      "specialty_development_threshold": 50,
+      "region_id": 11,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 90,
+      "source_data_offset": 30594,
+      "source_main_file_offset": 281298,
+      "raw_hex": "2300000028000000000000000000353633332d3133363332ff00ffff06ffffffff0b06ff08",
+      "development": 35,
+      "price_category_indices": [
+        53,
+        54,
+        51,
+        51,
+        45,
+        49,
+        51,
+        54,
+        51,
+        50
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 11,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 91,
+      "source_data_offset": 30631,
+      "source_main_file_offset": 281335,
+      "raw_hex": "2800000037000000000000000000342d35363430342e3331ff00ffff06ffffffff0b06ff08",
+      "development": 40,
+      "price_category_indices": [
+        52,
+        45,
+        53,
+        54,
+        52,
+        48,
+        52,
+        46,
+        51,
+        49
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 11,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 92,
+      "source_data_offset": 30668,
+      "source_main_file_offset": 281372,
+      "raw_hex": "12020000300200000000000000002f362d362d353232342d0f000319053829064d0a06ff0b",
+      "development": 530,
+      "price_category_indices": [
+        47,
+        54,
+        45,
+        54,
+        45,
+        53,
+        50,
+        50,
+        52,
+        45
+      ],
+      "specialty_base_price": 15,
+      "specialty_good_id": 3,
+      "specialty_development_threshold": 250,
+      "region_id": 10,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 93,
+      "source_data_offset": 30705,
+      "source_main_file_offset": 281409,
+      "raw_hex": "320000002d00000000000000000033302e30302e3035362eff00ffff06ffffffff0b06ff08",
+      "development": 50,
+      "price_category_indices": [
+        51,
+        48,
+        46,
+        48,
+        48,
+        46,
+        48,
+        53,
+        54,
+        46
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 11,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 94,
+      "source_data_offset": 30742,
+      "source_main_file_offset": 281446,
+      "raw_hex": "080200003a020000000000000000322f323334342f33302d1900111e07192b2a0b0c08ff0c",
+      "development": 520,
+      "price_category_indices": [
+        50,
+        47,
+        50,
+        51,
+        52,
+        52,
+        47,
+        51,
+        48,
+        45
+      ],
+      "specialty_base_price": 25,
+      "specialty_good_id": 17,
+      "specialty_development_threshold": 300,
+      "region_id": 12,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 95,
+      "source_data_offset": 30779,
+      "source_main_file_offset": 281483,
+      "raw_hex": "e0010000ea01000000000000000035312e323336312f2f2eff00ffff073938333c0c08ff0c",
+      "development": 480,
+      "price_category_indices": [
+        53,
+        49,
+        46,
+        50,
+        51,
+        54,
+        49,
+        47,
+        47,
+        46
+      ],
+      "specialty_base_price": 255,
+      "specialty_good_id": null,
+      "specialty_development_threshold": 2550,
+      "region_id": 12,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 96,
+      "source_data_offset": 30816,
+      "source_main_file_offset": 281520,
+      "raw_hex": "2c010000540100000000000000002f35332d30333334333446001a1e07321affff0c06ff0c",
+      "development": 300,
+      "price_category_indices": [
+        47,
+        53,
+        51,
+        45,
+        48,
+        51,
+        51,
+        52,
+        51,
+        52
+      ],
+      "specialty_base_price": 70,
+      "specialty_good_id": 26,
+      "specialty_development_threshold": 300,
+      "region_id": 12,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 97,
+      "source_data_offset": 30853,
+      "source_main_file_offset": 281557,
+      "raw_hex": "44020000180100000000000000003031342f322f2e30353114001628073932330b0c08ff0c",
+      "development": 580,
+      "price_category_indices": [
+        48,
+        49,
+        52,
+        47,
+        50,
+        47,
+        46,
+        48,
+        53,
+        49
+      ],
+      "specialty_base_price": 20,
+      "specialty_good_id": 22,
+      "specialty_development_threshold": 400,
+      "region_id": 12,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 98,
+      "source_data_offset": 30890,
+      "source_main_file_offset": 281594,
+      "raw_hex": "a40100009a0100000000000000002d30363635332f2e362d0f001628073c1908490c09ff0d",
+      "development": 420,
+      "price_category_indices": [
+        45,
+        48,
+        54,
+        54,
+        53,
+        51,
+        47,
+        46,
+        54,
+        45
+      ],
+      "specialty_base_price": 15,
+      "specialty_good_id": 22,
+      "specialty_development_threshold": 400,
+      "region_id": 12,
+      "other_fields": "unresolved"
+    },
+    {
+      "id": 99,
+      "source_data_offset": 30927,
+      "source_main_file_offset": 281631,
+      "raw_hex": "d2000000dc0000000000000000002f35332d3033333433342300200f07190834ff0c09ff0d",
+      "development": 210,
+      "price_category_indices": [
+        47,
+        53,
+        51,
+        45,
+        48,
+        51,
+        51,
+        52,
+        51,
+        52
+      ],
+      "specialty_base_price": 35,
+      "specialty_good_id": 32,
+      "specialty_development_threshold": 150,
+      "region_id": 12,
+      "other_fields": "unresolved"
+    }
+  ]
+}

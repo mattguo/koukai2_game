@@ -1,0 +1,417 @@
+{
+ "version": 1,
+ "assets": [
+  {
+   "id": "fleet-role-panel",
+   "path": "images/fleet-role-panel.png",
+   "width": 224,
+   "height": 96,
+   "origin": [
+    144,
+    136
+   ],
+   "sha256": "36e46ee7d144c205559542db70a655a3310e8c2998a3615b44fb0edae7dc66db",
+   "kind": "captured-window",
+   "source": {
+    "capture": "docs/evidence/fleet-personnel-roles.png",
+    "sha256": "35e656300a3b6b515af891ca0ef5d1950d43da5d6e54a0b01e210a47fd6d03f3",
+    "crop": [
+     144,
+     136,
+     224,
+     96
+    ]
+   },
+   "blanked": [
+    [
+     148,
+     140,
+     212,
+     84
+    ]
+   ],
+   "rows": [
+    [
+     160,
+     152,
+     192,
+     16
+    ],
+    [
+     160,
+     176,
+     192,
+     16
+    ],
+    [
+     160,
+     200,
+     192,
+     16
+    ]
+   ]
+  },
+  {
+   "id": "fleet-person-panel",
+   "path": "images/fleet-person-panel.png",
+   "width": 264,
+   "height": 200,
+   "origin": [
+    376,
+    216
+   ],
+   "sha256": "72d5e5442fbeeb82149dbf61bc3df1ad3ca4b689676729a311bd4c7b2c1dfb72",
+   "kind": "captured-window",
+   "source": {
+    "capture": "docs/evidence/fleet-personnel-persons.png",
+    "sha256": "005fb8b10aab37c147b6e3a21665b7a634de669137f8c1fb6c0cc50a18477d38",
+    "crop": [
+     376,
+     216,
+     264,
+     200
+    ]
+   },
+   "blanked": [
+    [
+     380,
+     244,
+     240,
+     166
+    ]
+   ],
+   "rows": {
+    "x": 384,
+    "y": 248,
+    "w": 232,
+    "h": 16,
+    "count": 10
+   },
+   "occupationX": 504
+  },
+  {
+   "id": "fleet-crew-pool",
+   "path": "images/fleet-crew-pool.png",
+   "width": 112,
+   "height": 72,
+   "origin": [
+    480,
+    56
+   ],
+   "sha256": "98940466aabc7f8189b4cd802c5b3bf2a621ed32478ceb2f42647c123baccd16",
+   "kind": "captured-window",
+   "source": {
+    "capture": "docs/evidence/fleet-crew-list.png",
+    "sha256": "b4c1503de57a887110439a023f328fdb09d4e8a190483ce18e411838d45538ac",
+    "crop": [
+     480,
+     56,
+     112,
+     72
+    ]
+   },
+   "blanked": [
+    [
+     484,
+     60,
+     100,
+     60
+    ]
+   ],
+   "title": [
+    496,
+    72
+   ],
+   "valueRight": 568,
+   "valueY": 96
+  },
+  {
+   "id": "fleet-frame",
+   "path": "images/fleet-frame.png",
+   "kind": "captured-window-frame",
+   "width": 20,
+   "height": 24,
+   "corner": 8,
+   "parts": {
+    "tl": [
+     0,
+     0,
+     8,
+     8
+    ],
+    "tr": [
+     8,
+     0,
+     8,
+     8
+    ],
+    "bl": [
+     0,
+     8,
+     8,
+     8
+    ],
+    "br": [
+     8,
+     8,
+     8,
+     8
+    ],
+    "top": [
+     16,
+     0,
+     2,
+     8
+    ],
+    "bottom": [
+     18,
+     0,
+     2,
+     8
+    ],
+    "left": [
+     0,
+     16,
+     8,
+     2
+    ],
+    "right": [
+     8,
+     16,
+     8,
+     2
+    ]
+   },
+   "sha256": "3dbe79b36b2e55c8fda12157100dfa202010b68b95078c7445fa14ed67dde9f3",
+   "source": {
+    "capture": "docs/evidence/fleet-crew-list.png",
+    "sha256": "b4c1503de57a887110439a023f328fdb09d4e8a190483ce18e411838d45538ac",
+    "crop": [
+     120,
+     72,
+     344,
+     96
+    ]
+   },
+   "verification": {
+    "borderMismatches": 0,
+    "edgePeriod": 2
+   }
+  },
+  {
+   "id": "fleet-scrollbar",
+   "path": "images/fleet-scrollbar.png",
+   "kind": "captured-scrollbar",
+   "width": 16,
+   "height": 176,
+   "origin": [
+    624,
+    240
+   ],
+   "sha256": "37e22450a2c4be33a2122d44402402289f09fa6edfd63ae9b92815ea7f20ba0a",
+   "source": {
+    "capture": "docs/evidence/fleet-personnel-persons.png",
+    "sha256": "005fb8b10aab37c147b6e3a21665b7a634de669137f8c1fb6c0cc50a18477d38",
+    "crop": [
+     624,
+     240,
+     16,
+     176
+    ]
+   }
+  },
+  {
+   "id": "menu-list-sailors",
+   "path": "images/menu-list-sailors.png",
+   "kind": "captured-window",
+   "width": 240,
+   "height": 200,
+   "sha256": "810c822258e1bbff40bf3cacb6ea4594ace4ae791ee3f3e611a3b798f1b99ddb",
+   "source": {
+    "capture": "docs/evidence/fleet-hire-ship-list.png",
+    "sha256": "b02fdf3577a518fde2a389f10ce0a76213b8c901e6d320bdf74a641119d1edb1",
+    "crop": [
+     400,
+     152,
+     240,
+     200
+    ]
+   },
+   "blanked": [
+    [
+     404,
+     180,
+     620,
+     347
+    ]
+   ]
+  },
+  {
+   "id": "sailor-panel",
+   "path": "images/sailor-panel.png",
+   "kind": "captured-window",
+   "width": 368,
+   "height": 152,
+   "sha256": "e557bafdb9cfc59a66f7518e4b2bd52c9c78f803af4724fb9cfb9536b05127d2",
+   "source": {
+    "capture": "docs/evidence/fleet-hire-ship-quantity.png",
+    "sha256": "0a3c206118529c9641c7111a6da982b826e5694da8d881fa35922f05d3253d6d",
+    "crop": [
+     104,
+     176,
+     368,
+     152
+    ]
+   },
+   "blanked": [
+    [
+     120,
+     200,
+     256,
+     312
+    ],
+    [
+     272,
+     184,
+     432,
+     312
+    ]
+   ]
+  }
+ ],
+ "sailors": {
+  "titles": [
+   [],
+   [
+    146,
+    200,
+    170,
+    185
+   ],
+   [
+    154,
+    197,
+    170,
+    185,
+    146,
+    200
+   ],
+   [
+    170,
+    185,
+    146,
+    200
+   ],
+   [
+    154,
+    197,
+    150,
+    68,
+    170,
+    185
+   ],
+   [
+    150,
+    68,
+    170,
+    185
+   ],
+   [
+    146,
+    204,
+    170,
+    185
+   ],
+   [
+    149,
+    51,
+    170,
+    185
+   ],
+   [
+    152,
+    141,
+    170,
+    185
+   ],
+   [
+    146,
+    251,
+    170,
+    185
+   ]
+  ],
+  "femaleTitles": [
+   [
+    147,
+    204,
+    147,
+    224
+   ],
+   [
+    146,
+    200,
+    157,
+    253
+   ],
+   [
+    165,
+    146,
+    163,
+    98,
+    150,
+    249
+   ],
+   [
+    156,
+    212,
+    152,
+    119,
+    150,
+    249
+   ],
+   [
+    152,
+    48,
+    150,
+    136
+   ],
+   [
+    172,
+    233,
+    147,
+    122
+   ],
+   [
+    146,
+    202,
+    172,
+    233,
+    147,
+    122
+   ],
+   [
+    149,
+    101,
+    152,
+    141
+   ],
+   [
+    154,
+    156,
+    153,
+    221
+   ],
+   [
+    146,
+    202,
+    154,
+    156,
+    153,
+    221
+   ]
+  ],
+  "source": "MAIN DS:082A and0884, ten nine-byte title rows each",
+  "sourceSha256": "5854c3fc79c53e7cdb7c6ed70ed5eb01d251786a886060c6846d468453a499bc"
+ }
+}

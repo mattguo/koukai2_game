@@ -1,0 +1,14 @@
+{
+  "sourceMainSha256": "5854c3fc79c53e7cdb7c6ed70ed5eb01d251786a886060c6846d468453a499bc",
+  "sourceDriverSha256": "eec697595070ee6aae0fdd520e27e4e5849f5123584e1c3a99171f4b845418fe",
+  "initialCaptureSha256": "965e0020f8b0559097c33ed7e95f0682f03fc06613531728f4fff5ce8866c954",
+  "initialSeed": 3077050666,
+  "portFlags": 255,
+  "timerUnits": 8,
+  "pitFrequencyHz": 1193182,
+  "pitDivisor": 4096,
+  "accumulatorIncrement": 53,
+  "accumulatorWrap": 256,
+  "scope": "Original port idle-loop NPC update countdown derived from MAIN2b966/116a8 and FMDRV IRQ8. Fixed browser cadence excludes CPU/render overhead; exact wall-clock parity remains unmeasured.",
+  "stepMs": 133.88066531342244
+}

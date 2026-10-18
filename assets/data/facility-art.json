@@ -1,0 +1,179 @@
+{
+ "version": 1,
+ "image": {
+  "id": "facility-headers",
+  "path": "images/facility-headers.png",
+  "sha256": "83bb523078c437e141a0c5fb64e8a42e54e86e2c025060bf222165e725aa6b98"
+ },
+ "origin": [
+  104,
+  56
+ ],
+ "frames": {
+  "0": {
+   "x": 0,
+   "y": 0,
+   "w": 136,
+   "h": 112,
+   "member": 6,
+   "verified": true
+  },
+  "1": {
+   "x": 136,
+   "y": 0,
+   "w": 136,
+   "h": 112,
+   "member": 7,
+   "verified": true
+  },
+  "2": {
+   "x": 272,
+   "y": 0,
+   "w": 136,
+   "h": 112,
+   "member": 8,
+   "verified": true
+  },
+  "3": {
+   "x": 408,
+   "y": 0,
+   "w": 136,
+   "h": 112,
+   "member": 9,
+   "verified": true
+  },
+  "4": {
+   "x": 0,
+   "y": 112,
+   "w": 136,
+   "h": 112,
+   "member": 10,
+   "verified": false
+  },
+  "5": {
+   "x": 136,
+   "y": 112,
+   "w": 136,
+   "h": 112,
+   "member": 11,
+   "verified": false
+  },
+  "6": {
+   "x": 272,
+   "y": 112,
+   "w": 136,
+   "h": 112,
+   "member": 12,
+   "verified": false
+  },
+  "7": {
+   "x": 408,
+   "y": 112,
+   "w": 136,
+   "h": 112,
+   "member": 13,
+   "verified": true
+  },
+  "8": {
+   "x": 0,
+   "y": 224,
+   "w": 136,
+   "h": 112,
+   "member": 14,
+   "verified": false
+  },
+  "9": {
+   "x": 136,
+   "y": 224,
+   "w": 136,
+   "h": 112,
+   "member": 15,
+   "verified": false
+  },
+  "10": {
+   "x": 272,
+   "y": 224,
+   "w": 136,
+   "h": 112,
+   "member": 16,
+   "verified": true
+  },
+  "11": {
+   "x": 408,
+   "y": 224,
+   "w": 136,
+   "h": 112,
+   "member": 17,
+   "verified": false
+  },
+  "12": {
+   "x": 0,
+   "y": 336,
+   "w": 136,
+   "h": 112,
+   "member": 18,
+   "verified": false
+  },
+  "13": {
+   "x": 136,
+   "y": 336,
+   "w": 136,
+   "h": 112,
+   "member": 19,
+   "verified": false
+  },
+  "14": {
+   "x": 272,
+   "y": 336,
+   "w": 136,
+   "h": 112,
+   "member": 20,
+   "verified": false
+  },
+  "15": {
+   "x": 408,
+   "y": 336,
+   "w": 136,
+   "h": 112,
+   "member": 21,
+   "verified": false
+  }
+ },
+ "source": {
+  "name": "GRAPH.DAT",
+  "members": "6..21",
+  "sha256": "bbb0762c1452e56d40aebdcc9c03763159b6146b5aecdb904dbeaad9555b720a"
+ },
+ "verification": {
+  "0": {
+   "capture": "docs/evidence/menus-market.png",
+   "mismatches": 0,
+   "note": "exact"
+  },
+  "1": {
+   "capture": "docs/evidence/menus-tavern.png",
+   "mismatches": 0,
+   "note": "exact"
+  },
+  "2": {
+   "capture": "docs/evidence/shipyard-menu.png",
+   "mismatches": 2275,
+   "note": "pointer/palette-phase entries only"
+  },
+  "3": {
+   "capture": "docs/evidence/menus-harbor.png",
+   "mismatches": 0,
+   "note": "exact"
+  },
+  "7": {
+   "capture": "docs/evidence/scenario-initialization-home-first.png",
+   "mismatches": 0,
+   "note": "exact"
+  },
+  "10": {
+   "capture": "docs/evidence/facility-church-original.png",
+   "mismatches": 3,
+   "note": "pointer/palette-phase entries only"
+  }
+ }
+}

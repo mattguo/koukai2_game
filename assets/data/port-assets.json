@@ -1,0 +1,495 @@
+{
+ "version": 1,
+ "assets": [
+  {
+   "id": "port-chip-s0-p0",
+   "path": "images/port-chip-s0-p0.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "699a865254ed96e2d46ed825409e05014a66547955e56801fd1d8a66b277881a",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 0,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 0"
+   }
+  },
+  {
+   "id": "port-chip-s0-p1",
+   "path": "images/port-chip-s0-p1.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "477350a6fd706e33e4467625527c40d5caa28b6d335d1c44243d72516b4b45c4",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 0,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 1"
+   }
+  },
+  {
+   "id": "port-chip-s0-p2",
+   "path": "images/port-chip-s0-p2.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "e509092803580d056f243e2694661f5758ed58f074e5717118152d72d8ada96f",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 0,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 2"
+   }
+  },
+  {
+   "id": "port-chip-s0-p3",
+   "path": "images/port-chip-s0-p3.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "cd549e6276a586123896728abd3d2f723641a117c4907eb314e0de7bf8e94d1d",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 0,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 3"
+   }
+  },
+  {
+   "id": "port-chip-s0-p4",
+   "path": "images/port-chip-s0-p4.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "d97fbf97043b3eb8b8392f7b26280b8db46285d213b738b19ff34d5371a18041",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 0,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 4"
+   }
+  },
+  {
+   "id": "port-chip-s1-p0",
+   "path": "images/port-chip-s1-p0.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "33c05d2007f7139e4c8d2a6a7ad585a62343fc207370550ac79cd54168e49d51",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 2,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 0"
+   }
+  },
+  {
+   "id": "port-chip-s1-p1",
+   "path": "images/port-chip-s1-p1.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "053572052cafa93a5502fcb31075cb33dc8dfcc242a5eafed5d138c388a6ebfd",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 2,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 1"
+   }
+  },
+  {
+   "id": "port-chip-s1-p2",
+   "path": "images/port-chip-s1-p2.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "fdcc45584765a1e839fb5da54bc02870359da82957c84040a9ca53cdf7a7e2c4",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 2,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 2"
+   }
+  },
+  {
+   "id": "port-chip-s1-p3",
+   "path": "images/port-chip-s1-p3.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "849180f4b784a2da05bc823d36db235180ad92741025ada21194b2737c20cb25",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 2,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 3"
+   }
+  },
+  {
+   "id": "port-chip-s1-p4",
+   "path": "images/port-chip-s1-p4.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "51a2c1971a62db5afe533c1d4b8d13698cf0e1cb2dfea811f405f00d6df39614",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 2,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 4"
+   }
+  },
+  {
+   "id": "port-chip-s2-p0",
+   "path": "images/port-chip-s2-p0.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "61ed59ef5c1d6aab9e73ba6084468f02169e9db8c6dd3265be43b40240e97a0f",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 4,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 0"
+   }
+  },
+  {
+   "id": "port-chip-s2-p1",
+   "path": "images/port-chip-s2-p1.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "eb9a6382d8c2595852671f306bf4c912097d8967325f3b446b74749f90159cc2",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 4,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 1"
+   }
+  },
+  {
+   "id": "port-chip-s2-p2",
+   "path": "images/port-chip-s2-p2.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "ba172109611a911fb8a6e7a84d87d1227c30416c61fbd6592bf81e2eec0ca735",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 4,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 2"
+   }
+  },
+  {
+   "id": "port-chip-s2-p3",
+   "path": "images/port-chip-s2-p3.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "0016105ce34495688a854fc970dd013ffe4f4f5e3f62dedccbe1b263a054db1f",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 4,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 3"
+   }
+  },
+  {
+   "id": "port-chip-s2-p4",
+   "path": "images/port-chip-s2-p4.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "e02e3c83b9f1df4132a95c34d0df3a37cbaad3da5e4e895ca24cf7da33fa864a",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 4,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 4"
+   }
+  },
+  {
+   "id": "port-chip-s3-p0",
+   "path": "images/port-chip-s3-p0.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "cd183eb2a1b32c8f7045e38fffc4935b7a3c122e9ff5153aaad2666981ba9ab8",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 6,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 0"
+   }
+  },
+  {
+   "id": "port-chip-s3-p1",
+   "path": "images/port-chip-s3-p1.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "ccb81da4e117701345d9edf7d5c6092ce6c15c2634fa9e7c8d2ad2f3f3bc0dc7",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 6,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 1"
+   }
+  },
+  {
+   "id": "port-chip-s3-p2",
+   "path": "images/port-chip-s3-p2.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "00a2fa1b84727619f7562a7ae7b48d6988b8e0018e8cddf5ffad3b433eba4561",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 6,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 2"
+   }
+  },
+  {
+   "id": "port-chip-s3-p3",
+   "path": "images/port-chip-s3-p3.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "d0ab3dee1fc44a45cbd08683738e8dc81c63780cbb108a01a1ca50ca8e59dd8e",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 6,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 3"
+   }
+  },
+  {
+   "id": "port-chip-s3-p4",
+   "path": "images/port-chip-s3-p4.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "861ef412b8fab41158a096b70702af6cc15433b2a7c8c5e58a4768cb97f758a9",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 6,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 4"
+   }
+  },
+  {
+   "id": "port-chip-s4-p0",
+   "path": "images/port-chip-s4-p0.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "165540b51979e96b3ef9c8bb3a8a04a088478a8303004c6b82cf1151b22ec1a7",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 8,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 0"
+   }
+  },
+  {
+   "id": "port-chip-s4-p1",
+   "path": "images/port-chip-s4-p1.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "2868adf58eb26ea367dd2f8344a7730d66a548db85bbd4b7451c13e1d2ae7d87",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 8,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 1"
+   }
+  },
+  {
+   "id": "port-chip-s4-p2",
+   "path": "images/port-chip-s4-p2.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "f7fc1a678b51f8e1b42289b14c46454279f163cf08fa077af2511963a0056e66",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 8,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 2"
+   }
+  },
+  {
+   "id": "port-chip-s4-p3",
+   "path": "images/port-chip-s4-p3.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "19e6734c950785c6439c6ea188d924fbed7e0880fd9c1c6b711a43e38af18c78",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 8,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 3"
+   }
+  },
+  {
+   "id": "port-chip-s4-p4",
+   "path": "images/port-chip-s4-p4.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "55ed00513335522441e5cb6c0455beed729254e47e682ed750f6d15f99c4a767",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 8,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 4"
+   }
+  },
+  {
+   "id": "port-chip-s5-p0",
+   "path": "images/port-chip-s5-p0.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "4c75b32aba79c46eee597201c3b9caa47516d9d4d2c5513552edd48c4dcd3d71",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 10,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 0"
+   }
+  },
+  {
+   "id": "port-chip-s5-p1",
+   "path": "images/port-chip-s5-p1.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "9e84664a2e47ee237c833fa8af4df8989f70c5b48b9ab62a9de0334e5f1ef215",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 10,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 1"
+   }
+  },
+  {
+   "id": "port-chip-s5-p2",
+   "path": "images/port-chip-s5-p2.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "acd852ca68b50647b338cbeae654c31e6bb0a1d589282ee7e5982d90c162de4e",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 10,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 2"
+   }
+  },
+  {
+   "id": "port-chip-s5-p3",
+   "path": "images/port-chip-s5-p3.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "d953321a2fd10c19b65e97e95a3a7160fb8dd983c46e187df86296d45bf75b64",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 10,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 3"
+   }
+  },
+  {
+   "id": "port-chip-s5-p4",
+   "path": "images/port-chip-s5-p4.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "2a93b4b1e48d52267a871f4915c0b518f76e35de080363ad68ee69b39ccbeb20",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 10,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 4"
+   }
+  },
+  {
+   "id": "port-chip-s6-p0",
+   "path": "images/port-chip-s6-p0.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "6364694a1f6d0bf29c4ff8e6832339bb6eed2c80c779595fae648db44330e28a",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 12,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 0"
+   }
+  },
+  {
+   "id": "port-chip-s6-p1",
+   "path": "images/port-chip-s6-p1.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "f6432f8500035b0601b18165d5e99f7783ff4d670e94c7d833a23dd50258ba21",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 12,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 1"
+   }
+  },
+  {
+   "id": "port-chip-s6-p2",
+   "path": "images/port-chip-s6-p2.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "241c515fadca773c2dedc7a542f080d15ea28d74bceaebb58dbd88257c2ed529",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 12,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 2"
+   }
+  },
+  {
+   "id": "port-chip-s6-p3",
+   "path": "images/port-chip-s6-p3.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "cd7da6f90ed255da9986d0449831a4d494f93715cdb8886e5f0234cf430e515f",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 12,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 3"
+   }
+  },
+  {
+   "id": "port-chip-s6-p4",
+   "path": "images/port-chip-s6-p4.png",
+   "kind": "tile-atlas",
+   "width": 256,
+   "height": 240,
+   "sha256": "cd80645c58ede21f6ec4452997489a7d8c4fbc0478fe4daed23c84922c76f44c",
+   "source": {
+    "name": "PORTCHIP.LZW",
+    "member": 12,
+    "sha256": "e3c5253c12dc24d3e3d8fa8294d4160a116601ba67ebb4190e49c64cd37cc95b",
+    "palette": "MAIN DS:A4AC entry 4"
+   }
+  }
+ ]
+}
