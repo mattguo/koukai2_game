@@ -7,6 +7,13 @@
     "sha256": "965e0020f8b0559097c33ed7e95f0682f03fc06613531728f4fff5ce8866c954",
     "memoryRanges": [
       {
+        "offset": 48390,
+        "length": 92,
+        "role": "runtime goods-name pointers DS:BD06,46 words into DS:42..147 (SNR0 field type19; authenticated first-port capture)",
+        "hex": "420047004c00510058005d00620067006c00710078007d00840089008e0095009c00a100a600ab00b000b500bc00c300ca00d100d600db00e000e500ea00f100f600fb0002010901100117011c01210126012d013201390142014701",
+        "sha256": "1ab882d4fc63a4e4568cbe43cc99f7936a0acc11ab24879fae7722c2cf91e21a"
+      },
+      {
         "offset": 2012,
         "length": 16,
         "role": "cannon-type load weights (MAIN0x15DB1, fleet/cargo editor)",
