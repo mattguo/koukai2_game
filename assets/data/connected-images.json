@@ -1447,8 +1447,8 @@
       "kind": "captured-acknowledgement",
       "width": 16,
       "height": 16,
-      "sha256": "78a27c5d2aed85fa51682625a5206118ee1c53ddc79ded52495bcafdc15cc99b",
-      "transparent": false,
+      "sha256": "003409f40c48a2f1c9fa58eb5bd9db97cb546a2e98d99ee5d0b269535290b8b5",
+      "transparent": true,
       "source": {
         "capture": "docs/evidence/scenario-initialization-home-first.png",
         "sha256": "3bfbbb920ed5297b892daa15799423cea37a85bdb19aca2d141288024ec201cf",
@@ -1457,9 +1457,14 @@
           256,
           16,
           16
+        ],
+        "transparentColor": [
+          243,
+          227,
+          211
         ]
       },
-      "confidence": "originalC7visibleframe; capturedfixture"
+      "confidence": "originalC7visibleframe; cream panel fill keyed transparent"
     },
     {
       "id": "connected-portrait-15",
