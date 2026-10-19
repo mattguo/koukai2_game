@@ -7,6 +7,13 @@
     "sha256": "965e0020f8b0559097c33ed7e95f0682f03fc06613531728f4fff5ce8866c954",
     "memoryRanges": [
       {
+        "offset": 45606,
+        "length": 38,
+        "role": "palace power report format and regional divisors DS:B226..B24B (MAIN39EB1/39FE7)",
+        "hex": "252d313673202020253364252520202020202534642020202020253464000403030203010101",
+        "sha256": "ea04952befd167193397323c2f31e509334ab13d2b6fd68e66d43b4d22546a93"
+      },
+      {
         "offset": 44709,
         "length": 51,
         "role": "price-sheet header and row format strings DS:AEA5..AED7 (MAIN351A2)",
