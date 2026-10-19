@@ -7,6 +7,13 @@
     "sha256": "965e0020f8b0559097c33ed7e95f0682f03fc06613531728f4fff5ce8866c954",
     "memoryRanges": [
       {
+        "offset": 44709,
+        "length": 51,
+        "role": "price-sheet header and row format strings DS:AEA5..AED7 (MAIN351A2)",
+        "hex": "1b43369d4e98c19474202020a847a6a32020a1b8a6a31b433000252d3130730025356400202d2d2d2d00253564002025356400",
+        "sha256": "794d26448251dd9548123e5598ae99fa82088c0ddcba512e4dc080492c8ad556"
+      },
+      {
         "offset": 48390,
         "length": 92,
         "role": "runtime goods-name pointers DS:BD06,46 words into DS:42..147 (SNR0 field type19; authenticated first-port capture)",

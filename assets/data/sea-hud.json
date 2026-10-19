@@ -76,6 +76,38 @@
     ],
     "note": "arrow pointing south (current direction 4 at the capture); other directions are rotated approximations"
    }
+  },
+  {
+   "id": "port-compass",
+   "path": "images/port-compass.png",
+   "width": 160,
+   "height": 48,
+   "sha256": "498bab2136b97e05af6f3bb76e818c0deb8eff854a3d5ee13486a2b8c5f2c42a",
+   "source": {
+    "name": "DATA1.LZW",
+    "member": 6,
+    "sha256": "00e9bcbeff65a5978d26c902715d1fc29b0a3f073c45153080e22267376f2572"
+   },
+   "verification": {
+    "normalPixelsCompared": 3840,
+    "mismatches": 0,
+    "scope": "Normal patches match decoded GRAPH member 3; highlighted states are source-decoded, not runtime compared."
+   }
+  },
+  {
+   "id": "sea-compass",
+   "path": "images/sea-compass.png",
+   "width": 288,
+   "height": 64,
+   "sha256": "66e229dda664ae02307ef85fd764e517329a62a0af1bbd971812f0de5d836148",
+   "source": {
+    "name": "DATA1.LZW",
+    "member": 7,
+    "sha256": "00e9bcbeff65a5978d26c902715d1fc29b0a3f073c45153080e22267376f2572"
+   },
+   "verification": {
+    "scope": "Source-decoded patches; no new original runtime comparison."
+   }
   }
  ]
 }
